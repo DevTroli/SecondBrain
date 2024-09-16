@@ -11,11 +11,10 @@
             "id": "5e14df0d4d588486",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Django/Setup Django.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/Setup Django.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django/Setup Django.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Django/Setup Django.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,11 +150,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75843b304773add4",
+  "active": "5e14df0d4d588486",
   "lastOpenFiles": [
+    "Django/Setup Django.md",
     "TECH's STUDY/Second-Brain.md.git",
     "TECH's STUDY",
-    "Django/Setup Django.md",
     "Django",
     "Test on Obsidian.md",
     "2024-09-16.md",
