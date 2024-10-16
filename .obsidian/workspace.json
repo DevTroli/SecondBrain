@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d2adfd63afd25991",
+        "id": "4cb6d5607a2fe323",
         "type": "tabs",
         "children": [
           {
-            "id": "5e14df0d4d588486",
+            "id": "46b180773d045360",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "canvas",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "1 - Temporario/GIT & GITHUB.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": -0.4
+                }
               }
             }
           }
@@ -47,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#daily",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 239.5,
+    "collapsed": true
   },
   "right": {
     "id": "ee79e258ecb84199",
@@ -84,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1 - Temporario/GIT & GITHUB.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1 - Temporario/GIT & GITHUB.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,52 +124,83 @@
             }
           },
           {
-            "id": "888686211fa9af4f",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
             "id": "90f392d49b3cc90e",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "888686211fa9af4f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1 - Temporario/GIT & GITHUB.canvas"
+              }
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 347.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "5e14df0d4d588486",
+  "active": "46b180773d045360",
   "lastOpenFiles": [
-    "Django/Setup Django.md",
-    "TECH's STUDY/Second-Brain.md.git",
-    "TECH's STUDY",
-    "Django",
-    "Test on Obsidian.md",
-    "2024-09-16.md",
-    "Untitled/Untitled.md",
-    "Untitled 5.md",
-    "Untitled 4.md",
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "Untitled 1.md"
+    "1 - Temporario/Django.canvas",
+    "1 - Temporario/GIT & GITHUB.canvas",
+    "2 -  Materiais de referencia/Artigos/DJANGO HISTORY.md",
+    "2 -  Materiais de referencia/Artigos/UNDERSTAND DJANGO.md",
+    "2 -  Materiais de referencia/Artigos/ROAD MAPS DJANGO.md",
+    "2 -  Materiais de referencia/Artigos/PYTESTS.md",
+    "2 -  Materiais de referencia/Artigos/SEMANTIC COMMIT WITH EMOJIS.md",
+    "3 - Tags/Daily.md",
+    "2 -  Materiais de referencia/Artigos/DJANGO REST (FRAMEWORK DE API).md",
+    "2 -  Materiais de referencia/Artigos/DJANGO ADVANCE.md",
+    "1 - Temporario/REST_API.canvas",
+    "1 - Temporario/REST-ARCHTECTURE_TWITTER.canvas",
+    "2 -  Materiais de referencia/Artigos/DJANGO ARCHTECTURE MTV.md",
+    "1 - Temporario/Como usar essa pasta?.md",
+    "1 - Temporario/Untitled.md",
+    "2 -  Materiais de referencia/Artigos/DJANGO VIRTUAL ENVIRONMENT.md",
+    "2 -  Materiais de referencia/Artigos/SECURITY IN DJANGO.md",
+    "2 -  Materiais de referencia/Artigos/PROJECT STRUCTURE DJANGO.md",
+    "2 -  Materiais de referencia/Artigos/WHY DJANGO?.md",
+    "2 -  Materiais de referencia/Como usar essa pasta?.md",
+    "4 - Indexes/Como usar essa pasta?.md",
+    "1 - Temporario/17-09-2024.md",
+    "5 - templates/Daily.md",
+    "5 - templates/Workflow Folders.md",
+    "3 - Tags/Como usar essa pasta?.md",
+    "6 - Anotações/Como usar essa pasta?.md",
+    "6 - Anotações/H.md",
+    "6 - Anotações/1 - Temporario.md",
+    "6 - Anotações/Temporario.md",
+    "2 -  Materiais de referencia/Assets",
+    "6 - Anotações",
+    "5 - templates",
+    "4 - Indexes",
+    "3 - Tags",
+    "2 -  Materiais de referencia/Outros",
+    "2 -  Materiais de referencia/Vídeos & Podcasts",
+    "2 -  Materiais de referencia/Livros",
+    "2 -  Materiais de referencia/Artigos",
+    "2 -  Materiais de referencia"
   ]
 }

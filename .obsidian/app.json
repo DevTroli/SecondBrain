@@ -1,4 +1,12 @@
 {
   "vimMode": true,
-  "promptDelete": false
+  "promptDelete": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "6 - Anotações",
+  "trashOption": "system",
+  "attachmentFolderPath": "2 -  Materiais de referencia/Assets",
+  "showLineNumber": false,
+  "tabSize": 3,
+  "showIndentGuide": false,
+  "showInlineTitle": true
 }

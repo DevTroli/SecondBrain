@@ -1,3 +1,5 @@
 {
-  "format": "DD-MM-YYYY"
+  "format": "DD-MM-YYYY",
+  "template": "5 - templates/Daily-Template",
+  "folder": "1 - Temporario"
 }
