@@ -8,5 +8,6 @@
   "showLineNumber": false,
   "tabSize": 3,
   "showIndentGuide": false,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "alwaysUpdateLinks": true
 }

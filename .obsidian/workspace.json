@@ -4,25 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "4cb6d5607a2fe323",
+        "id": "2f5ee4eb0be6db99",
         "type": "tabs",
         "children": [
           {
-            "id": "46b180773d045360",
+            "id": "949cd3299b4424c6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "1 - Temporario/GIT & GITHUB.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": -0.4
-                }
-              }
+                "file": "2 -  Materiais de referencia/Artigos/DOTFILES.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DOTFILES"
+            }
+          },
+          {
+            "id": "ba1684a52f4790a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 -  Materiais de referencia/Vídeos & Podcasts/GIT.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GIT"
+            }
+          },
+          {
+            "id": "513d1e615ef73b32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 -  Materiais de referencia/Artigos/GIST.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GIST"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -42,7 +73,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -51,13 +84,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#daily",
+                "query": "tag:#bestpractices",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -65,15 +100,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 239.5,
-    "collapsed": true
+    "width": 239.5
   },
   "right": {
     "id": "ee79e258ecb84199",
@@ -89,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Temporario/GIT & GITHUB.canvas",
+                "file": "2 -  Materiais de referencia/Artigos/GIT PULL REQUEST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +133,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for GIT PULL REQUEST"
             }
           },
           {
@@ -106,10 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Temporario/GIT & GITHUB.canvas",
+                "file": "2 -  Materiais de referencia/Artigos/GIT PULL REQUEST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from GIT PULL REQUEST"
             }
           },
           {
@@ -120,7 +160,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -128,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -137,8 +181,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Temporario/GIT & GITHUB.canvas"
-              }
+                "file": "2 -  Materiais de referencia/Artigos/GIT PULL REQUEST.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of GIT PULL REQUEST"
             }
           }
         ]
@@ -161,37 +207,37 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "46b180773d045360",
+  "active": "ba1684a52f4790a1",
   "lastOpenFiles": [
+    "2 -  Materiais de referencia/Artigos/GIST.md",
+    "2 -  Materiais de referencia/Vídeos & Podcasts/GIT.md",
+    "2 -  Materiais de referencia/Artigos/GIT LFS.md",
+    "2 -  Materiais de referencia/Artigos/GIT REFLOG.md",
+    "2 -  Materiais de referencia/Artigos/DOTFILES.md",
+    "2 -  Materiais de referencia/Artigos/GIT - Plumbing & Porcelain.md",
+    "1 - Temporario/GIT.canvas",
     "1 - Temporario/Django.canvas",
-    "1 - Temporario/GIT & GITHUB.canvas",
-    "2 -  Materiais de referencia/Artigos/DJANGO HISTORY.md",
-    "2 -  Materiais de referencia/Artigos/UNDERSTAND DJANGO.md",
-    "2 -  Materiais de referencia/Artigos/ROAD MAPS DJANGO.md",
-    "2 -  Materiais de referencia/Artigos/PYTESTS.md",
-    "2 -  Materiais de referencia/Artigos/SEMANTIC COMMIT WITH EMOJIS.md",
-    "3 - Tags/Daily.md",
-    "2 -  Materiais de referencia/Artigos/DJANGO REST (FRAMEWORK DE API).md",
-    "2 -  Materiais de referencia/Artigos/DJANGO ADVANCE.md",
-    "1 - Temporario/REST_API.canvas",
-    "1 - Temporario/REST-ARCHTECTURE_TWITTER.canvas",
-    "2 -  Materiais de referencia/Artigos/DJANGO ARCHTECTURE MTV.md",
-    "1 - Temporario/Como usar essa pasta?.md",
-    "1 - Temporario/Untitled.md",
-    "2 -  Materiais de referencia/Artigos/DJANGO VIRTUAL ENVIRONMENT.md",
-    "2 -  Materiais de referencia/Artigos/SECURITY IN DJANGO.md",
-    "2 -  Materiais de referencia/Artigos/PROJECT STRUCTURE DJANGO.md",
+    "2 -  Materiais de referencia/Artigos/GIT GC.md",
+    "2 -  Materiais de referencia/Artigos/GIT RESET, REVERT & CHECKOUT.md",
+    "2 -  Materiais de referencia/Artigos/GIT - SQUASH COMMITS INTO ONE COMMIT.md",
+    "6 - Anotações/Pull Request - how to be good.md",
+    "5 - templates/Post Blog.md",
+    "6 - Anotações/Untitled.md",
+    "2 -  Materiais de referencia/Artigos/PULL REQUEST.md",
     "2 -  Materiais de referencia/Artigos/WHY DJANGO?.md",
-    "2 -  Materiais de referencia/Como usar essa pasta?.md",
-    "4 - Indexes/Como usar essa pasta?.md",
-    "1 - Temporario/17-09-2024.md",
-    "5 - templates/Daily.md",
-    "5 - templates/Workflow Folders.md",
-    "3 - Tags/Como usar essa pasta?.md",
     "6 - Anotações/Como usar essa pasta?.md",
-    "6 - Anotações/H.md",
-    "6 - Anotações/1 - Temporario.md",
-    "6 - Anotações/Temporario.md",
+    "5 - templates/Workflow Folders.md",
+    "5 - templates/Script Youtube.md",
+    "2 -  Materiais de referencia/Artigos/GIT WORKFLOW.md",
+    "3 - Tags/Como usar essa pasta?.md",
+    "2 -  Materiais de referencia/Artigos/GIT LOG.md",
+    "2 -  Materiais de referencia/Artigos/GIT REFS.md",
+    "2 -  Materiais de referencia/Artigos/PYTESTS.md",
+    "2 -  Materiais de referencia/Artigos/ROAD MAPS DJANGO.md",
+    "1 - Temporario/REST-ARCHTECTURE_TWITTER.canvas",
+    "1 - Temporario/REST_API.canvas",
+    "2 -  Materiais de referencia/Artigos/DOTFILES WITH GIT.md",
+    "2 -  Materiais de referencia/Artigos/DJANGO VIRTUAL ENVIRONMENT.md",
     "2 -  Materiais de referencia/Assets",
     "6 - Anotações",
     "5 - templates",
