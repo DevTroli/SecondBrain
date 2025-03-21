@@ -10,7 +10,7 @@ Git Garbage Collection (GC) é um processo de manutenção que otimiza seu repos
 ## Funcionamento Básico
 
 ### Coleta Automática
-O [[GIT]] executa GC automaticamente quando:
+O [[2 -  Materiais de referencia/Vídeos & Podcasts/GIT]] executa GC automaticamente quando:
 - Você faz commits
 - Executa merges
 - Realiza rebases

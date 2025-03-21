@@ -1,7 +1,7 @@
 # Gerenciamento Eficiente de Arquivos Grandes nos Projetos
 
 ## O que é Git LFS (Large File Storage)?
-Git LFS é uma extensão do [[GIT]] que permite o versionamento eficiente de arquivos grandes, especialmente útil para equipes que trabalham com:
+Git LFS é uma extensão do [[2 -  Materiais de referencia/Vídeos & Podcasts/GIT]] que permite o versionamento eficiente de arquivos grandes, especialmente útil para equipes que trabalham com:
 - Arquivos Figma/Sketch (.fig, .sketch)
 - Assets de UI/UX em alta resolução
 - Protótipos interativos

@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"ff3e865e93daa40a","type":"text","text":"# Qual anotação devo fazer?","x":-161,"y":106,"width":300,"height":99},
+		{"id":"5a9f01e10356332e","type":"text","text":"Assistindo aula","x":-252,"y":314,"width":182,"height":50},
+		{"id":"7c98b501899fc4fe","type":"text","text":"Ideias & Reflexões","x":17,"y":309,"width":205,"height":60},
+		{"id":"7ae58dbca544e25e","type":"text","text":"[[GUIA PARA BOAS ANOTAÇÕES#Anotação Rápida | ANOTAÇÃO RÁPIDA]]","x":-138,"y":538,"width":215,"height":61},
+		{"id":"0d04ea314681c3d7","type":"text","text":"Tentando entender um tópico","x":222,"y":130,"width":288,"height":51},
+		{"id":"992911caff61eaaf","type":"text","text":"Decoreba","x":-449,"y":126,"width":140,"height":60},
+		{"id":"1382606e83b38620","type":"text","text":"[[GUIA PARA BOAS ANOTAÇÕES#Rascunho| RASCUNHO]]","x":627,"y":124,"width":156,"height":60},
+		{"id":"b32727869487cdaf","type":"text","text":"Organizar as informações que já foram aprendidas","x":-151,"y":-86,"width":276,"height":77},
+		{"id":"cd6fc8a1814953e4","type":"text","text":"[[GUIA PARA BOAS ANOTAÇÕES#Flash-Card| FLASH-CARDS]]","x":-783,"y":124,"width":179,"height":60},
+		{"id":"7b4bf1ea62e53b61","type":"text","text":"[[GUIA PARA BOAS ANOTAÇÕES#Anotação Final| ANOTAÇÃO FINAL]]","x":-114,"y":-271,"width":202,"height":60}
+	],
+	"edges":[
+		{"id":"fa1cee04f4a17c52","fromNode":"ff3e865e93daa40a","fromSide":"bottom","toNode":"5a9f01e10356332e","toSide":"top"},
+		{"id":"15de24e28f879e30","fromNode":"ff3e865e93daa40a","fromSide":"bottom","toNode":"7c98b501899fc4fe","toSide":"top"},
+		{"id":"7b341021a12d7ad0","fromNode":"5a9f01e10356332e","fromSide":"bottom","toNode":"7ae58dbca544e25e","toSide":"top"},
+		{"id":"cf2121ad2c58c319","fromNode":"7c98b501899fc4fe","fromSide":"bottom","toNode":"7ae58dbca544e25e","toSide":"top"},
+		{"id":"5980f8131a9c9225","fromNode":"ff3e865e93daa40a","fromSide":"right","toNode":"0d04ea314681c3d7","toSide":"left"},
+		{"id":"b0ec92e6f9923fdf","fromNode":"ff3e865e93daa40a","fromSide":"left","toNode":"992911caff61eaaf","toSide":"right"},
+		{"id":"631ca904d93dd05a","fromNode":"992911caff61eaaf","fromSide":"left","toNode":"cd6fc8a1814953e4","toSide":"right"},
+		{"id":"96ffc595f2a77a66","fromNode":"0d04ea314681c3d7","fromSide":"right","toNode":"1382606e83b38620","toSide":"left"},
+		{"id":"9acb3d4717ffe5f0","fromNode":"ff3e865e93daa40a","fromSide":"top","toNode":"b32727869487cdaf","toSide":"bottom"},
+		{"id":"725805b4aa10d570","fromNode":"b32727869487cdaf","fromSide":"top","toNode":"7b4bf1ea62e53b61","toSide":"bottom"}
+	]
+}
