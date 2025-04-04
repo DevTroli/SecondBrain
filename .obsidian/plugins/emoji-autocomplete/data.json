@@ -4,6 +4,7 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "cinema",
     "writing_hand"
   ],
   "highlightMatches": true,

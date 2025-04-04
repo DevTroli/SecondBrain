@@ -10,7 +10,7 @@
 2. "Advanced Pull Request Workflows: A Deep Technical Guide"
 3. "Mastering Pull Requests: From Basic Commits to Complex Workflows"
 
-**Tags:** #development #git #pullrequests #coding #bestpractices #collaboration
+**Tags:** #development #git #coding #bestpractices #collaboration
 **Categories:** Software Development, Version Control, Git
 
 ## 🎯 Introduction

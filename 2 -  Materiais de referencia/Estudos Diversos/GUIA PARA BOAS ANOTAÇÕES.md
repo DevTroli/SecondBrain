@@ -2,9 +2,8 @@
 
 Status: #done 
 
-Tags: [[Learning]]
 # Porque anotar?
-Eu me conhecendo bem sei de que eu tenho altas tendencias para esquecer as coisas em minha vida, logo sei que o melhor jeito de reter meu aprendizados do dia é anotando tudo que eu puder anotar pois no geral o cérebro não muito confiável ainda mais o meu, pois é um fato que em 1 hr de aula eu consigo reter no máximo de 15 - 20 mins de conteúdo (só absorver 1/5 de uma aula é muito pouco não é? ).
+Eu me conhecendo bem sei de que eu tenho altas tendencias para esquecer as coisas em minha vida, logo sei que o melhor jeito de reter meu aprendizados do dia é anotando tudo que eu puder anotar pois no geral o cérebro não é muito confiável ainda mais o meu, pois é um fato que em 1 hr de aula eu consigo reter no máximo de 15 - 20 mins de conteúdo (só absorver 1/5 de uma aula é muito pouco não é? ).
 
 Isso se da porque é difícil fazer contas ou resolver problemas intelectuais sem um objeto de anotação tal qual papel & caneta. Porém isso é intrínseco na evolução intelectual que sempre dependeu de anotações para evoluir sua lógica e intelecto, como por exemplo:
 - pedrinhas para contar 

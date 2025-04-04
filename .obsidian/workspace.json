@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ad3d0d213544e455",
+        "id": "7fe20adf807e0155",
         "type": "tabs",
         "children": [
           {
-            "id": "1d0965f3437827a9",
+            "id": "189cff3fcffebdfc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 -  Materiais de referencia/Estudos Diversos/ROADMAP HISTÓRIA DOS MUSICAIS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ROADMAP HISTÓRIA DOS MUSICAIS"
+              "title": "New tab"
             }
           }
         ]
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 306.5
   },
   "right": {
     "id": "ee79e258ecb84199",
@@ -186,50 +172,51 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1d0965f3437827a9",
+  "active": "189cff3fcffebdfc",
   "lastOpenFiles": [
-    "2 -  Materiais de referencia/Estudos Diversos/GUIA PARA BOAS ANOTAÇÕES.md",
-    "2 -  Materiais de referencia/Estudos Diversos/MÉTODO INVESTIGATIVO.md",
-    "2 -  Materiais de referencia/Estudos Diversos/REVISÕES COM MAESTRIA.md",
-    "2 -  Materiais de referencia/Estudos Diversos/ROADMAP HISTÓRIA DOS MUSICAIS.md",
-    "6 - Anotações/CINEMA!.md",
-    "6 - Anotações/CINEMA_API(TMDB).md",
-    "6 - Anotações/CINEMA_rascunho.md",
-    "6 - Anotações/Projeto Z.md",
-    "1 - Temporario/REST-ARCHTECTURE_TWITTER.canvas",
-    "2 -  Materiais de referencia/Vídeos & Podcasts/GIT.md",
-    "1 - Temporario/REST_API.canvas",
-    "2 -  Materiais de referencia/Artigos/GIT RESET, REVERT & CHECKOUT.md",
-    "1 - Temporario/GIT.canvas",
-    "2 -  Materiais de referencia/Artigos/GIT WORKFLOW.md",
-    "4 - Index/GIT.md",
-    "2 -  Materiais de referencia/Planos de Estudos/Lista de estudos.md",
-    "2 -  Materiais de referencia/Planos de Estudos/Sistema de pontuação FATEC.md",
-    "2 -  Materiais de referencia/Livros/Projeto B.U.B.A.md",
-    "2 -  Materiais de referencia/Planos de Estudos/1° Semana.md",
+    "3 - Projects/CINEMA!/0.Central/Planejamento.md",
+    "3 - Projects/CINEMA!/0.Central/Dashboard.md",
+    "3 - Projects/CINEMA!/4.Recursos-Utilitarios/Rascunho Aprendendo com a concorrência.md",
+    "3 - Projects/CINEMA!/4.Recursos-Utilitarios/Rascunho de Pesquisas de mercado.md",
+    "3 - Projects/CINEMA!/4.Recursos-Utilitarios/Aprendendo com a concorrência.md",
+    "3 - Projects/CINEMA!/3.Docs/Pesquisas-Mercadológicas/Perfil dos Usuários.md",
+    "3 - Projects/CINEMA!/0.Central/CineScale.md",
+    "3 - Projects/CINEMA!/3.Docs/Pesquisas-Mercadológicas/Análise SWOT.md",
+    "3 - Projects/CINEMA!/3.Docs/Pesquisas-Mercadológicas/Esboço Modelo de Negócio.md",
+    "3 - Projects/CINEMA!/3.Docs/Pesquisas-Mercadológicas/Priorização Inicial (MoSCoW).md",
+    "3 - Projects/CINEMA!/3.Docs/Pesquisas-Mercadológicas/Posicionamento Estratégico.md",
+    "3 - Projects/CINEMA!/3.Docs/Pesquisas-Mercadológicas/Identificação de Diferencias no Mercado.md",
+    "3 - Projects/CINEMA!/3.Docs/Pesquisas-Mercadológicas",
+    "3 - Projects/CINEMA!/3.Docs/DOCS TECNICA CINETAB.md",
+    "3 - Projects/CINEMA!/2.Planejamentos/Progresso-Semanal/Semana 0.md",
+    "1 - Temporario/Letterboxd.canvas",
+    "1 - Temporario/Untitled.md",
+    "3 - Projects/CINEMA!/2.Planejamentos/Progresso-Semanal/Semana Teste.md",
+    "6 - Anotações/Untitled.md",
+    "6 - Anotações/Issue Inseption (CineTab).md",
+    "2 -  Materiais de referencia/Fragmentos/Issue Inception.md",
+    "3 - Projects/CINEMA!/4.Recursos-Utilitarios",
+    "3 - Projects/CINEMA!/0.Central/Diretrizes CineTab.md",
+    "3 - Projects/CINEMA!/3.Docs/DOCS TECNICA CINEMA!.md",
+    "3 - Projects/CINEMA!/3.Docs",
+    "3 - Projects/CINEMA!/Untitled.md",
+    "3 - Projects/CINEMA!/2.Planejamentos",
+    "3 - Projects/CINEMA!/1.Desenvolvimento/CineTab.art.md",
+    "3 - Projects/CINEMA!/1.Desenvolvimento",
+    "3 - Projects/CINEMA!/0.Central",
+    "5 - templates/Meta Semanal.md",
+    "6 - Anotações/PROJECT CINEMA!/Planejamento-Semanal/Semana 1.md",
+    "3 - Projects/CINEMA!/CINEMA_API(TMDB).md",
+    "3 - Projects/CINEMA!/2.Planejamentos/Progresso-Semanal",
+    "3 - Projects/CINEMA!",
     "1 - Temporario/Quando-Anotar.canvas",
-    "6 - Anotações/Twelve-Factor App.md",
-    "3 - Tags/Learning.md",
-    "6 - Anotações/Complete Evolution of Infrastructure.md",
-    "6 - Anotações/THE RISE OF GIT.md",
+    "2 -  Materiais de referencia/Estudos Diversos/CINEMA",
+    "1 - Temporario/REST_API.canvas",
+    "1 - Temporario/REST-ARCHTECTURE_TWITTER.canvas",
+    "1 - Temporario/GIT.canvas",
     "1 - Temporario/INFRAESTRUTURA-DEVOPS.canvas",
     "1 - Temporario/Django.canvas",
-    "5 - templates/Artigos.md",
-    "5 - templates/Post Blog.md",
-    "2 -  Materiais de referencia/Estudos Diversos/Preparos ENEM 2025.md",
     "2 -  Materiais de referencia/Estudos Diversos",
-    "5 - templates/Plano de Estudos.md",
-    "4 - Index/DOCKER.md",
-    "6 - Anotações/Docker - The Rise and Fall.md",
-    "1 - Temporario/Docker.canvas",
-    "2 Materiais de referencia/Artigos",
-    "2 Materiais de referencia",
-    "2 - Materiais de referencia/Artigos",
-    "2 - Materiais de referencia",
-    "2 -  Materiais de referencia/Artigos/Untitled",
-    "2 -  Materiais de referencia/Assets",
-    "6 - Anotações",
-    "5 - templates",
-    "4 - Index"
+    "1 - Temporario/Docker.canvas"
   ]
 }

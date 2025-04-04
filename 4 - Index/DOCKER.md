@@ -66,4 +66,4 @@
 - [[Docker Commands]] ↔ [[Docker Compose]]
 - [[Docker Network]] ↔ [[Docker Volumes]]
 - [[Docker Swarm]] → [[Docker Network]]
-- [[Understanding Docker Inside]] → Todos os outros tópicos
+- [[Understanding docker inside]] → Todos os outros tópicos

@@ -1,8 +1,6 @@
 09/10/2024 | 10:30 A.M
 
 Status: #done 
-
-Tags: [[Software Development]], [[Version Control]], [[DevOps]]
 ## Git Basics: Entendendo o Sistema de Controle de Versão e Seu Fluxo de Trabalho
 
 O Git é uma das ferramentas mais importantes para desenvolvedores modernos, usado para gerenciar alterações em projetos e facilitar o trabalho colaborativo. Desenvolvido por Linus Torvalds em 2005, o Git se destaca como um sistema de controle de versão distribuído. Cada desenvolvedor possui uma cópia completa do histórico do projeto em sua máquina local, possibilitando o rastreamento detalhado das mudanças e uma gestão mais robusta de código.

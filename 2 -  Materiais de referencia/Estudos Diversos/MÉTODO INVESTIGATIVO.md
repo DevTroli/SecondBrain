@@ -2,8 +2,6 @@
 
 Status: #done 
 
-Tags: [[Learning]]
-
 # 🔍 De Zero a Detetive: Hackeando estudos com o Método Investigativo
 
 ## 🎯 Introdução ao Método

@@ -13,6 +13,7 @@
 
 ## 🔍Visualização & Navegação
 - [[GIT REFS]] (O que são e como funcionam as referências no Git)
+- [[GIT DIFF]] (Vendo a diferença entre os commits pela diferença deles)
 - [[GIT REFLOG]] (Recuperando referências perdidas com o git reflog)
 - [[GIT LOG]] (Comandos para visualizar o histórico de commits)
 

@@ -1,0 +1,4 @@
+- **Receitas Éticas**:  
+  - **Doações**: Banner transparente ("Ajude a manter as luzes acesas ☕") com metas públicas .  
+  - **Parcerias com Festivais**: Espaço para promoção de curtas em troca de CineCoins (não dinheiro) .  
+  - **Merchandise**: Camisetas com frases icônicas da comunidade (ex: *"Sobrevivi a um debate sobre Zack Snyder"*) .  

@@ -1,2 +1,1 @@
-- [[REST API]] | [[REST_API.canvas|REST-API GUIDE]]
-- 
+- [[REST API]] 
