@@ -19,7 +19,7 @@
 ## CineFlow:
 ```mermaid
 graph TD
-A[CineFlow Progress] --> B[Fase 0: Concepção - 120★]
+A[CineFlow Progress] --> B[Fase 0: Concepção - 70★]
 A --> C[Fase 1: CineTab - 850★]
 A --> D[Fase 2: CINEMA! MVP - 1500★]
 C --> C0[M0: Em construção - 40★]
@@ -53,36 +53,36 @@ D --> D3[Integrações - 500★]
 > - Refinar o sistema de CineCoins para recompensar contribuições técnicas (ex: tutoriais de roteiro).  
 
 
-# 🚀 Fase 0:  Planejamentos Iniciais (120★)
+# 🚀 Fase 0:  Planejamentos Iniciais (70★)
 
 ## Análise de Mercado ( 15★ )
 - [x] Pesquisa de concorrentes diretos e indiretos ( 7★)
-- [ ] Identificação de diferencias no mercado ( 8★ )
+- [x] Identificação de diferencias no mercado ( 8★ )
 
 ## Idealização ( 15★ )
-- [ ] Posicionamento Estratégico ( 5★ )
-- [ ] Priorização inicial (MoSCoW: Must, Should, Could, Won't) ( 5★)
-- [ ] Esboço do modelo de negócio ( 5★ )
+- [x] Posicionamento Estratégico ( 5★ )
+- [x] Priorização inicial (MoSCoW: Must, Should, Could, Won't) ( 5★)
+- [x] Esboço do modelo de negócio ( 5★ )
 
 ## Proposta de Valor ( 15★ )
-- [ ] Fazer Analise SWOT [Forças, Fraquezas, Oportunidades e Ameaças] (8 ★)
-- [ ] Perfil dos usuários [Tarefas, dores e ganhos] ( 7★ )
+- [x] Fazer Analise SWOT [Forças, Fraquezas, Oportunidades e Ameaças] (8 ★)
+- [x] Perfil dos usuários [Tarefas, dores e ganhos] ( 7★ )
 
----
-# 📊 Fase 1: cinetab.art (850★)
-
-## Planejamento Inicial
-- [ ] Definição da stack tecnológica preliminar
-- [ ] Estimativa macro de recursos necessários
+## Passos Iniciais (10★)
+- [x] Definição da stack tecnológica preliminar
+- [x] Estimativa macro de recursos necessários
 - [x] Definição de milestones principais
-## Definição do Escopo do CineTab.art
+## Definição do Escopo do CineTab.art (15★)
 - [x] Definir a estrutura inicial do projeto no GitHub
 - [x] Realizar um [[Issue Inception]]
-- [ ] Constituir as diretrizes e filosofias do projeto
-### (Opcional) Design
+- [x] Constituir as diretrizes e filosofias do projeto
+### [Opcional] Design
 - [ ] Wireframes das telas principais
 - [ ] Design system minimalista
 - [ ] Protótipo de baixa fidelidade
+
+---
+# 📊 Fase 1: cinetab.art (850★)
 
 ## Desenvolvimento (700★)
 - [ ] [Milestone 0: Em construção (40★)](https://github.com/DevTroli/CineTab.art/milestone/1)

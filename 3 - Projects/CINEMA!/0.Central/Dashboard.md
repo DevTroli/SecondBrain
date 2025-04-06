@@ -1,7 +1,7 @@
 # Dashboard  [[CINEMA!]]
 
 > **Última atualização:** 02/04/2025  
-> [[Semana 0]]
+> [[Semana 1]]
 
 
 # 📊 Status CineScale
@@ -37,11 +37,11 @@ pie
 - **Estratégia de crescimento** - Como validar o conceito com número mínimo de usuários?
 
 ## 🔗 Links Essenciais
-- [[Diretrizes CineTab| Filosofia do CineTab]] - Princípios norteadores do fórum minimalista
-- [[DOCS TECNICA CINETAB#STACK ESCOLHIDA# |Stack Tecnológica CineTab]] - Decisões técnicas para o MVP
+- [[Diretrizes CineTab|Filosofia do CineTab]] - Princípios norteadores do fórum
+- [[DOCS TECNICA CINETAB#**Stack Escolhida** |STACK ESCOLHIDA DO CINETAB]]- Decisões técnicas para o MVP
 - [[DOCS TECNICA CINETAB#FUNCIONALIDADES DEFINIDAS|Funcionalidades Principais do CineTab]] - Lista principal de recursos para o MVP
-- [[Aprendendo com a concorrência| Análise do Letterboxd & similares]] - O que aprender e o que evitar diante há concorrência
-- [[Planejamento | Roadmap CineTab → CINEMA!]] - Caminho de evolução planejado
+- [[Aprendendo com a concorrência|Análise do Letterboxd & similares]] - O que aprender e o que evitar diante há concorrência
+- [[Planejamento |Roadmap CineTab → CINEMA!]] - Caminho de evolução planejado
 
 ## 📝 Notas Rápidas
 > O CineTab deve focar na simplicidade e qualidade das discussões, não em recursos
@@ -49,5 +49,3 @@ pie
 > Priorizar texto sobre imagens - manter o espírito de fóruns clássicos
 >
 > Referência de UX: HackerNews + características próprias para discussão de cinema
-
-Para detalhes técnicos, consulte [[DOCS TECNICA CINETAB#STACK ESCOLHIDA]] e [[Planejamento | Roadmap CineTab → CINEMA!]].
