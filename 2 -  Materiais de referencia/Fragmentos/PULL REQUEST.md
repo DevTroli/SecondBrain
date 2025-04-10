@@ -43,7 +43,7 @@ git push origin fix-login-bug
 - Approved
 - Changes requested
 - Rejected
-- 
+
 ## When to Create a PR
 
 Create a Pull Request when:

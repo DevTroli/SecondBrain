@@ -1,57 +1,75 @@
-# Planejamento do Projeto: [[CINEMA!]]
-
-## 🌐 Visão Geral
-- **Descrição:** [Uma breve descrição do seu projeto de software]
-- **Objetivo Principal:** [O problema que seu software resolve]
-- **Público-Alvo:** [Quem são os usuários principais]
-- **Proposta de Valor:** [O que diferencia seu software da concorrência]
-
-## 📝 Meta-Informações
-- **Data de Início:** 02-04-2025
+---
+status:
+  - Em planejamento
+start-date: 2025-04-02
+responsible: Troli
+---
+### 📝 Meta-Informações
 - **Prazo Estimado para MVP:** Indefinido
 - **Prazo Estimado para V1.0:** Sem perspectiva
-- **Responsável Principal:** Troli
 - **Repositório:** [CineTab](https://github.com/DevTroli/CineTab.art) &  futuramente projeto CINEMA!
 - **Documentação Técnica:** [[DOCS TECNICA CINEMA!]] & [Documentação CineTab](https://github.com/DevTroli/CineTab.art/blob/main/README.md)
 
+## 🌐 Visão Geral
+### **📌 Descrição**  
+O **CINEMA!** & CineTab são **plataformas de discussão cinematográfica**, Aqui, o foco é **debater filmes como arte**, não como produto, em um ambiente livre de elitismo e engajamento forçado.  
+
+### **🎯 Objetivo Principal**  
+Resolver a **degradação das discussões sobre cinema** em redes sociais tradicionais, onde:  
+✔ **Críticas são reduzidas a notas** (IMDb, Letterboxd).  
+✔ **Debates são polarizados** (Reddit, Twitter).  
+✔ **Conteúdo é otimizado para algoritmos**, não para pessoas.  
+
+### **👥 Público-Alvo**  
+| Tipo de Usuário          | Necessidade                                           | Como o CINEMA! Atende                             |
+| ------------------------ | ----------------------------------------------------- | ------------------------------------------------- |
+| **Casuais**              | Falar sobre filmes sem julgamento.                    | Sem hierarquia de "críticos vs. leigos".          |
+| **Críticos Aspirantes**  | Espaço para análises profundas, não apenas hot takes. | Tags como `#AnáliseProfunda` e debates técnicos.  |
+| **Estudantes de Cinema** | Aprender com discussões reais, não apenas teoria.     | Seção `#PorTrásDasCâmeras` com insights práticos. |
+
+### **💎 Proposta de Valor**  
+| Diferencial            | CINEMA! vs. Concorrentes                              |
+| ---------------------- | ----------------------------------------------------- |
+| **Sem Notas/Rankings** | Nada de "5 estrelas" ou TOP 10. Só texto e discussão. |
+| **Anti-Gamificação**   | CineCoins recompensam **qualidade**, não volume.      |
+| **Moderação Orgânica** | Comunidade autoregulada, sem censura centralizada.    |
+| **Acesso Universal**   | Não precisa ser "expert" para participar.             |
+
+## **⚠️ Riscos & Mitigações**  
+| Risco                                        | Mitigação                                                                        |
+| -------------------------------------------- | -------------------------------------------------------------------------------- |
+| **Baixo engajamento inicial**                | Parceria com micro-influencers de cinema (Sites/YouTube).                        |
+| **Dependência de moderação voluntária**      | Ferramentas de IA para detectar discurso de ódio (sem banir opiniões polêmicas). |
+| **Concorrência de plataformas consolidadas** | Focar em nichos ignorados (ex: filmes regionais).                                |
+
 ---
-## Progressão CineFlow & CineScale
-## CineFlow:
-```mermaid
-graph TD
-A[CineFlow Progress] --> B[Fase 0: Concepção - 70★]
-A --> C[Fase 1: CineTab - 850★]
-A --> D[Fase 2: CINEMA! MVP - 1500★]
-C --> C0[M0: Em construção - 40★]
-C --> C1[M1: Fundação - 80★]
-C --> C2[M2: Auth & Users - 100★]
-C --> C3[M3: Posts - 120★]
-C --> C4[M4: CineCoins - 150★]
-C --> C5[M5: Lançamento - 120★]
-C --> C6[M6: Otimização & Segurança - 140★]
-C --> C7[M7: Revenue share - 100★]
-D --> D1[Core - 600★]
-D --> D2[Mobile - 400★]
-D --> D3[Integrações - 500★]
-```
+## Progressão CineScale
 ### Progresso Organico com [[CineScale]] 
 ![[CineScale#O que é o CineScale?##]]
 
 
-## Resumo do planejamento do projeto 
-1. **Pré-MVP: CineTab  (4 meses)**:  
-   - Lançar versão básica com posts, comentários e sistema de CineCoins. 
-2. MVP: CINEMA! (6 Meses)
-  - lançar Web & app do conceito da aplicação CINEMA 
-3. **Fase 2 (6 meses)**:  
-   - Integrar API do TMDb para autocompletar dados de filmes.  
-4. **Fase 3 (12 meses)**:  
-   - Parcerias com festivais nacionais (ex: Festival de Gramado).  
+## Planejamento bem resumido do MVP cinetab.art.br 
+#### **🚀 Fase 1: MVP (0-4meses)**  
+- **Funcionalidades Críticas:**  
+  - Posts em Markdown + sistema de tags (`#Crítica`, `#Debate`).  
+  - CineCoins básico (ganhar/gastar).  
+  - Moderação por votação (5 reports = ocultação).  
+- **Métricas de Sucesso:**  
+  - 500 usuários ativos/mês.  
+  - 70% dos posts com mais de 3 comentários.  
 
-> **Próximos Passos**:  
-> - Validar MVP com micro-influencers de cinema.
-> - Refinar o sistema de CineCoins para recompensar contribuições técnicas (ex: tutoriais de roteiro).  
+#### **🛠 Fase 2: Consolidação (4-10 meses)**  
+- **Novas Features:**
+  - Salas de debate ao vivo (integração com WebSockets).  
+  - Badges de reconhecimento (`🎬 Crítico do Povo`).  
+- **Parcerias:**  
+  - Festivais universitários (ex: FACINE) para curadoria colaborativa.  
 
+#### **🌍 Fase 3: Expansão (6-12 meses)**  
+- **CineTab EDU:** Cursos gratuitos financiados por CineCoins.  
+- **Licenciamento de Dados:** Relatórios anônimos para pesquisas acadêmicas.  
+
+---
 
 # 🚀 Fase 0:  Planejamentos Iniciais (70★)
 
@@ -88,7 +106,7 @@ D --> D3[Integrações - 500★]
 - [ ] [Milestone 0: Em construção (40★)](https://github.com/DevTroli/CineTab.art/milestone/1)
   - [x] Prettier (5★)
   - [x] EditorConfig (4★)
-  - [ ] Domínio .com.br (6★)
+  - [x] Domínio .com.br (6★)
   - [ ] Programar pagina "Em construção" (20★)
   - [x] Estilização código (15★)
 

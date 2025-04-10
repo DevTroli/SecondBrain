@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7fe20adf807e0155",
+        "id": "cffef1c8e4c8e38f",
         "type": "tabs",
         "children": [
           {
-            "id": "f011e892da84abb8",
+            "id": "23963778df690f14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Projects/CINEMA!/0.Central/Planejamento.md",
+                "file": "4 - Index/DEVOPS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,93 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Planejamento"
-            }
-          },
-          {
-            "id": "03b5ece8dd1bcb72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Projects/CINEMA!/0.Central/Dashboard.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Dashboard"
-            }
-          },
-          {
-            "id": "a851c49a2c74ff71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Projects/CINEMA!/0.Central/Diretrizes CineTab.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Diretrizes CineTab"
-            }
-          },
-          {
-            "id": "c64a582eb4967f72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Projects/CINEMA!/2.Planejamentos/Progresso-Semanal/Semana 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Semana 1"
-            }
-          },
-          {
-            "id": "bc57e6971d59e095",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "DEVOPS"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -269,41 +186,42 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a851c49a2c74ff71",
+  "active": "23963778df690f14",
   "lastOpenFiles": [
-    "3 - Projects/CINEMA!/0.Central/Planejamento.md",
-    "3 - Projects/CINEMA!/0.Central/Dashboard.md",
-    "3 - Projects/CINEMA!/0.Central/Diretrizes CineTab.md",
-    "3 - Projects/CINEMA!/2.Planejamentos/Progresso-Semanal/Semana 1.md",
-    "3 - Projects/CINEMA!/2.Planejamentos/Progresso-Semanal/Semana 0.md",
-    "3 - Projects/CINEMA!/3.Docs/DOCS TECNICA CINETAB.md",
-    "3 - Projects/CINEMA!/4.Recursos-Utilitarios/Aprendendo com a concorrência.md",
-    "3 - Projects/CINEMA!/3.Docs/Untitled.md",
-    "3 - Projects/CINEMA!/4.Recursos-Utilitarios/Erros Letterboxd.md",
-    "3 - Projects/CINEMA!/3.Docs/Pesquisas-Mercadológicas/Posicionamento Estratégico.md",
-    "3 - Projects/CINEMA!/3.Docs/Pesquisas-Mercadológicas/Análise SWOT.md",
-    "3 - Projects/CINEMA!/3.Docs/Pesquisas-Mercadológicas/Esboço Modelo de Negócio.md",
-    "3 - Projects/CINEMA!/3.Docs/Pesquisas-Mercadológicas/Priorização Inicial (MoSCoW).md",
-    "3 - Projects/CINEMA!/3.Docs/Pesquisas-Mercadológicas/Identificação de Diferencias no Mercado.md",
-    "3 - Projects/CINEMA!/3.Docs/Pesquisas-Mercadológicas/Perfil dos Usuários.md",
-    "3 - Projects/CINEMA!/4.Recursos-Utilitarios/Rascunho Aprendendo com a concorrência.md",
-    "3 - Projects/CINEMA!/4.Recursos-Utilitarios/Rascunho de Pesquisas de mercado.md",
-    "3 - Projects/CINEMA!/0.Central/CineScale.md",
+    "2 -  Materiais de referencia/Fragmentos/Hospedagem de código.md",
+    "4 - Index/DEVOPS.md",
+    "2 -  Materiais de referencia/Fragmentos/Repositórios.md",
+    "2 -  Materiais de referencia/Fragmentos/CI & CD.md",
+    "4 - Index/GIT.md",
+    "2 -  Materiais de referencia/Fragmentos/Client -> Servidor.md",
+    "2 -  Materiais de referencia/Fragmentos/GIT IGNORE.md",
+    "2 -  Materiais de referencia/Fragmentos/GIT WORKFLOW.md",
+    "4 - Index/APIs e Protocolos.md",
+    "4 - Index/APRENDIZADOS.md",
+    "4 - Index/CINEMA.md",
+    "4 - Index/Como usar essa pasta?.md",
+    "4 - Index/DJANGO.md",
+    "4 - Index/DOCKER.md",
+    "4 - Index/RUBY.md",
+    "2 -  Materiais de referencia/Fragmentos/Docker Compose.md",
+    "2 -  Materiais de referencia/Fragmentos/Docker Commands.md",
+    "6 - Anotações/What's Containers?.md",
+    "2 -  Materiais de referencia/Fragmentos/Initial Setup on Docker.md",
+    "2 -  Materiais de referencia/Fragmentos/Why Docker?.md",
+    "6 - Anotações/Complete Evolution of Infrastructure.md",
+    "6 - Anotações/Docker - The Rise and Fall.md",
+    "2 -  Materiais de referencia/Fragmentos/Ruby Data types.md",
+    "2 -  Materiais de referencia/Fragmentos/Ruby Variables.md",
+    "2 -  Materiais de referencia/Fragmentos/Ruby Objects.md",
+    "2 -  Materiais de referencia/Fragmentos/Ruby Style Guide.md",
+    "3 - Projects/CINEMA!/2.Planejamentos/Marketing-Digital",
     "3 - Projects/CINEMA!/3.Docs/Pesquisas-Mercadológicas",
     "1 - Temporario/Letterboxd.canvas",
-    "1 - Temporario/Untitled.md",
-    "6 - Anotações/Untitled.md",
-    "6 - Anotações/Issue Inseption (CineTab).md",
-    "2 -  Materiais de referencia/Fragmentos/Issue Inception.md",
     "3 - Projects/CINEMA!/4.Recursos-Utilitarios",
-    "3 - Projects/CINEMA!/3.Docs/DOCS TECNICA CINEMA!.md",
     "3 - Projects/CINEMA!/3.Docs",
-    "3 - Projects/CINEMA!/Untitled.md",
     "3 - Projects/CINEMA!/2.Planejamentos",
-    "3 - Projects/CINEMA!/1.Desenvolvimento/CineTab.art.md",
     "3 - Projects/CINEMA!/1.Desenvolvimento",
     "3 - Projects/CINEMA!/0.Central",
-    "5 - templates/Meta Semanal.md",
     "3 - Projects/CINEMA!/2.Planejamentos/Progresso-Semanal",
     "3 - Projects/CINEMA!",
     "1 - Temporario/Quando-Anotar.canvas",
@@ -313,7 +231,6 @@
     "1 - Temporario/GIT.canvas",
     "1 - Temporario/INFRAESTRUTURA-DEVOPS.canvas",
     "1 - Temporario/Django.canvas",
-    "2 -  Materiais de referencia/Estudos Diversos",
     "1 - Temporario/Docker.canvas"
   ]
 }

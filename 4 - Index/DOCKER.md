@@ -1,69 +1,47 @@
-# Meus Artigos sobre
-- [[Docker - The Rise and Fall]]
-- [[Complete Evolution of Infrastructure]]
+# 🐳 Docker e Containerização
 
-## 🌟 Entry Points
+## 📚 Meus Artigos Fundamentais
+- [[Docker - The Rise and Fall]] - História e impacto da tecnologia
+- [[Complete Evolution of Infrastructure]] - Contextualização histórica
 
-### [[Why Docker?]]
-- Motivações fundamentais para adoção de Docker
-- Problemas que o Docker resolve
-- Benefícios da containerização
+## 🌟 Introdução e Fundamentos
+- [[Why Docker?]] - Benefícios e casos de uso da containerização
+- [[Initial Setup on Docker]] - Configuração inicial do ambiente
+- [[What's Containers?]] - Conceitos fundamentais e funcionamento interno
 
-### [[Initial Setup on Docker]]
-- Preparação do ambiente de desenvolvimento
-- Instalação inicial
-- Configurações básicas
-- Requisitos de sistema
+## 🧰 Tecnologias Core
+- [[Docker Commands]] - Comandos essenciais e operações básicas
+- [[Docker Compose]] - Orquestração de múltiplos containers
+- [[Docker Network]] - Configuração e gerenciamento de redes
+- [[Docker Volumes]] - Persistência e gerenciamento de dados
+- [[Docker Swarm]] - Clusters e orquestração nativa
 
-## 🧰 Core Technologies
+## 🔬 Aprofundamento Técnico
+- [[Docker Architecture]] - Estrutura interna e componentes
+- [[Docker Security]] - Proteção e boas práticas de segurança
+- [[Docker Performance]] - Otimização e monitoramento
+- [[Configuration Languages]] - Ferramentas para definição de infraestrutura
 
-### [[Docker Commands]]
-- Comandos essenciais
-- Sintaxe e uso prático
-- Manipulação de containers e imagens
+## 🛠️ Práticas Avançadas
+- [[Docker in Production]] - Estratégias para ambientes de produção
+- [[CI/CD with Docker]] - Integração em pipelines de desenvolvimento
+- [[Docker Complete Ecosystem]] - Ferramentas e integrações
 
-### [[Docker Compose]]
-- Definição de ambientes multi-container
-- Arquivos de configuração
-- Orquestração de serviços
+## 📈 Monitoramento e Observabilidade
+- [[Docker Monitoring]] - Estratégias e ferramentas
+- [[Docker Logs]] - Gestão e análise de logs
+- [[Docker Metrics]] - Métricas importantes e visualização
 
-### [[Docker Network]]
-- Modos de comunicação entre containers
-- Configurações de rede
-- Isolamento e conectividade
+## 🧩 Fluxo de Conhecimento
+```mermaid
+graph LR
+    A[Fundamentos] --> B[Tecnologias Core]
+    B --> C[Aprofundamento]
+    C --> D[Práticas Avançadas]
+    D --> E[Monitoramento]
+```
 
-### [[Docker Volumes]]
-- Persistência de dados
-- Tipos de volumes
-- Estratégias de armazenamento
-
-### [[Docker Swarm]]
-- Orquestração de containers
-- Clustering
-- Balanceamento de carga
-
-## 🔬 Deep Dive
-
-### [[What's Containers ?]]
-- Arquitetura interna
-- Namespaces
-- Cgroups
-- Funcionamento em baixo nível
-
-### [[Configuration Languages]]
-- Linguagens para definição de infraestrutura
-- Comparação entre ferramentas
-- Boas práticas
-
-### [[Docker Complete Ecosystem]]
-- Ferramentas relacionadas
-- Integrações
-- Tendências e evolução
-
-## 🔗 Conexões Principais
-
-- [[Why Docker?]] → [[Initial Setup on Docker]]
-- [[Docker Commands]] ↔ [[Docker Compose]]
-- [[Docker Network]] ↔ [[Docker Volumes]]
-- [[Docker Swarm]] → [[Docker Network]]
-- [[Understanding docker inside]] → Todos os outros tópicos
+## 🔄 Comparações e Migrações
+- [[Docker vs VMs]] - Diferenças entre containers e máquinas virtuais
+- [[Docker vs Kubernetes]] - Quando usar cada tecnologia
+- [[Migrating to Containers]] - Estratégias para migração de aplicações

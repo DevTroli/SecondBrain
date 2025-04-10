@@ -1,36 +1,49 @@
-Git is quite an awesome version control system. Why? Because it’s lightning fast, even for large projects (among other reasons).
+## **Git como Sistema de Controle de Versão Distribuído (SCVD)**  
+O Git é reconhecido como um **SCVD** (*Sistema de Controle de Versão Distribuído*). Em sistemas centralizados (como SVN), o fluxo exigia uma conexão constante entre **cliente -> servidor** (apenas online), onde:  
+- O servidor hospedava o repositório principal.  
+- Os desenvolvedores *checkout* (baixavam) arquivos para edição no cliente (software local).  
+- As alterações eram confirmadas **diretamente no servidor central**.  
 
-But, how do you use Git effectively for development on a daily basis? Let me explain to you.
+Já em um **SCVD como o Git**:  
+- **Não há dependência de um servidor central único**: cada desenvolvedor tem um [[Repositórios#**1. Repositório Local**|Repositório Local]] completo.  
+- O trabalho offline é possível: commits são feitos localmente e sincronizados posteriormente via `git push` (envio) ou `git pull` (atualização do [[Repositórios#**2. Repositório Remoto (Origin)**| Repositório Remoto]] )
 
-Branches
+---
 
-With git you normally have a ‘master’ branch. This is also the branch you use to sync your code with other repositories. That is also the reason why you should never code in the ‘master’ branch. Always create a new branch and develop your code there.
+## **Os 5 Estágios do Workflow do Git**  
+###### 1. **Modificação**:  
+   Ocorre quando arquivos do repositório são alterados (adição, remoção ou edição de código).  
+   - **Exemplo prático**: Editar `index.html` no editor de código.  
 
-$ git checkout -b new_feature
-# add, commit, repeat
-Rebase
+###### 2. **Preparação (Staging)**:  
+   Você seleciona quais mudanças serão incluídas no próximo commit, usando a *staging area*.  
+   - **Comando**:  
+     ```bash  
+     git add .              # Adiciona todas as mudanças  
+     git add arquivo.txt    # Adiciona um arquivo específico  
+     ```  
 
-Now, while you are working hard on your new feature, other developers complete theirs and push their changes to the remote master branch. When you’re done with your project, you need to first get the most recent version of the project’s code.
+###### 3. **Verificação**:  
+   Confirma se as mudanças estão na staging area e identifica arquivos não rastreados.  
+   - **Comandos**:  
+     ```bash  
+     git status            # Exibe o estado atual  
+     git diff --staged     # Mostra diferenças na staging area  
+     ```  
 
-$ git checkout master
-$ git pull
-Now, to make merging your new feature easy, you should rebase your new_feature_branch. What this does is add all the commits you just pulled in to your new_feature branch. Any conflicts that arise will happen in your new_feature branch as well, leaving your master branch clean and in order.
+###### 4. **Registro (Commit)**:  
+   Registra oficialmente as alterações no histórico do repositório local.  
+   - **Comando**:  
+     ```bash  
+     git commit -m "Adiciona funcionalidade X"  
+     ```  
+   - **Bônus**: Corrija o último commit com:  
+     ```bash  
+     git commit --amend    # Altera mensagem ou inclui arquivos esquecidos  
+     ```  
 
-$ git checkout new_feature
-$ git rebase master
-Merge
-
-Now, you have resolved all (if any) conflicts with the current code and your new_feature, you can now merge your new_feature into the project’s master branch without any problems.
-
-$ git checkout master
-$ git merge new_feature
-This will create a new commit, containing your new_feature. Now is also the time to push your changes to the remote repository.
-
-$ git push origin master
-What’s next?
-
-More often than not, you’ll encounter conflicts when running rebase. That’s okay, but you’ll need to know how to approach a situation like that. I’ll spend another blog post on that topic later.
-
-Need Git training?
-
-I’m currently available to provide on-location Git training. Please contact me for more info.
+###### 5. **Sincronização (Push)**:  
+   Envia os commits locais para o repositório remoto (ex: GitHub).  
+   ```bash  
+   git push origin main  
+   ```  

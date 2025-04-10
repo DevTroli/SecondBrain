@@ -1,4 +1,4 @@
-# Entendendo Comandos Plumbing e Porcelain no Git: Um Mergulho Profundo
+# Entendendo Comandos Plumbing e Porcelain
 
 ## Introdução
 

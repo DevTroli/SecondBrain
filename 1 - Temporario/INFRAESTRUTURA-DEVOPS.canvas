@@ -10,7 +10,7 @@
 		{"id":"c381d79c3b8bf820","type":"text","text":"Namespaces: responsáveis pelo isolamento de recursos do sistema. Esta tecnologia permite que cada container opere em seu próprio espaço isolado, com uma visão particular dos processos, redes e sistema de arquivos","x":-1133,"y":-1279,"width":369,"height":187},
 		{"id":"2acb5cd7296ab62c","type":"text","text":"Control Groups (cgroups): atuam no controle e limitação dos recursos físicos. Através deles, o Docker consegue gerenciar eficientemente o uso de CPU, memória e I/O de disco, assegurando que cada container respeite seus limites predefinidos de recursos.","x":-1660,"y":-1276,"width":418,"height":182},
 		{"id":"c5ed7ee8e9488f5c","type":"text","text":"UnionFS : proporciona um sistema de arquivos em camadas, permitindo que as imagens sejam leves e reutilizáveis. Este sistema inteligente compartilha camadas entre diferentes containers e armazena apenas as mudanças necessárias na camada superior, otimizando significativamente o uso de espaço em disco. ","x":-2270,"y":-1274,"width":497,"height":180},
-		{"id":"a325a4e2c6aff1aa","type":"text","text":"# [[DevOps]]","x":-59,"y":-13,"width":196,"height":81},
+		{"id":"a325a4e2c6aff1aa","type":"text","text":"# [[DEVOPS]]","x":-59,"y":-13,"width":196,"height":81},
 		{"id":"0bb28129a20cbcb2","type":"text","text":"### Hypervisors","x":-56,"y":-262,"width":190,"height":60},
 		{"id":"5648268c087b8b70","type":"text","text":"### Virtualização","x":-462,"y":-2,"width":214,"height":60},
 		{"id":"794345e8472ce9e5","type":"text","text":"Imagine poder dividir um servidor físico em várias máquinas virtuais independentes. É exatamente isso que os hypervisors fazem","x":-127,"y":-498,"width":333,"height":135},
