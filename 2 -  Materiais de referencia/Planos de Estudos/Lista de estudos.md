@@ -1,20 +1,109 @@
+Este é um cronograma **não tradicional** usando o modelo "Samurai do Ryo" adaptado para **2 meses**, priorizando o que realmente importa para ADS na FATEC PG (Matemática + Português = 40% da nota, Redação = 20%). Vamos focar em **ciclos curtos** e **revisões estratégicas**, eliminando burocracia:
+
+# Plano de Estudos FATEC
+
+### 🚀 **Estrutura do Cronograma Pista Rápida (8 semanas)**
+**Regra de Ouro:**  
+1. Estude **2 disciplinas por ciclo** (1 semana cada num total de duas)  
+2. Dedique **30 minutos diários à redação** (fixo na rotina)  
+3. Use **sábados e domingos para simulados** (provas anteriores da FATEC)  
+4. Dias de folga = revisão ativa (flashcards/apps como Anki)
+
+---
+
+### 📅 **Ciclos de Estudo (Foco em Alta Prioridade)**
+| Semana | Disciplina 1 (2hrs/dia)                   | Disciplina 2 (2hrs/dia)               | Ação-Chave                               |
+| ------ | ----------------------------------------- | ------------------------------------- | ---------------------------------------- |
+| **1**  | Matemática (Funções + Geometria)          | Raciocínio Lógico                     | Resolver 20 questões FATEC por dia       |
+| **2**  | Português (Interpretação + Gramática)     | Redação (Estrutura)                   | Fazer 2 redações temáticas               |
+| **3**  | Matemática (Álgebra + Probabilidade)      | Geografia (Cartografia + Geopolítica) | Criar mapas mentais visuais              |
+| **4**  | Português (Coesão + Figuras de Linguagem) | História (Brasil Contemporâneo)       | Gravar áudios ou fazer resumos           |
+| **5**  | Física (Cinemática + Leis de Newton)      | Inglês (Interpretação de Textos)      | Traduzir 1 artigo de tech/cinema por dia |
+| **6**  | Química (Reações + Química Orgânica)      | Biologia (Ecologia + Genética)        | Fazer esquemas em post-its               |
+| **7**  | **SIMULADOS** (Provas 2020-2023)          | Revisão de Erros                      | Priorizar TRI: acertos > tempo           |
+| **8**  | **Revisão Nuclear** (Mat+Port+Redação)    | Preenchimento de Lacunas              | Refazer 10 questões-chave/dia            |
+
+---
+
+### 💡 **Táticas Anti-Tradição (Para Não Quebrar a Rotina):**
+1. **Matemática = Caça aos 20%**  
+   - Foque em: Funções (35% das questões), Geometria Plana (25%), Probabilidade (15%).  
+   - Ignore: Matrizes avançadas, Trigonometria complexa.  
+
+2. **Redação = Estrutura > Conteúdo**  
+   - Esqueleto diário:  
+     ```plaintext
+     [Tese] + [2 argumentos com dados fictícios] + [Proposta social].  
+     Ex: "A automação exige requalificação profissional. Segundo o IBGE (2023), 40% dos brasileiros... Logo, empresas devem..."  
+     ```  
+   - Pratique 3 modelos prontos: Tecnologia, Educação, Sustentabilidade.  
+
+3. **Português = Questões FATEC**  
+   - 70% das questões são de interpretação + análise de charges/gráficos.  
+   - Treine com provas antigas (2019-2023) em vez de gramática profunda.  
+
+4. **Revisão Ativa em 15 Minutos Diários**  
+   - Use o método **"Feynman"**: explique um conceito para si mesmo como se ensinasse a uma criança.  
+   - Exemplo rápido:  
+     *"O que é função afim? É uma reta que mostra como y depende de x. Tipo: se eu vendo 10 celulares (x), meu lucro (y) é R$ 500. Se vender 20, R$ 1000. A fórmula é y = ax + b."*
+
+---
+
+### 🎯 **Priorização Radical (ADS FATEC PG):**
+| Disciplina       | O que Cortar | O que é Essencial |
+|------------------|--------------|--------------------|
+| **Matemática**   | Trigonometria avançada | Funções, Geometria, Probabilidade |
+| **Português**    | Literatura profunda | Interpretação de texto, coesão |
+| **Redação**      | Citações filosóficas | Estrutura dissertativa, proposta concreta |
+| **Geografia**    | Climatologia detalhada | Cartografia, geopolítica da tecnologia |
+| **História**     | Antiguidade | Brasil República, globalização |
+
+---
+
+### ⏰ **Exemplo de Dia Produtivo (4h):**
+- **15h00-16h30:** Matemática (20 questões de funções + correção)  
+- **16h30-16h45:** Intervalo (Alongamento + água)  
+- **16h45-18h15:** Redação (1 texto cronometrado + modelo de correção)  
+- **18h15-18h30:** Revisão-relâmpago (Anki: fórmulas de geometria)  
+
+---
+
+### 📉 **Controle de Progresso:**
+- **A cada 7 dias:** Faça um simulado parcial (20 questões de ciclos anteriores).  
+- **Meta diária:** 30 acertos (Mat/Port) + 1 redação.  
+- **Use a fórmula do TRI:**  
+  ```plaintext
+  Nota P ≈ (Acertos em Mat×2 + Port×2 + Outros×1) / 74 × 100  
+  Ex: 15 acertos (Mat) + 12 (Port) + 30 (outros) → (30 +24 +30)/74 ×100 ≈ 113,5% → Nota P = 100 (máx)  
+  ```
+
+---
+
+### 🚨 **Plano B (Se Atrasar):**
+- Corte Biologia e Química na semana 6 (só revise flashcards).  
+- Use o app "Questões FATEC" (Android/iOS) para estudar no transporte.  
+- Grave áudios de revisão e ouça durante exercícios físicos.  
+
+Essa é a **versão pragmática para quem tem pouco tempo**: foco nas armas que garantem 70% da nota (Mat/Port/Redação) e simulados como treino de guerra. 🔥
 
 # 📝 **Pista Rápida: Estudo para Vestibular**
 
 ## ✅ **Matemática**
+(Cada tópico só vai poder no máximo 5 dias)
 - [ ] **Conjuntos Numéricos**: Principais características e operações.
 - [ ] **Porcentagem, Juros Simples e Compostos**: Fórmulas principais e aplicações práticas.
 - [ ] **Expressões (Produtos Notáveis, Fatoração)**: Reconhecimento e simplificação.
 - [ ] **Funções**: Tipos (afim, quadrática, exponencial) e análise gráfica.
 - [ ] **Equações**: Resolução de 1º e 2º grau.
-- [ ] **Geometria Plana**: Fórmulas de áreas e perímetros.
-- [ ] **Matrizes, Determinantes e Sistemas Lineares**: Operações básicas e solução de sistemas.
-- [ ] **Trigonometria**: Razões trigonométricas e círculo trigonométrico.
+- [ ] **(opcional)Geometria Plana**: Fórmulas de áreas e perímetros.
+- [ ] **(opcional) Matrizes, Determinantes e Sistemas Lineares**: Operações básicas e solução de sistemas
+- [ ] **(opcional)Trigonometria**: Razões trigonométricas e círculo trigonométrico.
 - [ ] **Probabilidade**: Cálculo de eventos simples.
 
 ---
 
 ## ✅ **Português**
+(Cada tópico pode durar até 3 dias)
 - [ ] **Gêneros e Tipos Textuais**: Reconhecimento e funções.
 - [ ] **Classes de Palavras**: Identificação e principais usos.
 - [ ] **Sintaxe**: Concordância e regência básicas.

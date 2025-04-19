@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1107f8eeea709cc2",
+        "id": "334e1587d4d5ed76",
         "type": "tabs",
         "children": [
           {
-            "id": "6115a205a3c5c038",
+            "id": "db2bfbb2e4987c2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Anotações/Comunidades cinéfilas online.md",
+                "file": "2 -  Materiais de referencia/Planos de Estudos/1° Semana.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Comunidades cinéfilas online"
+              "title": "1° Semana"
+            }
+          },
+          {
+            "id": "87a34a4d64ee6887",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 -  Materiais de referencia/Planos de Estudos/Lista de estudos.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lista de estudos"
             }
           }
         ]
@@ -186,37 +210,37 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6115a205a3c5c038",
+  "active": "db2bfbb2e4987c2c",
   "lastOpenFiles": [
-    "3 - Projects/CINEMA!/4.Recursos-Utilitarios/Erros Letterboxd.md",
-    "3 - Projects/CINEMA!/1.Desenvolvimento/CINEMA!.md",
-    "3 - Projects/CINEMA!/3.Docs/DOCS TECNICA CINEMA!.md",
-    "3 - Projects/CINEMA!/3.Docs/Pesquisas-Mercadológicas/Teoria McDonlads.md",
-    "2 -  Materiais de referencia/Fragmentos/DNS.md",
-    "1 - Temporario/Letterboxd.canvas",
-    "3 - Projects/CINEMA!/4.Recursos-Utilitarios/Aprendendo com a concorrência.md",
-    "6 - Anotações/Comunidades cinéfilas online.md",
-    "3 - Projects/CINEMA!/3.Docs/System Design (CineTab).md",
-    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Capital Social Digital.md",
-    "2 -  Materiais de referencia/Fragmentos/Mentalidade/Constâncias em projetos.md",
-    "2 -  Materiais de referencia/Fragmentos/Mentalidade/Untitled.md",
-    "2 -  Materiais de referencia/Fragmentos/Gerenciamento wi-fi arch linux.md",
+    "1 - Temporario/18-04-2025.md",
+    "2 -  Materiais de referencia/Planos de Estudos/Como retomar ou começar a estudar.md",
+    "2 -  Materiais de referencia/Planos de Estudos/1° Semana.md",
+    "2 -  Materiais de referencia/Planos de Estudos/Lista de estudos.md",
+    "5 - templates/Plano de Estudos.md",
+    "2 -  Materiais de referencia/Planos de Estudos/Sistema de pontuação FATEC.md",
+    "4 - Index/APIs e Protocolos.md",
+    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Untitled.md",
+    "4 - Index/APRENDIZADOS.md",
+    "4 - Index/CINEMA.md",
+    "4 - Index/Como usar essa pasta?.md",
+    "4 - Index/DEVOPS.md",
+    "4 - Index/DJANGO.md",
+    "4 - Index/DOCKER.md",
+    "4 - Index/GIT.md",
+    "4 - Index/RUBY.md",
+    "2 -  Materiais de referencia/Fragmentos/Testes Automatizados.md",
+    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Testes em programação.md",
+    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/A arte de programar.md",
     "6 - Anotações/THE RISE OF GIT.md",
-    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias",
-    "6 - Anotações/Roadmap CINEMA!.md",
-    "6 - Anotações/What's Containers?.md",
-    "6 - Anotações/Twelve-Factor App.md",
     "6 - Anotações/Pull Request - how to be good.md",
     "6 - Anotações/Docker - The Rise and Fall.md",
-    "6 - Anotações/Diretrizes CINEMA!.md",
     "6 - Anotações/Complete Evolution of Infrastructure.md",
-    "2 -  Materiais de referencia/Fragmentos/GitHub CLI.md",
-    "2 -  Materiais de referencia/Fragmentos/Estilização de código.md",
-    "3 - Projects/Cidadania Italiana.md",
-    "3 - Projects/S.E.C.O/Guia de Nutrição & Nutricionista.md",
-    "3 - Projects/S.E.C.O/Index.md",
+    "6 - Anotações/Twelve-Factor App.md",
+    "6 - Anotações/What's Containers?.md",
+    "6 - Anotações/Comunidades cinéfilas online.md",
+    "1 - Temporario/Letterboxd.canvas",
+    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias",
     "3 - Projects/S.E.C.O",
-    "2 -  Materiais de referencia/Fragmentos/Mentalidade/Organização de tarefas.md",
     "2 -  Materiais de referencia/Fragmentos/Mentalidade",
     "3 - Projects/CINEMA!/2.Planejamentos/Marketing-Digital",
     "3 - Projects/CINEMA!/3.Docs/Pesquisas-Mercadológicas",

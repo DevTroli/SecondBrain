@@ -1,76 +1,40 @@
+**(Precisa fazer alterações urgentes nisso)**
+# 🚀 SEMANA {{date: DD-MM}} | FATEC ADS
+
+## 🎯 3 METAS NUCLEARES (Foco Implacável)
+- [ ] **Meta 1:** Resolver 100 questões de Matemática (Funções + Geometria)
+- [ ] **Meta 2:** Escrever 3 redações (Estrutura dissertativa)
+- [ ] **Meta 3:** Revisar 50 flashcards de Português (Interpretação)
+
 ---
-type: weekly-study-plan
-week: 2024-12-02
-status:
-  - in-progress
-tags:
-  - estudos
-  - planejamento-semanal
-priority: A
+
+## 📅 PLANO DE ATAQUE (Máximo 3 tarefas/dia)
+| Dia       | Tarefa-Chave                          | Feito? |
+|-----------|---------------------------------------|--------|
+| **Seg**   | 20 questões MAT + 1 redação rascunho | [ ]    |
+| **Ter**   | 10 flashcards POR + Simulado rápido  | [ ]    |
+| **Qua**   | Revisão de erros + áudio-resumo      | [ ]    |
+| **Qui**   | 20 questões MAT + 1 redação final    | [ ]    |
+| **Sex**   | 10 flashcards POR + mapa mental GEO  | [ ]    |
+| **Sáb**   | **SIMULADO COMPLETO (3h)**           | [ ]    |
+| **Dom**   | *Descanso obrigatório*               | [✅]    |
+
 ---
 
-# 📚 Plano de Estudos - Semana 1 (2-12-2024)
+## 🧠 REGISTRO DIÁRIO (30 segundos para preencher)
+### {{date:DD-MM}} 
+**🔥 Feito hoje:**  
+- [ ] 15 questões MAT (Funções)  
+- [ ] 1 redação tema "Tecnologia"  
+- [ ] 5 flashcards (Coesão textual)  
 
-## 🎯 Metas Semanais
-| Meta   | Descrição                   | Prioridade | Status |
-| ------ | --------------------------- | ---------- | ------ |
-| Meta 1 | Começar os estudos da FATEC | Alta       | []     |
-| Meta 2 | Aprender o basico de docker | Média      | [ ]    |
-| Meta 3 | Finalizar Issues do GitHub  | Baixa      | [ ]    |
-> 💡 Dica: Seja específico, mensurável e realista ao definir suas metas.
+**💡 Insight:** "Descobri que errei questões de função afim por não isolar o x direito. Revisar amanhã!"
 
-## 📅 Cronograma Semanal
-| Segunda | Terça     | Quarta      | Quinta | Sexta       | Sábado      | Domingo     |
-| ------- | --------- | ----------- | ------ | ----------- | ----------- | ----------- |
-| Fatec   | curso.dev | Docker      | Fatec  | Fatec       | curso.dev   | curso.dev   |
-| EBAC    | EBAC      | my Projects | EBAC   | My projects | My projects | my projects |
-| ---     | Docker    | curso.dev   | ---    | EBAC        | Docker      | ---         |
-> 💡 Dica: Distribua suas atividades de forma equilibrada, considerando sua energia e disponibilidade em cada período.
+---
 
-## 📝 Registro Diário de Estudos
-### 2024-11-27
+## 📌 PRÓXIMOS PASSOS (Máximo 3)  
+1. Corrigir redação com modelo FATEC ([link](https://exemplo.com))  
+2. Refazer 5 questões erradas de MAT  
+3. Criar 3 flashcards novos de erros  
 
-#### 🕰️ Tempo de Estudo
-| Item          | Horário |
-| ------------- | ------- |
-| Início        | -       |
-| Término       | -       |
-| Duração Total | -       |
-
-#### 📖 Assuntos Estudados
-| Assunto   | Tópicos Abordados | Principais Aprendizados | Dificuldades |
-| --------- | ----------------- | ----------------------- | ------------ |
-| Assunto 1 | -                 | -                       | -            |
-| Assunto 2 | -                 | -                       | -            |
-> 💡 Dica: Registre não apenas o que estudou, mas também o que realmente aprendeu e onde encontrou desafios.
-
-#### 🧠 Reflexão do Dia
-| Tipo                 | Descrição | Ação de Melhoria |
-| -------------------- | --------- | ---------------- |
-| Pontos Positivos     | -         | -                |
-| Desafios Encontrados | -         | -                |
-> 💡 Dica: A reflexão ajuda a entender seu processo de aprendizagem e a se adaptar continuamente.
-
-## 📊 Progresso Semanal
-| Métrica              | Valor                |
-| -------------------- | -------------------- |
-| Total Planejado (TP) | 20h                  |
-| Total Realizado (TR) | 18h                  |
-| Progresso            | `= (TR / TP) * 100`% |
-
-> 💡 Dica: Acompanhar seu progresso ajuda a manter a motivação e identificar áreas de melhoria.
-
-## 🎓 Compromissos Acadêmicos
-| Data | Disciplina | Tarefa | Prioridade | Status |
-| ---- | ---------- | ------ | ---------- | ------ |
-| -    | -          | -      | -          | [ ]    |
-> 💡 Dica: Mantenha um registro claro de todas as tarefas e prazos importantes.
-
-## 💡 Citação Motivacional
-> "O sucesso é a soma de pequenos esforços, repetidos dia após dia." - Robert Collier
-
-## 🔍 Próximos Passos
-| Ação | Responsável | Prazo | Status |
-| ---- | ----------- | ----- | ------ |
-| -    | -           | -     | [ ]    |
-> 💡 Dica: Defina ações concretas para avançar em direção aos seus objetivos.
+> "Progresso > Perfeição. 3 acertos a mais que ontem já é vitória." ⚡

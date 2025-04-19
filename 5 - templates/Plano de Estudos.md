@@ -1,77 +1,47 @@
+<!-- 
+COMO USAR ESTE TEMPLATE:
+1. Substitua {{ }} por seus dados reais
+2. Priorize sempre MAT/PORT/REDAÇÃO
+3. Mantenha máx. 3 tarefas por dia
+4. Use emojis diferentes a cada semana para não enjoar 🎯🔥🚨
+-->
+
+# 🚀 SEMANA {{date:DD-MM}} | FATEC
+
+## 🎯 3 METAS NUCLEARES
+- [ ] **Meta 1:** Resolver {{número}} questões de {{disciplina}} ({{tópico}})
+- [ ] **Meta 2:** Escrever {{número}} redações ({{tema}})
+- [ ] **Meta 3:** Revisar {{número}} flashcards de {{disciplina}} ({{tópico}})
+
 ---
-type: weekly-study-plan
-week: {{date:YYYY-MM-DD}}
-status: 
-  - in-progress
-  - completed
-tags:
-  - estudos
-  - planejamento-semanal
-priority: A
+
+## 📅 PLANO DE ATAQUE
+| Dia     | Tarefa-Chave                    | Feito? |
+| ------- | ------------------------------- | ------ |
+| **Seg** | {{tarefa 1}} + {{tarefa 2}}     | [ ]    |
+| **Ter** | {{tarefa 3}} + {{tarefa 4}}     | [ ]    |
+| **Qua** | Revisão de erros + {{tarefa 5}} | [ ]    |
+| **Qui** | {{tarefa 6}} + {{tarefa 7}}     | [ ]    |
+| **Sex** | {{tarefa 8}} + {{tarefa 9}}     | [ ]    |
+| **Sáb** | **SIMULADO COMPLETO (3h)**      | [ ]    |
+| **Dom** | *Descanso obrigatório*          | [✅]    |
+
 ---
 
-# 📚 Plano de Estudos - Semana {{date:DD-MM-YYYY}}
+## 🧠 REGISTRO DIÁRIO
+### {{date:DD-MM}} 
+**🔥 Feito hoje:**  
+- [ ] {{conquista 1}}  
+- [ ] {{conquista 2}}  
+- [ ] {{conquista 3}}  
 
-## 🎯 Metas Semanais
-| Meta | Descrição | Prioridade | Status |
-|------|-----------|------------|--------|
-| Meta 1 | Descreva detalhadamente o objetivo | Alta | [ ] |
-| Meta 2 | Explique claramente o que precisa ser alcançado | Média | [ ] |
-| Meta 3 | Especifique o resultado esperado | Baixa | [ ] |
-> 💡 Dica: Seja específico, mensurável e realista ao definir suas metas.
+**💡 Insight:** "{{observação curta sobre aprendizados/erros}}"
 
-## 📅 Cronograma Semanal
-| Segunda | Terça | Quarta | Quinta | Sexta | Sábado | Domingo |
-| ------- | ----- | ------ | ------ | ----- | ------ | ------- |
-|         |       |        |        |       |        |         |
-|         |       |        |        |       |        |         |
-|         |       |        |        |       |        |         |
-> 💡 Dica: Distribua suas atividades de forma equilibrada, considerando sua energia e disponibilidade em cada período.
+---
 
-## 📝 Registro Diário de Estudos
-### {{date:YYYY-MM-DD}}
+## 📌 PRÓXIMOS PASSOS  
+1. {{ação 1}} ([link útil]({{URL}}))  
+2. {{ação 2}}  
+3. {{ação 3}}  
 
-#### 🕰️ Tempo de Estudo
-| Item | Horário | Observações |
-|------|---------|-------------|
-| Início | - | Horário que começou a estudar |
-| Término | - | Horário que finalizou os estudos |
-| Duração Total | - | Tempo total de estudo |
-
-#### 📖 Assuntos Estudados
-| Assunto | Tópicos Abordados | Principais Aprendizados | Dificuldades |
-|---------|-------------------|-------------------------|--------------|
-| Assunto 1 | - | - | - |
-| Assunto 2 | - | - | - |
-> 💡 Dica: Registre não apenas o que estudou, mas também o que realmente aprendeu e onde encontrou desafios.
-
-#### 🧠 Reflexão do Dia
-| Tipo | Descrição | Ação de Melhoria |
-|------|-----------|------------------|
-| Pontos Positivos | - | - |
-| Desafios Encontrados | - | - |
-> 💡 Dica: A reflexão ajuda a entender seu processo de aprendizagem e a se adaptar continuamente.
-
-## 📊 Progresso Semanal
-| Métrica              | Valor                |
-| -------------------- | -------------------- |
-| Total Planejado (TP) | 20h                  |
-| Total Realizado (TR) | 18h                  |
-| Progresso            | `= (TR / TP) * 100`% |
-
-> 💡 Dica: Acompanhar seu progresso ajuda a manter a motivação e identificar áreas de melhoria.
-
-## 🎓 Compromissos Acadêmicos
-| Data | Disciplina | Tarefa | Prioridade | Status |
-|------|------------|--------|------------|--------|
-| - | - | - | - | [ ] |
-> 💡 Dica: Mantenha um registro claro de todas as tarefas e prazos importantes.
-
-## 💡 Citação Motivacional
-> "O sucesso é a soma de pequenos esforços, repetidos dia após dia." - Robert Collier
-
-## 🔍 Próximos Passos
-| Ação | Responsável | Prazo | Status |
-| ---- | ----------- | ----- | ------ |
-| -    | -           | -     | [ ]    |
-> 💡 Dica: Defina ações concretas para avançar em direção aos seus objetivos.
+> "{{frase motivacional aleatória}}" ⚡
