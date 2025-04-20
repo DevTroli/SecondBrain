@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "334e1587d4d5ed76",
+        "id": "e8eb845fe43621d8",
         "type": "tabs",
         "children": [
           {
-            "id": "db2bfbb2e4987c2c",
+            "id": "50401be3e671d09b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 -  Materiais de referencia/Planos de Estudos/1° Semana.md",
+                "file": "2 -  Materiais de referencia/Estudos Diversos/Matemática/Números.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1° Semana"
-            }
-          },
-          {
-            "id": "87a34a4d64ee6887",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 -  Materiais de referencia/Planos de Estudos/Lista de estudos.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Lista de estudos"
+              "title": "Números"
             }
           }
         ]
@@ -210,16 +186,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "db2bfbb2e4987c2c",
+  "active": "50401be3e671d09b",
   "lastOpenFiles": [
-    "1 - Temporario/18-04-2025.md",
-    "2 -  Materiais de referencia/Planos de Estudos/Como retomar ou começar a estudar.md",
-    "2 -  Materiais de referencia/Planos de Estudos/1° Semana.md",
+    "2 -  Materiais de referencia/Estudos Diversos/Matemática/Operações Matemáticas.md",
+    "2 -  Materiais de referencia/Estudos Diversos/Matemática/Números.md",
+    "2 -  Materiais de referencia/Estudos Diversos/Matemática",
+    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/API.md",
+    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Capital Social Digital.md",
+    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Overengineering & a arte da simplicidade.md",
+    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Proposta de Arquitetura & Pasta.md",
+    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Testes em programação.md",
+    "3 - Projects/CINEMA!/0.Central/Planejamento.md",
+    "3 - Projects/CINEMA!/0.Central/Dashboard.md",
+    "3 - Projects/CINEMA!/2.Planejamentos/Progresso-Semanal/Semana 1.md",
+    "2 -  Materiais de referencia/Planos de Estudos/Do Zero ao Primeiro Passo.md",
     "2 -  Materiais de referencia/Planos de Estudos/Lista de estudos.md",
+    "2 -  Materiais de referencia/Planos de Estudos/1° Semana.md",
+    "1 - Temporario/18-04-2025.md",
     "5 - templates/Plano de Estudos.md",
     "2 -  Materiais de referencia/Planos de Estudos/Sistema de pontuação FATEC.md",
     "4 - Index/APIs e Protocolos.md",
-    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Untitled.md",
     "4 - Index/APRENDIZADOS.md",
     "4 - Index/CINEMA.md",
     "4 - Index/Como usar essa pasta?.md",
@@ -229,15 +215,6 @@
     "4 - Index/GIT.md",
     "4 - Index/RUBY.md",
     "2 -  Materiais de referencia/Fragmentos/Testes Automatizados.md",
-    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Testes em programação.md",
-    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/A arte de programar.md",
-    "6 - Anotações/THE RISE OF GIT.md",
-    "6 - Anotações/Pull Request - how to be good.md",
-    "6 - Anotações/Docker - The Rise and Fall.md",
-    "6 - Anotações/Complete Evolution of Infrastructure.md",
-    "6 - Anotações/Twelve-Factor App.md",
-    "6 - Anotações/What's Containers?.md",
-    "6 - Anotações/Comunidades cinéfilas online.md",
     "1 - Temporario/Letterboxd.canvas",
     "2 -  Materiais de referencia/Fragmentos/Bau de Ideias",
     "3 - Projects/S.E.C.O",
@@ -248,7 +225,6 @@
     "3 - Projects/CINEMA!/3.Docs",
     "3 - Projects/CINEMA!/2.Planejamentos",
     "3 - Projects/CINEMA!/1.Desenvolvimento",
-    "3 - Projects/CINEMA!/0.Central",
     "1 - Temporario/Quando-Anotar.canvas",
     "1 - Temporario/REST_API.canvas",
     "1 - Temporario/REST-ARCHTECTURE_TWITTER.canvas",
