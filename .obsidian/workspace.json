@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e8eb845fe43621d8",
+        "id": "6b1fa91b70e64a13",
         "type": "tabs",
         "children": [
           {
-            "id": "50401be3e671d09b",
+            "id": "27078969f5944f41",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 -  Materiais de referencia/Estudos Diversos/Matemática/Números.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Números"
+              "title": "New tab"
             }
           }
         ]
@@ -186,35 +172,37 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "50401be3e671d09b",
+  "active": "27078969f5944f41",
   "lastOpenFiles": [
-    "2 -  Materiais de referencia/Estudos Diversos/Matemática/Operações Matemáticas.md",
-    "2 -  Materiais de referencia/Estudos Diversos/Matemática/Números.md",
-    "2 -  Materiais de referencia/Estudos Diversos/Matemática",
+    "2 -  Materiais de referencia/Fragmentos/Pirâmide de testes.md",
+    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Testes em programação.md",
+    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/HTTP na pratica.md",
     "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/API.md",
+    "2 -  Materiais de referencia/Fragmentos/DNS.md",
+    "2 -  Materiais de referencia/Fragmentos/Mentalidade/Não é magia é protocolo.md",
+    "2 -  Materiais de referencia/Fragmentos/Mentalidade/Programação Orgânica vs Impressora 3D.md",
+    "4 - Index/APIs e Protocolos.md",
+    "Protocolos HTTP/HTTPS.md",
+    "Protocolos HTTP",
+    "2 -  Materiais de referencia/Fragmentos/REST API.md",
+    "2 -  Materiais de referencia/Fragmentos/Protocolos de rede.md",
+    "1 - Temporario/18-04-2025.md",
+    "2 -  Materiais de referencia/Estudos Diversos/CINEMA/ROADMAP HISTÓRIA DOS MUSICAIS.md",
+    "2 -  Materiais de referencia/Estudos Diversos/Games/Hades 2.md",
+    "2 -  Materiais de referencia/Estudos Diversos/Games",
+    "2 -  Materiais de referencia/Estudos Diversos/Matemática/Números.md",
+    "2 -  Materiais de referencia/Estudos Diversos/Matemática/Operações Matemáticas.md",
+    "2 -  Materiais de referencia/Estudos Diversos/Matemática",
     "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Capital Social Digital.md",
     "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Overengineering & a arte da simplicidade.md",
     "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Proposta de Arquitetura & Pasta.md",
-    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Testes em programação.md",
     "3 - Projects/CINEMA!/0.Central/Planejamento.md",
     "3 - Projects/CINEMA!/0.Central/Dashboard.md",
     "3 - Projects/CINEMA!/2.Planejamentos/Progresso-Semanal/Semana 1.md",
     "2 -  Materiais de referencia/Planos de Estudos/Do Zero ao Primeiro Passo.md",
     "2 -  Materiais de referencia/Planos de Estudos/Lista de estudos.md",
     "2 -  Materiais de referencia/Planos de Estudos/1° Semana.md",
-    "1 - Temporario/18-04-2025.md",
     "5 - templates/Plano de Estudos.md",
-    "2 -  Materiais de referencia/Planos de Estudos/Sistema de pontuação FATEC.md",
-    "4 - Index/APIs e Protocolos.md",
-    "4 - Index/APRENDIZADOS.md",
-    "4 - Index/CINEMA.md",
-    "4 - Index/Como usar essa pasta?.md",
-    "4 - Index/DEVOPS.md",
-    "4 - Index/DJANGO.md",
-    "4 - Index/DOCKER.md",
-    "4 - Index/GIT.md",
-    "4 - Index/RUBY.md",
-    "2 -  Materiais de referencia/Fragmentos/Testes Automatizados.md",
     "1 - Temporario/Letterboxd.canvas",
     "2 -  Materiais de referencia/Fragmentos/Bau de Ideias",
     "3 - Projects/S.E.C.O",
@@ -223,8 +211,6 @@
     "3 - Projects/CINEMA!/3.Docs/Pesquisas-Mercadológicas",
     "3 - Projects/CINEMA!/4.Recursos-Utilitarios",
     "3 - Projects/CINEMA!/3.Docs",
-    "3 - Projects/CINEMA!/2.Planejamentos",
-    "3 - Projects/CINEMA!/1.Desenvolvimento",
     "1 - Temporario/Quando-Anotar.canvas",
     "1 - Temporario/REST_API.canvas",
     "1 - Temporario/REST-ARCHTECTURE_TWITTER.canvas",

@@ -7,7 +7,7 @@
 ## 📡 Tipos de Protocolos
 
 - [[Protocolos TCP/IP]] - A base da internet moderna
-- [[Protocolos HTTP/HTTPS]] - Comunicação na web e segurança
+- [[HTTP na pratica]] - Comunicação na web e segurança
 - [[Protocolos de Mensageria]] - MQ, AMQP, MQTT e outros
 
 ## 🔄 Arquiteturas de Comunicação

@@ -54,3 +54,32 @@ A frase acima é uma representação que os erros de lógica passam despercebido
 
 **Erros de Syntax:**
 elabore melhor a ideia proposta
+
+### Diferenças entre teste unitário, integrado e E2E
+>- `Unit`: Teste de uma unidade, como um componente a parte do sistema;
+>- `Integration`: Teste de integração consiste em verificar a comunicação de uma ou mais unidades, por exemplo, requisições de um sistema para outro verificando se o retorno veio o esperado;
+>- `E2E`: Analisa o funcionamento da aplicação inteira, verifica se ela por inteiro está funcional.
+
+
+ **Testes Unitários:**
+ Nos testes unitários ele funciona por conta própria sem dependentes com o objetivo de se assegurar que cada micro-função do sistema esteja funcionado sem precisar de nada além de seu escopo nem mesmo sobra a infraestrutura é requirido para ele concluir o seu tipo de teste de forma por cada unidade de funcionalidade na aplicação. Tornado tão puro e autossuficiente que ele é modular e portável para qualquer contexto que precisar dele.
+ > " O único dever dele é  fazer os testes da unidade base... nada mais, nada menos "
+
+É muito difícil definir o que é uma unidade, dessa forma a divisão dele fica mais clara, testar uma requisição que o cliente usa de ponta a ponta = teste de integração, vs testar uma unidade interna do sistema, independente se ela integra com vários outros client/server (usuarios mesmo), seria um teste de unidade.
+
+
+**Testes de Integração:**
+> "São testes que não se preocupam mais se com o comportamento micro da funcionalidade, mas testa sua integração entre várias unidades/camadas da aplicação"
+
+<-- Desenvolver melhor uma elaborada explicação sobre esse assunto -->
+
+**End-to-End:**
+Teste completo de ponta a ponta onde envolve a interface, infraestrutura, backend e etc...
+
+<-- Desenvolver melhor uma elaborada explicação sobre esse assunto -->
+
+##### Porque nenhum teste é melhor que o outro?
+Quanto mais você querer se certificar que tudo esta em seus conformes (tipo um E2E) mais lebto vai ser o fluxo de desenvolvimento, os teste vão sair de modo mais demorado, além de ser muito mais custoso doque só fazer um simples teste unitario. 
+Então está ai respostas testes unitarios são bala de prata para esse prblema, mas ai que ta a cilada porque em muitos casos esse tipo de teste são rapidos porem simplórios e não dão muita segurança que tudo esta 100% quanto um E2E pode proporcionar, pensando assim só resta um escolha que seria viver no equilibrio e ver os testes de integração como definitivos porque ele tem o melhor dos dois mundos ao você se preocupar só na sua integração que sera validada pelos testes, certo? Errado denovo, entretanto a um certo ponto existem pessoas que acreditam que eles são os melhores e outras não por isso começou um guerra ideologica sobre Testes Automatizados: Test Unit Vs. Test Integration.
+Não adianta de nada sua feature estar funcionando tudo certinho se sua utilidade é nula porque tem uma péssima integração com o ecossistema todo do seu sistema fazendo um tipo um Feature-Creep que na teoria/pratica funciona, mas sua relevevancia e uso não.
+Por isso que como um desenvolver pragmatico que eu sei que você é (ou aspira ser) a mlehor solução ṕara não se perder nesses debates ideologicos onde bom norte a se seguir seria a [Pirâmide de Testes]() (Escrever sepradamente sobre) 
