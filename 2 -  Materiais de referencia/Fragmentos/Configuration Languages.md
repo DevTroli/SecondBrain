@@ -4,7 +4,7 @@ Status: #In-Progress
 # 📘 Configuration Languages: YAML and Dockerfile
 
 ### Understanding YAML
-YAML is a human-friendly configuration language that's both simple and powerful.
+YAML (YAML Ain't markup Language) is a superset of JSON, defining for indentation (Using Blank Spaces)
 
 ```yaml
 # Example configuration

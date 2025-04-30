@@ -1,7 +1,7 @@
 # 🐳 Docker e Containerização
 
 ## 📚 Meus Artigos Fundamentais
-- [[Docker - The Rise and Fall]] - História e impacto da tecnologia
+- [[2 -  Materiais de referencia/Fragmentos/DOCKER|DOCKER]] - História e impacto da tecnologia
 - [[Complete Evolution of Infrastructure]] - Contextualização histórica
 
 ## 🌟 Introdução e Fundamentos
@@ -26,11 +26,6 @@
 - [[Docker in Production]] - Estratégias para ambientes de produção
 - [[CI/CD with Docker]] - Integração em pipelines de desenvolvimento
 - [[Docker Complete Ecosystem]] - Ferramentas e integrações
-
-## 📈 Monitoramento e Observabilidade
-- [[Docker Monitoring]] - Estratégias e ferramentas
-- [[Docker Logs]] - Gestão e análise de logs
-- [[Docker Metrics]] - Métricas importantes e visualização
 
 ## 🧩 Fluxo de Conhecimento
 ```mermaid

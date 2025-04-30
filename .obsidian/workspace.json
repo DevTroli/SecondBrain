@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "6b1fa91b70e64a13",
+        "id": "236464471753e7c9",
         "type": "tabs",
         "children": [
           {
-            "id": "27078969f5944f41",
+            "id": "0e0fdf4e314fa410",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2 -  Materiais de referencia/Fragmentos/Variáveis de Ambiente.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Variáveis de Ambiente"
             }
           }
         ]
@@ -74,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 315.5041847229004
   },
   "right": {
     "id": "ee79e258ecb84199",
@@ -172,37 +186,41 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "27078969f5944f41",
+  "active": "0e0fdf4e314fa410",
   "lastOpenFiles": [
-    "2 -  Materiais de referencia/Fragmentos/Pirâmide de testes.md",
+    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/enviroments variables.md",
+    "2 -  Materiais de referencia/Fragmentos/Variáveis de Ambiente.md",
+    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Database Hands-On.md",
+    "2 -  Materiais de referencia/Fragmentos/Banco de Dados.md",
+    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Database.md",
+    "2 -  Materiais de referencia/Vídeos & Podcasts/GIT.md",
+    "4 - Index/DOCKER.md",
+    "2 -  Materiais de referencia/Fragmentos/DOCKER.md",
+    "6 - Anotações/Docker - The Rise and Fall.md",
+    "6 - Ensaios ou Artigos/Twelve-Factor App.md",
+    "6 - Ensaios ou Artigos/THE RISE OF GIT.md",
+    "6 - Anotações/Untitled-1.md",
+    "6 - Anotações/Untitled.md",
+    "6 - Anotações/Untitled 2.md",
+    "6 - Ensaios ou Artigos/Complete Evolution of Infrastructure.md",
+    "2 -  Materiais de referencia/Fragmentos/Configuration Languages.md",
+    "2 -  Materiais de referencia/Fragmentos/Initial Setup on Docker.md",
+    "2 -  Materiais de referencia/Fragmentos/Why Docker?.md",
+    "2 -  Materiais de referencia/Fragmentos/Docker Commands.md",
     "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Testes em programação.md",
-    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/HTTP na pratica.md",
-    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/API.md",
-    "2 -  Materiais de referencia/Fragmentos/DNS.md",
-    "2 -  Materiais de referencia/Fragmentos/Mentalidade/Não é magia é protocolo.md",
-    "2 -  Materiais de referencia/Fragmentos/Mentalidade/Programação Orgânica vs Impressora 3D.md",
-    "4 - Index/APIs e Protocolos.md",
-    "Protocolos HTTP/HTTPS.md",
-    "Protocolos HTTP",
-    "2 -  Materiais de referencia/Fragmentos/REST API.md",
-    "2 -  Materiais de referencia/Fragmentos/Protocolos de rede.md",
-    "1 - Temporario/18-04-2025.md",
-    "2 -  Materiais de referencia/Estudos Diversos/CINEMA/ROADMAP HISTÓRIA DOS MUSICAIS.md",
-    "2 -  Materiais de referencia/Estudos Diversos/Games/Hades 2.md",
-    "2 -  Materiais de referencia/Estudos Diversos/Games",
-    "2 -  Materiais de referencia/Estudos Diversos/Matemática/Números.md",
-    "2 -  Materiais de referencia/Estudos Diversos/Matemática/Operações Matemáticas.md",
-    "2 -  Materiais de referencia/Estudos Diversos/Matemática",
-    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Capital Social Digital.md",
-    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Overengineering & a arte da simplicidade.md",
     "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Proposta de Arquitetura & Pasta.md",
-    "3 - Projects/CINEMA!/0.Central/Planejamento.md",
-    "3 - Projects/CINEMA!/0.Central/Dashboard.md",
-    "3 - Projects/CINEMA!/2.Planejamentos/Progresso-Semanal/Semana 1.md",
-    "2 -  Materiais de referencia/Planos de Estudos/Do Zero ao Primeiro Passo.md",
-    "2 -  Materiais de referencia/Planos de Estudos/Lista de estudos.md",
-    "2 -  Materiais de referencia/Planos de Estudos/1° Semana.md",
-    "5 - templates/Plano de Estudos.md",
+    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Pirâmide de testes.md",
+    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Overengineering & a arte da simplicidade.md",
+    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Não é magia é protocolo.md",
+    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Interface Programática de Aplicações.md",
+    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/HTTP.md",
+    "1 - Temporario/INFRAESTRUTURA-DEVOPS.canvas",
+    "1 - Temporario/Quando-Anotar.canvas",
+    "1 - Temporario/REST_API.canvas",
+    "1 - Temporario/REST-ARCHTECTURE_TWITTER.canvas",
+    "Protocolos HTTP",
+    "2 -  Materiais de referencia/Estudos Diversos/Games",
+    "2 -  Materiais de referencia/Estudos Diversos/Matemática",
     "1 - Temporario/Letterboxd.canvas",
     "2 -  Materiais de referencia/Fragmentos/Bau de Ideias",
     "3 - Projects/S.E.C.O",
@@ -211,11 +229,7 @@
     "3 - Projects/CINEMA!/3.Docs/Pesquisas-Mercadológicas",
     "3 - Projects/CINEMA!/4.Recursos-Utilitarios",
     "3 - Projects/CINEMA!/3.Docs",
-    "1 - Temporario/Quando-Anotar.canvas",
-    "1 - Temporario/REST_API.canvas",
-    "1 - Temporario/REST-ARCHTECTURE_TWITTER.canvas",
     "1 - Temporario/GIT.canvas",
-    "1 - Temporario/INFRAESTRUTURA-DEVOPS.canvas",
     "1 - Temporario/Django.canvas",
     "1 - Temporario/Docker.canvas"
   ]
