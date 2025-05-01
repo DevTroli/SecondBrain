@@ -51,6 +51,8 @@ São aplicações que guardam informações sobre o que aconteceu antes. Como um
 
 ### Aplicações Stateless (Sem Estado)
 
+> ""
+
 São aplicações que não guardam informações entre interações. Cada requisição precisa trazer todos os dados necessários para ser processada.
 
 Exemplo: um conversor de moedas. Você informa quais moedas quer converter e o valor. O sistema processa e devolve o resultado. Não importa quem você é ou o que fez antes.

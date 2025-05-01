@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 -  Materiais de referencia/Fragmentos/Variáveis de Ambiente.md",
+                "file": "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Saúde da aplicação pela API.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Variáveis de Ambiente"
+              "title": "Saúde da aplicação pela API"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5041847229004
+    "width": 315.5041847229004,
+    "collapsed": true
   },
   "right": {
     "id": "ee79e258ecb84199",
@@ -188,11 +189,20 @@
   },
   "active": "0e0fdf4e314fa410",
   "lastOpenFiles": [
+    "Untitled.md",
+    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Saúde da aplicação pela API.md",
+    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Proposta de Arquitetura & Pasta.md",
+    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Testes em programação.md",
+    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Pirâmide de testes.md",
+    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Não é magia é protocolo.md",
+    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Overengineering & a arte da simplicidade.md",
+    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Interface Programática de Aplicações.md",
+    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/HTTP.md",
     "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/enviroments variables.md",
-    "2 -  Materiais de referencia/Fragmentos/Variáveis de Ambiente.md",
-    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Database Hands-On.md",
-    "2 -  Materiais de referencia/Fragmentos/Banco de Dados.md",
     "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Database.md",
+    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Database Hands-On.md",
+    "2 -  Materiais de referencia/Fragmentos/Variáveis de Ambiente.md",
+    "2 -  Materiais de referencia/Fragmentos/Banco de Dados.md",
     "2 -  Materiais de referencia/Vídeos & Podcasts/GIT.md",
     "4 - Index/DOCKER.md",
     "2 -  Materiais de referencia/Fragmentos/DOCKER.md",
@@ -205,15 +215,6 @@
     "6 - Ensaios ou Artigos/Complete Evolution of Infrastructure.md",
     "2 -  Materiais de referencia/Fragmentos/Configuration Languages.md",
     "2 -  Materiais de referencia/Fragmentos/Initial Setup on Docker.md",
-    "2 -  Materiais de referencia/Fragmentos/Why Docker?.md",
-    "2 -  Materiais de referencia/Fragmentos/Docker Commands.md",
-    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Testes em programação.md",
-    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Proposta de Arquitetura & Pasta.md",
-    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Pirâmide de testes.md",
-    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Overengineering & a arte da simplicidade.md",
-    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Não é magia é protocolo.md",
-    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Interface Programática de Aplicações.md",
-    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/HTTP.md",
     "1 - Temporario/INFRAESTRUTURA-DEVOPS.canvas",
     "1 - Temporario/Quando-Anotar.canvas",
     "1 - Temporario/REST_API.canvas",
