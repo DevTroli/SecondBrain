@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f7fe536e37efd108",
+        "id": "3c75208d30ae56af",
         "type": "tabs",
         "children": [
           {
-            "id": "8ed9161c471ee637",
+            "id": "515939338ac8ffbb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Temporario/16-05-2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "16-05-2025"
+              "title": "Nova aba"
             }
           }
         ]
@@ -88,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5041847229004,
-    "collapsed": true
+    "width": 315.5041847229004
   },
   "right": {
     "id": "ee79e258ecb84199",
@@ -188,51 +173,51 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8ed9161c471ee637",
+  "active": "515939338ac8ffbb",
   "lastOpenFiles": [
-    "2 -  Materiais de referencia/Estudos Diversos/CINEMA/ROADMAP HISTÓRIA DOS MUSICAIS.md",
-    "1 - Temporario/16-05-2025.md",
-    "2 -  Materiais de referencia/Fragmentos/Tmux.md",
-    "2 -  Materiais de referencia/Fragmentos/Guia Rápido Tmux.md",
-    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/tmux-ensaio.md",
-    "2 -  Materiais de referencia/Fragmentos/GitHub CLI.md",
-    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Saúde da aplicação pela API.md",
+    "2.Referencias/Como usar essa pasta?.md",
+    "4.Index/DOCKER.md",
+    "4.Index/GIT.md",
+    "4.Index/RUBY.md",
+    "4.Index/DJANGO.md",
+    "4.Index/DEVOPS.md",
+    "4.Index/Como usar essa pasta?.md",
+    "4.Index/CINEMA.md",
+    "2 -  Materiais de referencia/Fragmentos/Tools/Sem título",
+    "2 -  Materiais de referencia/Fragmentos/Tools",
+    "2.Referencias/Estudos Diversos/CINEMA/ROADMAP HISTÓRIA DOS MUSICAIS.md",
+    "1.Temp/16-05-2025.md",
+    "1 - Temporario/30-05-2025.md",
+    "2.Referencias/Fragmentos/Tmux.md",
+    "2.Referencias/Fragmentos/Guia Rápido Tmux.md",
+    "2.Referencias/Fragmentos/Bau de Ideias/tmux-ensaio.md",
+    "2.Referencias/Fragmentos/GitHub CLI.md",
+    "2.Referencias/Fragmentos/Bau de Ideias/Saúde da aplicação pela API.md",
     "Untitled.md",
-    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Proposta de Arquitetura & Pasta.md",
-    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Testes em programação.md",
-    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Pirâmide de testes.md",
-    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Não é magia é protocolo.md",
-    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Overengineering & a arte da simplicidade.md",
-    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Interface Programática de Aplicações.md",
-    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/HTTP.md",
-    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/enviroments variables.md",
-    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Database.md",
-    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias/Database Hands-On.md",
-    "2 -  Materiais de referencia/Fragmentos/Variáveis de Ambiente.md",
-    "2 -  Materiais de referencia/Fragmentos/Banco de Dados.md",
-    "2 -  Materiais de referencia/Vídeos & Podcasts/GIT.md",
-    "4 - Index/DOCKER.md",
-    "2 -  Materiais de referencia/Fragmentos/DOCKER.md",
-    "6 - Anotações/Docker - The Rise and Fall.md",
-    "6 - Ensaios ou Artigos/Twelve-Factor App.md",
-    "6 - Ensaios ou Artigos/THE RISE OF GIT.md",
-    "1 - Temporario/INFRAESTRUTURA-DEVOPS.canvas",
-    "1 - Temporario/Quando-Anotar.canvas",
-    "1 - Temporario/REST_API.canvas",
-    "1 - Temporario/REST-ARCHTECTURE_TWITTER.canvas",
+    "2.Referencias/Fragmentos/Bau de Ideias/Proposta de Arquitetura & Pasta.md",
+    "2.Referencias/Fragmentos/Bau de Ideias/Testes em programação.md",
+    "2.Referencias/Fragmentos/Bau de Ideias/Pirâmide de testes.md",
+    "2.Referencias/Fragmentos/Bau de Ideias/Não é magia é protocolo.md",
+    "2.Referencias/Fragmentos/Bau de Ideias/Overengineering & a arte da simplicidade.md",
+    "2.Referencias/Fragmentos/Bau de Ideias/Interface Programática de Aplicações.md",
+    "2.Referencias/Fragmentos/Bau de Ideias/HTTP.md",
+    "2.Referencias/Fragmentos/Bau de Ideias/enviroments variables.md",
+    "2.Referencias/Fragmentos/Bau de Ideias/Database.md",
+    "1.Temp/INFRAESTRUTURA-DEVOPS.canvas",
+    "1.Temp/Quando-Anotar.canvas",
+    "1.Temp/REST_API.canvas",
+    "1.Temp/REST-ARCHTECTURE_TWITTER.canvas",
     "Protocolos HTTP",
-    "2 -  Materiais de referencia/Estudos Diversos/Games",
-    "2 -  Materiais de referencia/Estudos Diversos/Matemática",
+    "2.Referencias/Estudos Diversos/Games",
+    "2.Referencias/Estudos Diversos/Matemática",
     "1 - Temporario/Letterboxd.canvas",
-    "2 -  Materiais de referencia/Fragmentos/Bau de Ideias",
-    "3 - Projects/S.E.C.O",
-    "2 -  Materiais de referencia/Fragmentos/Mentalidade",
-    "3 - Projects/CINEMA!/2.Planejamentos/Marketing-Digital",
-    "3 - Projects/CINEMA!/3.Docs/Pesquisas-Mercadológicas",
-    "3 - Projects/CINEMA!/4.Recursos-Utilitarios",
-    "3 - Projects/CINEMA!/3.Docs",
-    "1 - Temporario/GIT.canvas",
-    "1 - Temporario/Django.canvas",
-    "1 - Temporario/Docker.canvas"
+    "2.Referencias/Fragmentos/Bau de Ideias",
+    "3.Projects/S.E.C.O",
+    "2.Referencias/Fragmentos/Mentalidade",
+    "3.Projects/CINEMA!/2.Planejamentos/Marketing-Digital",
+    "3.Projects/CINEMA!/3.Docs/Pesquisas-Mercadológicas",
+    "1.Temp/GIT.canvas",
+    "1.Temp/Django.canvas",
+    "1.Temp/Docker.canvas"
   ]
 }

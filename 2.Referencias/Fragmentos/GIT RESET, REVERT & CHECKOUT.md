@@ -1,5 +1,5 @@
 ## Visão Geral das Três Árvores do Git
-Antes de mergulhar nos comandos, é crucial entender as "três árvores" do [[2 -  Materiais de referencia/Vídeos & Podcasts/GIT]]:
+Antes de mergulhar nos comandos, é crucial entender as "três árvores" do [[2.Referencias/Vídeos & Podcasts/GIT]]:
 1. **Working Directory**: Seus arquivos atuais
 2. **Staging Area (Index)**: Alterações preparadas para commit
 3. **Commit History**: Histórico de commits
