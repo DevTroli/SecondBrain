@@ -103,6 +103,7 @@ Ferramentas para melhor workflow: Tmux, Lazygit, Docker, Obsisdian, Ghostty, yaz
 ### 🎁 Bônus
 - [[I.A nos tempos atuais]] (Conteúdo edificante ainda mais nos tempos atuais de A.I e seu uso desvairado em tudo por todos, mas isso sai da tangente do assunto principal, logo isso fica como um bônus sobre A.I )
 - [[O Problema com os Detectores de I.A]] {Um ponto de vista interessante dos efeitos da I.A por pessoas fora da bolha tech (ou não também) que procuram saber oque é ou não I.A, mas isso sai da tangente do assunto principal, logo isso fica como um bônus sobre A.I}
+
 ## Dia 8
 ### [[API]]
 	lorem-ipsum
