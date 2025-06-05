@@ -27,15 +27,6 @@
       "key": "F"
     }
   ],
-  "file-explorer:open": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "E"
-    }
-  ],
   "obsidian-git:add-to-gitignore": [
     {
       "modifiers": [
@@ -76,6 +67,15 @@
         "Mod"
       ],
       "key": "L"
+    }
+  ],
+  "editor:open-search": [],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F"
     }
   ]
 }
