@@ -92,7 +92,7 @@ Resolver a **degradação das discussões sobre cinema** em redes sociais tradic
 - [x] Definição de milestones principais
 ## Definição do Escopo do CineTab.art (15★)
 - [x] Definir a estrutura inicial do projeto no GitHub
-- [x] Realizar um [[Issue Inception]]
+- [x] Realizar um [[DEV-IssueInception]]
 - [x] Constituir as diretrizes e filosofias do projeto
 ### [Opcional] Design
 - [ ] Wireframes das telas principais

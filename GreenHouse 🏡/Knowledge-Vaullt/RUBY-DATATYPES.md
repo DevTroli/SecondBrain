@@ -1,10 +1,3 @@
-27-March-2025 | 19:09
-
-Status: #done 
-- **Tags:** #ruby #programação #backend
-
----
-
 ## Conceitos Centrais  
 - **Definição Simplificada:**  
   - **Números:** `Fixnum` (inteiros) e `Float` (decimais).  

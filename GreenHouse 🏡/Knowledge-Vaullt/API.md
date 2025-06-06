@@ -135,7 +135,7 @@ O versionamento permite que APIs evoluam enquanto continuam suportando clientes 
 
 ## APIs e o Protocolo HTTP
 
-A maioria das APIs web modernas utiliza o protocolo HTTP como meio de comunicação, aproveitando sua natureza padronizada e amplamente suportada. Para entender completamente como as APIs funcionam na web, é fundamental ter um bom conhecimento de [[HTTP Na Prática]].
+A maioria das APIs web modernas utiliza o protocolo HTTP como meio de comunicação, aproveitando sua natureza padronizada e amplamente suportada. Para entender completamente como as APIs funcionam na web, é fundamental ter um bom conhecimento de [[WEB-HTTPNaPratica]].
 
 As APIs REST (Representational State Transfer), que são extremamente populares, utilizam os métodos HTTP de forma semântica:
 
@@ -178,4 +178,4 @@ As APIs são muito mais do que simples interfaces técnicas - são fundamentos d
 
 Compreender o que são APIs e como elas funcionam não é apenas um conhecimento técnico, mas uma visão fundamental de como o software moderno é construído e como diferentes sistemas podem trabalhar juntos de forma coesa.
 
-Para aprofundar seu conhecimento sobre como o HTTP funciona na prática e como ele serve de base para a comunicação via API, não deixe de ler nosso texto sobre [[HTTP Na Prática]].
+Para aprofundar seu conhecimento sobre como o HTTP funciona na prática e como ele serve de base para a comunicação via API, não deixe de ler nosso texto sobre [[WEB-HTTPNaPratica]].

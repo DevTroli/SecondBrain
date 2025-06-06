@@ -2,22 +2,21 @@
 - 
 
 ## 🌟 Introdução ao Django
-- [[WHY DJANGO?]] - Motivações e vantagens do framework
-- [[UNDERSTAND DJANGO BASICS]] - Fundamentos essenciais para começar
-- [[DJANGO HISTORY]] - Origem e evolução do framework
+- [[DJ-BASICS]] - Fundamentos essenciais para começar
+- [[DJ-CONTEXT]] -  Motivações, vantagens do framework, Origem e sua evolução.
 
 ## 🏗️ Arquitetura e Estrutura
-- [[DJANGO ARCHTECTURE MTV]] - Entendendo o Model-Template-View
-- [[PROJECT STRUCTURE DJANGO]] - Organizando projetos Django de forma eficiente
-- [[DJANGO VIRTUAL ENVIRONMENT]] - Gerenciamento de ambientes de desenvolvimento
+- [[DJ-ARCHTECTURE]] - Entendendo o Model-Template-View (MTV)
+- [[DJ-STRUCTURE]] - Organizando projetos Django de forma eficiente
+- [[DJ-ENVDEV]] - Gerenciamento de ambientes de desenvolvimento
 
 ## 🔬 Aprofundamento Técnico
-- [[DEEP DIVE INTO DJANGO]] - Explorando recursos avançados
-- [[DJANGO REST (API FRAMEWORK)]] - Criação de APIs robustas
-- [[SECURITY IN DJANGO]] - Práticas de segurança e proteção
+- [[DJ-ADVANCE]] - Explorando recursos avançados
+- [[DJ-DRF]] - Criação de APIs robustas
+- [[DJ-SECURITY]] - Práticas de segurança e proteção
 
 ## 📍 Guia de Aprendizado
-- [[ROAD MAPS DJANGO]] - Caminho de aprendizado e desenvolvimento
+- [[DJ-ROADMAP]] - Caminho de aprendizado e desenvolvimento
 
 ## 🧩 Fluxo de Conhecimento
 ```mermaid

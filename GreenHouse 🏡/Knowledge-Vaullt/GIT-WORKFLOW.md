@@ -5,8 +5,8 @@ O Git é reconhecido como um **SCVD** (*Sistema de Controle de Versão Distribu�
 - As alterações eram confirmadas **diretamente no servidor central**.  
 
 Já em um **SCVD como o Git**:  
-- **Não há dependência de um servidor central único**: cada desenvolvedor tem um [[Repositórios#**1. Repositório Local**|Repositório Local]] completo.  
-- O trabalho offline é possível: commits são feitos localmente e sincronizados posteriormente via `git push` (envio) ou `git pull` (atualização do [[Repositórios#**2. Repositório Remoto (Origin)**| Repositório Remoto]] )
+- **Não há dependência de um servidor central único**: cada desenvolvedor tem um [[DEV-REPOSITORIOS#**1. Repositório Local**|Repositório Local]] completo.  
+- O trabalho offline é possível: commits são feitos localmente e sincronizados posteriormente via `git push` (envio) ou `git pull` (atualização do [[DEV-REPOSITORIOS#**2. Repositório Remoto (Origin)**| Repositório Remoto]] )
 
 ---
 

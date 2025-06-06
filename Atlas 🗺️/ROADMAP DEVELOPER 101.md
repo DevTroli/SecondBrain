@@ -13,12 +13,12 @@ Ferramentas para melhor workflow: Tmux, Lazygit, Docker, Obsisdian, Ghostty, yaz
 ### [[GIT]]
 	Aqui você irá entender tudo que precisa sobre Git para ser produtivo e uma explicação com uma analogia para esclarecer uma confusão comum entre GitHub e Git, apesar de ser uma visão superficial do que é cada uma destas coisas
 
-### [[Repositórios]]
+### [[DEV-REPOSITORIOS]]
 	Tudo começa na criação do repositório, que é onde você irá guardar os arquivos do seu projeto e o histórico de alteração deles, e aqui eu explico todos os detalhes de como fazer isto na interface do GitHub e os diferentes tipos de repos
 
 ### 🎁 Bônus
-- Sistema Operacionais: especialmente o Linux/Arch-Linux (TODO: um index sobre SO)
-- Text-Editor (TODO: um index com tudo sobre editor de texto principalmente NVIM)
+- Sistema Operacionais: especialmente o Linux/Arch-Linux (TODO: um index sobre SO, futuramente)
+- Text-Editor (TODO: um index com tudo sobre editor de texto principalmente NVIM, futuramente)
 
 **Fazer uma revisão de tudo que foi aprendido de modo linear**:
 - [ ] Qual o ambiente de desenvolvimento & ferramentas devo usar?
@@ -28,29 +28,29 @@ Ferramentas para melhor workflow: Tmux, Lazygit, Docker, Obsisdian, Ghostty, yaz
 - [ ] Text-Editor
 
 ## Dia 2
-### [[Gerenciadores de versão]]
-- [[Guia-Gerenciadores de versão modernos]]
+### [[TOOLS-GerenciadoresDeVersão| Gerenciador de versões]]
+- [[Manual-GerenciadoresDeVersãoModernos]]
 
-### [[Paralisia por analise]]
+### [[ParalisiaPorAnalise | Paralisia por analise]]
 		lorem-ipsum
 		
-## [[Protocolos de rede]]
+## [[WEB-ProtocolosDeRede]]
 	lorem-ipsum
 
-### [[Client -> Servidor]]
+### [[WEB-CLIENT->SERVER | CLIENT -> SERVER]]
 	lorem-ipsum
 
 ### 🎁 Bônus
-- Linguagens de programação (TODO: um index sobre o assunto como um overview)
+- Linguagens de programação (TODO: um index sobre o assunto como um overview, futuramente)
 
 ## Dia 3
-### [[DEVOPS]] (TODO: completar esse topico)
+### [[DEVOPS|introdução ao DevOps]] (TODO: completar esse topico)
 	lorem-ipsum
 
-### [[Hospedagem de código]]
+### [[DEVOPS-HospedagemDeCodigo]]
 	lorem-ipsum
 
-### [[Plataformas de Deploy]]
+### [[DEVOPS-PlataformasDeDeploy]]
 	lorem-ipsum
 
 ## Dia 4
@@ -63,14 +63,14 @@ Ferramentas para melhor workflow: Tmux, Lazygit, Docker, Obsisdian, Ghostty, yaz
 ### [[Constâncias em projetos]]
 	lorem-ipsum
 
-### [[Issue Inception]]
+### [[DEV-IssueInception]]
 	lorem-ipsum
 
 ## Dia 5
-### [[Estilização de código]]
+### [[DEV-EstilizaçãoDeCódigo]]
 	lorem-ipsum
 
-### [[DNS]]
+### [[WEB-DNS| DNS]]
 	lorem-ipsum
 
 ### [[Não confie 100% em nenhum serviço]]
@@ -78,23 +78,23 @@ Ferramentas para melhor workflow: Tmux, Lazygit, Docker, Obsisdian, Ghostty, yaz
 
 ## Dia 6
 
-### [[MVP & PoC]]
+### [[MVP&PoC]]
 	lorem-ipsum
 
 ### [[Overengineering]]
 	lorem-ipsum
 
-### [[Arquitetura de Software que funciona]]
+### [[Arquitetura-de-Software-que-funciona]]
 	lorem-ipsum
 
 ### [[Teoria McDonlads]]
 	lorem-ipsum
 
 ## Dia 7
-### [[Testes Automatizados]]
+### [[DEV-TestesAutomatizados]]
 	lorem-ipsum
 
-### [[HTTP Na Prática]]
+### [[WEB-HTTPNaPratica]]
 	lorem-ipsum
 
 ### [[Não é magia, É tecnologia]]
@@ -108,20 +108,22 @@ Ferramentas para melhor workflow: Tmux, Lazygit, Docker, Obsisdian, Ghostty, yaz
 ### [[API]]
 	lorem-ipsum
 
-### [[REST API]]
+### [[API-REST]]
 	lorem-ipsum
 
-### [[API HEALTH CHECK]]
+### [[API-HEALTHCHECK]]
 	lorem-ipsum
 
 ## Dia 9
-### [[Banco de Dados]]
+### [[GreenHouse 🏡/Knowledge-Vaullt/DATABASE| DATABASE]]
 	lorem-ipsum
 
-### [[Variáveis de Ambiente]]
+### [[DEV-ENVDEV | Ambiente de desenvolviment]]
 	lorem-ipsum
 
-### [[GreenHouse 🏡/Knowledge-Vaullt/DOCKER|DOCKER]]
+### [[DCK|Docker]]
+	lorem-ipsum
 
+## Dia 10
 
 

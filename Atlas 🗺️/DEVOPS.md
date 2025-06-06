@@ -1,2 +1,2 @@
-[[Hospedagem de código]]
-[[CI & CD]]
+[[DEVOPS-HospedagemDeCodigo]]
+[[DEVOPS-CI&CD]]

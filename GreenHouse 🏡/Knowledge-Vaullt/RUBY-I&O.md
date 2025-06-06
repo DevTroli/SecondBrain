@@ -69,4 +69,4 @@
   **A:** Quando precisar inspecionar a estrutura exata do objeto (ex: diferenciar `nil` de string vazia).  
 
 - **Q:** Posso usar `;` para múltiplos comandos?  
-  **A:** Sim, mas evite em códigos complexos para manter o [[Ruby Style Guide]]. Ex: `puts "a"; puts "b"`
+  **A:** Sim, mas evite em códigos complexos para manter o [[RUBY-STYLE]]. Ex: `puts "a"; puts "b"`

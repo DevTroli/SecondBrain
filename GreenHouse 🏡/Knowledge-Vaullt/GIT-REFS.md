@@ -42,7 +42,7 @@ Localizados no diretório `.git/`:
 
 ### Refs Compactadas (Packed Refs)
 
-Para otimização, o Git ocasionalmente compacta refs em um único arquivo, usando o [[GIT GC]]:
+Para otimização, o Git ocasionalmente compacta refs em um único arquivo, usando o [[GIT-GC]]:
 ```bash
 git gc  # Força a compactação
 ```
@@ -99,11 +99,11 @@ git show HEAD^2^1   # Primeiro pai do segundo pai
 ## Considerações de Performance
 
 - Refs compactadas (`packed-refs`) melhoram performance em repositórios grandes
-- [[GIT REFLOG]] podem crescer significativamente; limpe periodicamente com `git gc`
+- [[GIT-REFLOG]] podem crescer significativamente; limpe periodicamente com `git gc`
 - Use refs relativas com moderação em scripts (porque podem ser ações computacionalmente custosas)
 
 ## Melhores Práticas
 
-1. Mantenha convenções de [[SEMANTIC COMMIT]]
+1. Mantenha convenções de [[DEV-SemanticsCommits]]
 2. Limpe refs remotas obsoletas regularmente
-3. Monitore o tamanho do reflog em repositórios grandes e limpe os com [[GIT GC]]
+3. Monitore o tamanho do reflog em repositórios grandes e limpe os com [[GIT-GC]]

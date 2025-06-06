@@ -1,9 +1,3 @@
-27-March-2025 | 19:09
-
-Status: #done 
-- Tags: #ruby, #bestpractices , #development   
-
----  
 ## Conceitos Centrais  
 - **Definição Simplificada:**  
   O *Ruby Style Guide* é um conjunto de recomendações para escrever código Ruby claro, consistente e fácil de manter.  

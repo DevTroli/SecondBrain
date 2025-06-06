@@ -8,35 +8,35 @@ Além disso, o Git trouxe soluções eficientes para **merge conflicts** (um dos
 
 ---
 # Meus artigos
-- [[Pull Request - how to be good]]
-- [[THE RISE OF GIT]]
+- [[PullRequest]]
+- [[THE-RISE-OF-GIT]]
 
 # 🤝Workflow Básico
-- [[GIT WORKFLOW]] (Entenda o fluxo de trabalho básico e boas práticas no Git)
-- [[PULL REQUEST]] (Como colaborar e revisar código utilizando pull requests)
+- [[GIT-WORKFLOW]] (Entenda o fluxo de trabalho básico e boas práticas no Git)
+- [[GIT-PULLREQUEST]] (Como colaborar e revisar código utilizando pull requests)
 
 ## 🔄 Operações com commits
-- [[GIT RESET, REVERT & CHECKOUT]] (Diferenças entre reset, revert e checkout)
-- [[GIT - SQUASH COMMITS INTO ONE COMMIT]] (Combinar múltiplos commits em 1 )
-- [[SEMANTIC COMMIT]] (Como fazer bons commits e como usar emojis neles)
+- [[GIT-Reset,Revert,Checkout]] (Diferenças entre reset, revert e checkout)
+- [[GIT-SquashCommits]] (Combinar múltiplos commits em 1 )
+- [[DEV-SemanticsCommits]] (Como fazer bons commits e como usar emojis neles)
 
 ## 🔍Visualização & Navegação
-- [[GIT REFS]] (O que são e como funcionam as referências no Git)
-- [[GIT DIFF]] (Vendo a diferença entre os commits pela diferença deles)
-- [[GIT REFLOG]] (Recuperando referências perdidas com o git reflog)
-- [[GIT LOG]] (Comandos para visualizar o histórico de commits)
+- [[GIT-REFS]] (O que são e como funcionam as referências no Git)
+- [[GIT-DIFF]] (Vendo a diferença entre os commits pela diferença deles)
+- [[GIT-REFLOG]] (Recuperando referências perdidas com o git reflog)
+- [[GIT-LOG]] (Comandos para visualizar o histórico de commits)
 
 ## 🧹Manutenção de Repositórios
-- [[GIT IGNORE]]  (fundamental para manter seu repositório limpo e seguro)
-- [[GIT LFS]] (Armazenamento de arquivos grandes utilizando Git Large File Storage)
-- [[GIT GC]] (Gerenciamento e limpeza do repositório com git gc)
+- [[GIT-IGNORE]]  (fundamental para manter seu repositório limpo e seguro)
+- [[GIT-LFS]] (Armazenamento de arquivos grandes utilizando Git Large File Storage)
+- [[GIT-GC]] (Gerenciamento e limpeza do repositório com git gc)
 
 ## 🛠️ Conceitos Avançados
-- [[GIT - Plumbing & Porcelain]] (Entendendo os níveis de comandos do Git)
+- [[GIT-Plumbing&Porcelain]] (Entendendo os níveis de comandos do Git)
 
 # 🌟 Extras
-- [[GIST]] (Compartilhamento de snippets e pequenas porções de código)
-- [[GitHub CLI]] (Uso total do Github por meio do terminal)
+- [[GIT-GIST]] (Compartilhamento de snippets e pequenas porções de código)
+- [[GIT-GitHubCLI]] (Uso total do Github por meio do terminal)
 
 ## 🧩 Fluxo de Conhecimento
 ```mermaid

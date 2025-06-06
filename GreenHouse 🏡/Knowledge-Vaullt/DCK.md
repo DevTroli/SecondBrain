@@ -2,7 +2,7 @@
 ### O Pesadelo que assolou Todo Desenvolvedor 
 
 >*"Funciona na minha máquina."* 
->- Dizeres de todo dev antes do docker
+>- Frases de todo dev antes do docker
 
 Imagine-se em 2012, em uma situação que para qualquer equipe de tecnologia da época, ilustra um dos maiores desafios do desenvolvimento de software: a inconsistência entre ambientes. O código que florescia no computador de um desenvolvedor muitas vezes murchava quando transferido para outra máquina. Esta inconsistência não era apenas irritante — era economicamente devastadora.
 

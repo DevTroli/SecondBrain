@@ -1,20 +1,20 @@
 ## Guia Definitivo do GitHub CLI para Iniciantes
 
 ## Sumário
-1. [[GitHub CLI#1.1 Introdução ao GitHub CLI|Introdução ao GitHub CLI]]
-2. [[GitHub CLI#2.1 Instalação|Instalação]]
-3. [[GitHub CLI#3.1 Primeiros Passos|Primeiros Passos]]
-4. [[GitHub CLI#4.1 Gerenciando Repositórios|Gerenciando Repositórios]]
-5. [[GitHub CLI#5.1 Fluxo de Trabalho com Branches|Fluxo de Trabalho com Branches]]
-6. [[GitHub CLI#6.1 Pull Requests|Pull Requests]]
-7. [[GitHub CLI#7.1 Issues|Issues]]
-8. [[GitHub CLI#8.1 Codespaces|Codespaces]]
-9. [[GitHub CLI#9.1 Gists e Snippets|Gists e Snippets]]
-10. [[GitHub CLI#10.1 Workflows Avançados|Workflows Avançados]]
-11. [[GitHub CLI#11.1 Aliases e Atalhos|Aliases e Atalhos]]
-12. [[GitHub CLI#12.1 Automação|Automação]]
-13. [[GitHub CLI#13.1 Dicas e Truques|Dicas e Truques]]
-14. [[GitHub CLI#14.1 Recursos para Aprendizado|Recursos para Aprendizado]]
+1. [[GIT-GitHubCLI#1.1 Introdução ao GitHub CLI|Introdução ao GitHub CLI]]
+2. [[GIT-GitHubCLI#2.1 Instalação|Instalação]]
+3. [[GIT-GitHubCLI#3.1 Primeiros Passos|Primeiros Passos]]
+4. [[GIT-GitHubCLI#4.1 Gerenciando Repositórios|Gerenciando Repositórios]]
+5. [[GIT-GitHubCLI#5.1 Fluxo de Trabalho com Branches|Fluxo de Trabalho com Branches]]
+6. [[GIT-GitHubCLI#6.1 Pull Requests|Pull Requests]]
+7. [[GIT-GitHubCLI#7.1 Issues|Issues]]
+8. [[GIT-GitHubCLI#8.1 Codespaces|Codespaces]]
+9. [[GIT-GitHubCLI#9.1 Gists e Snippets|Gists e Snippets]]
+10. [[GIT-GitHubCLI#10.1 Workflows Avançados|Workflows Avançados]]
+11. [[GIT-GitHubCLI#11.1 Aliases e Atalhos|Aliases e Atalhos]]
+12. [[GIT-GitHubCLI#12.1 Automação|Automação]]
+13. [[GIT-GitHubCLI#13.1 Dicas e Truques|Dicas e Truques]]
+14. [[GIT-GitHubCLI#14.1 Recursos para Aprendizado|Recursos para Aprendizado]]
 
 
 # 1.1 Introdução ao GitHub CLI

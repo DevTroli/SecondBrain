@@ -1,9 +1,9 @@
 ## 🚀 Fundamentos
 
 - [[API]] - Compreendendo mais sobre interfaces de programação de aplicações
-- [[REST API]] - Entendendo interfaces de programação de aplicações no padrão RESTful
-- [[Protocolos de rede]] - Visão geral dos principais protocolos de comunicação
-- [[Client -> Servidor]] - Arquitetura fundamental da comunicação em rede
+- [[API-REST]] - Entendendo interfaces de programação de aplicações no padrão RESTful
+- [[WEB-ProtocolosDeRede]] - Visão geral dos principais protocolos de comunicação
+- [[WEB-CLIENT->SERVER|CLIENT->SERVER]] - Arquitetura fundamental da comunicação em rede
 
 ## 📡 Tipos de Protocolos
 

@@ -404,4 +404,4 @@ Depois você vai adicionando:
 O importante é **começar**. Um health check simples que funciona é infinitamente melhor que um complexo que nunca sai do papel.
 
 > [! Opcional]
-> > Se quiser se aprofundar mais no assunto leia essa texto-ensaio [[API HEALTH]]
+> > Se quiser se aprofundar mais no assunto leia essa texto-ensaio [[API-HEALTH]]

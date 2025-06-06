@@ -6,8 +6,8 @@
 É o processo de **automatizar a entrega** de novas funcionalidades direto pro servidor. Imagine ele como um entregador de pizza ultra-rápido que, toda vez que você termina uma feature, leva ela prontinha pro cliente sem você precisar sair de casa!
 
 ### Como funciona na prática?  
-1. Você faz um commit na `main` do [[Repositórios#**1. Repositório Local**|seu repositório local]].  
-2. Manda pro [[Repositórios#**2. Repositório Remoto (Origin)**|Repositório de origem (GitHub)]] com `git push` 💻.  
+1. Você faz um commit na `main` do [[DEV-REPOSITORIOS#**1. Repositório Local**|seu repositório local]].  
+2. Manda pro [[DEV-REPOSITORIOS#**2. Repositório Remoto (Origin)**|Repositório de origem (GitHub)]] com `git push` 💻.  
 3. O CD entra em ação:  
    - 👀 **Monitora** o repositório remoto 24/7  
    - ✅ **Roda testes** (se você configurou)  

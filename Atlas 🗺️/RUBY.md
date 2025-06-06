@@ -1,10 +1,10 @@
 # 💎 Ruby Language
 
 ## 🚀 Fundamentos da Linguagem
-- [[Ruby Data types]] - Tipos primitivos e estruturas de dados fundamentais
-- [[Ruby Variables]] - Escopo, nomenclatura e manipulação de variáveis
-- [[Ruby Objects]] - Entendendo o paradigma orientado a objetos no Ruby
-- [[Ruby Style Guide]] - Convenções e boas práticas de codificação
+- [[RUBY-DATATYPES]] - Tipos primitivos e estruturas de dados fundamentais
+- [[RUBY-VARIABLES]] - Escopo, nomenclatura e manipulação de variáveis
+- [[RUBY-OBJECTS]] - Entendendo o paradigma orientado a objetos no Ruby
+- [[RUBY-STYLE]] - Convenções e boas práticas de codificação
 
 ## 🧱 Estruturas e Controle de Fluxo
 - [[Ruby Conditionals]] - If/else, case/when e expressões condicionais
