@@ -8,13 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "edfba6b741de3489",
+            "id": "3a081e30b92829e1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Atlas 🗺️/DEVELOPER-101.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "DEVELOPER-101"
             }
           }
         ]
@@ -173,8 +187,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "edfba6b741de3489",
+  "active": "3a081e30b92829e1",
   "lastOpenFiles": [
+    "GreenHouse 🏡/Knowledge-Vaullt/DATABASE.md",
+    "Atlas 🗺️/DEVELOPER-101.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/DCK.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/DEV-ENVDEV.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/Business-Rules/Não confie 100% em nenhum serviço.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/Arquitetura-de-Software-que-funciona.md",
+    "Field-Work 🚜/Current-Projects/CINEMA!/3.Docs/Pesquisas-Mercadológicas/Teoria McDonlads.md",
+    "Teoria McDonalds.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/Business-Rules/Constâncias em projetos.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/Business-Rules/Organização de tarefas.md",
+    "Atlas 🗺️/GIT.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/Soft-Skills/ParalisiaPorAnalise.md",
+    "Atlas 🗺️/ROADMAP DEVELOPER 101.md",
     "GreenHouse 🏡/Active-Experiments/Manual-GerenciadoresVersão.md",
     "GreenHouse 🏡/Active-Experiments/Manual-Tmux.md",
     "SeedBed 🌱/REST-ARCHTECTURE_TWITTER.canvas",
@@ -183,16 +210,13 @@
     "SeedBed 🌱/INFRAESTRUTURA-DEVOPS.canvas",
     "SeedBed 🌱/GIT.canvas",
     "SeedBed 🌱/Django.canvas",
-    "Atlas 🗺️/ROADMAP DEVELOPER 101.md",
     "SeedBed 🌱/Docker.canvas",
     "Garden 🌺/Como usar o Garden?.md",
     "SeedBed 🌱/16-05-2025.md",
     "Atlas 🗺️/RUBY.md",
     "Atlas 🗺️/APIs e Protocolos.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/Arquitetura-de-Software-que-funciona.md",
     "GreenHouse 🏡/Knowledge-Vaullt/Sem título 1",
     "GreenHouse 🏡/Knowledge-Vaullt/Business-Rules",
-    "GreenHouse 🏡/Knowledge-Vaullt/Business-Rules/Não confie 100% em nenhum serviço.md",
     "GreenHouse 🏡/Knowledge-Vaullt/PY-PYTESTS.md",
     "GreenHouse 🏡/Knowledge-Vaullt/WEB-ProtocolosDeRede.md",
     "GreenHouse 🏡/Knowledge-Vaullt/TOOLS-LazyApps.md",
@@ -201,16 +225,6 @@
     "Protocolos TCP",
     "GreenHouse 🏡/Knowledge-Vaullt/WEB-CLIENT->SERVER.md",
     "GreenHouse 🏡/Knowledge-Vaullt/API-REST.md",
-    "Atlas 🗺️/DEVOPS.md",
-    "Atlas 🗺️/DJANGO.md",
-    "Atlas 🗺️/APRENDIZADOS.md",
-    "Atlas 🗺️/CINEMA.md",
-    "Atlas 🗺️/GIT.md",
-    "Garden 🌺/Twelve-Factor-App.md",
-    "Garden 🌺/PullRequest.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/GIT-WORKFLOW.md",
-    "Guia-Gerenciadores de versão modernos.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/RUBY-DATATYPES.md",
     "Field-Work 🚜/Projects-Archives",
     "Field-Work 🚜/Current-Projects",
     "GreenHouse 🏡/Active-Experiments",
