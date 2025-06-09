@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "985c0c89bf0a5cbb",
+        "id": "6090b922d9dea8d1",
         "type": "tabs",
         "children": [
           {
-            "id": "3a081e30b92829e1",
+            "id": "0636909938820fc4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GreenHouse 🏡/Knowledge-Vaullt/Soft-Skills/MindSeed.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "MindSeed"
+              "title": "Nova aba"
             }
           }
         ]
@@ -189,8 +175,26 @@
   },
   "active": "75843b304773add4",
   "lastOpenFiles": [
-    "GreenHouse 🏡/Cultural-Observatory/CINEMA/ROADMAP HISTÓRIA DOS MUSICAIS.md",
+    "Garden 🌺/Sua Segurança é uma Porcaria!.md",
+    "GreenHouse 🏡/Active-Experiments/Manual-ConfiguraçãoBitWardenCLI.md",
+    "GreenHouse 🏡/Active-Experiments/Manual-PluginsZSH.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/OS-Fonts.md",
+    "GreenHouse 🏡/Active-Experiments/Manual-UtilitáriosRust.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/OS-FileSystem.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/OS-Clipboard.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/Sem título",
+    "GreenHouse 🏡/Knowledge-Vaullt/OS-StatusBar.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/OS-AppLauncher.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/OS-DisplayManagers.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/OS-Bluetooth.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/OS-Audio.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/OS-InterfaceGrafica.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/OS-GerenciamentoDeWifi.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/OS-ArchWay.md",
+    "GreenHouse 🏡/Active-Experiments/Manual-InstalaçãoArchLinux.md",
+    "Atlas 🗺️/LINUX.md",
     "GreenHouse 🏡/Knowledge-Vaullt/Soft-Skills/MindSeed.md",
+    "GreenHouse 🏡/Cultural-Observatory/CINEMA/ROADMAP HISTÓRIA DOS MUSICAIS.md",
     "Atlas 🗺️/DEVELOPER-101.md",
     "GreenHouse 🏡/Knowledge-Vaullt/DATABASE.md",
     "GreenHouse 🏡/Knowledge-Vaullt/DCK.md",
@@ -198,14 +202,6 @@
     "GreenHouse 🏡/Knowledge-Vaullt/Business-Rules/Não confie 100% em nenhum serviço.md",
     "GreenHouse 🏡/Knowledge-Vaullt/Arquitetura-de-Software-que-funciona.md",
     "Field-Work 🚜/Current-Projects/CINEMA!/3.Docs/Pesquisas-Mercadológicas/Teoria McDonlads.md",
-    "Teoria McDonalds.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/Business-Rules/Constâncias em projetos.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/Business-Rules/Organização de tarefas.md",
-    "Atlas 🗺️/GIT.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/Soft-Skills/ParalisiaPorAnalise.md",
-    "Atlas 🗺️/ROADMAP DEVELOPER 101.md",
-    "GreenHouse 🏡/Active-Experiments/Manual-GerenciadoresVersão.md",
-    "GreenHouse 🏡/Active-Experiments/Manual-Tmux.md",
     "SeedBed 🌱/REST-ARCHTECTURE_TWITTER.canvas",
     "SeedBed 🌱/REST_API.canvas",
     "SeedBed 🌱/Quando-Anotar.canvas",
@@ -213,17 +209,8 @@
     "SeedBed 🌱/GIT.canvas",
     "SeedBed 🌱/Django.canvas",
     "SeedBed 🌱/Docker.canvas",
-    "Garden 🌺/Como usar o Garden?.md",
-    "SeedBed 🌱/16-05-2025.md",
-    "Atlas 🗺️/RUBY.md",
-    "Atlas 🗺️/APIs&Protocolos.md",
     "GreenHouse 🏡/Knowledge-Vaullt/Sem título 1",
     "GreenHouse 🏡/Knowledge-Vaullt/Business-Rules",
-    "GreenHouse 🏡/Knowledge-Vaullt/PY-PYTESTS.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/WEB-ProtocolosDeRede.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/TOOLS-LazyApps.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/Brainstorm 🌪️/HTTP.md",
-    "Protocolos TCP/IP.md",
     "Protocolos TCP",
     "Field-Work 🚜/Projects-Archives",
     "Field-Work 🚜/Current-Projects",
@@ -231,7 +218,6 @@
     "2 -  Materiais de referencia/Fragmentos/Tools/Sem título",
     "2 -  Materiais de referencia/Fragmentos/Tools",
     "Protocolos HTTP",
-    "GreenHouse 🏡/Cultural-Observatory/Games",
     "1 - Temporario/Letterboxd.canvas"
   ]
 }
