@@ -1,20 +1,34 @@
 {
   "main": {
-    "id": "f81e60f5e940df80",
+    "id": "d91edd5e8bd2a557",
     "type": "split",
     "children": [
       {
-        "id": "b5ecc7a3ddb916df",
+        "id": "034376ac8553c9b4",
         "type": "tabs",
         "children": [
           {
-            "id": "96bd051e010a513a",
+            "id": "1b4ea12b7950c074",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "GreenHouse 🏡/Cultural-Observatory/Matemática/Do zero ao matemático.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Do zero ao matemático"
             }
           }
         ]
@@ -23,15 +37,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3b099cc789b58c25",
+    "id": "2dc277b0a3269487",
     "type": "split",
     "children": [
       {
-        "id": "09157778dace9d77",
+        "id": "ce53c17eb8c6b5a0",
         "type": "tabs",
         "children": [
           {
-            "id": "75843b304773add4",
+            "id": "719faf6d00a43702",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +58,7 @@
             }
           },
           {
-            "id": "2e9d848a31d16fc8",
+            "id": "1f9442cd92a46bf3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,102 +75,94 @@
             }
           },
           {
-            "id": "a89f57b0b845b640",
+            "id": "ee4b5f5b9b6aa9b2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 315.5041847229004
+    "width": 300
   },
   "right": {
-    "id": "ee79e258ecb84199",
+    "id": "636cca390069a7cc",
     "type": "split",
     "children": [
       {
-        "id": "506b1502709264bf",
+        "id": "84dedef3fa8dbb19",
         "type": "tabs",
         "children": [
           {
-            "id": "15bdcb3be0a39dd3",
+            "id": "1f0f36cf04403800",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 -  Materiais de referencia/Artigos/GIT PULL REQUEST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for GIT PULL REQUEST"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "4dd517530183e2ca",
+            "id": "cf989fe2c4bbec1d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 -  Materiais de referencia/Artigos/GIT PULL REQUEST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from GIT PULL REQUEST"
+              "title": "Links de saída"
             }
           },
           {
-            "id": "eb25357924732da9",
+            "id": "241e5abdca6c9ac0",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "90f392d49b3cc90e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "888686211fa9af4f",
+            "id": "ba94c243cd73445c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 -  Materiais de referencia/Artigos/GIT PULL REQUEST.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of GIT PULL REQUEST"
+              "title": "Sumário"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 347.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -167,58 +173,25 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
+      "markdown-importer:Abrir importador Markdown": false,
       "random-note:Abrir nota aleatória": false,
       "obsidian-git:Open Git source control": false,
-      "markdown-importer:Abrir importador Markdown": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "96bd051e010a513a",
+  "active": "1b4ea12b7950c074",
   "lastOpenFiles": [
-    "Atlas 🗺️/NVIM.md",
-    "SeedBed 🌱/NVIM-ZERO2HERO.canvas",
-    "SeedBed 🌱/Como o SeedBed?.md",
-    "SeedBed 🌱/NVIM-ZERO2HERO.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/NVIM-BUFFER.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/NVIM-COLORSCHEME.md",
-    "GreenHouse 🏡/Active-Experiments/Manual-Tmux.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/NVIM-ALPHA.md",
-    "Atlas 🗺️/ARCH-LINUX.md",
-    "Atlas 🗺️/DEVELOPER-101.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/NVIM-WHICHKEY.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/NVIM-COLORPICKER.md",
-    "SeedBed 🌱/DEVELOPER-101.canvas",
-    "GreenHouse 🏡/Knowledge-Vaullt/NVIM-LSP.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/NVIM-TELESCOPE.md",
-    "GreenHouse 🏡/Active-Experiments/Manual-NvimBuffers.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/NVIM-NEOTREE.md",
-    "GreenHouse 🏡/Active-Experiments/Manual-NvimAlpha.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/NVIM-COMMETS.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/NVIM-HLCHUNK.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/NVIM-LUALINE.md",
-    "GreenHouse 🏡/Active-Experiments/Manual-NvimNeoTree.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/NVIM-NOICE.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/NVIM-NONELS.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/NVIM-OIL.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/NVIM-TERMINAL.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/NVIM-TREESITTER.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/Sem título",
-    "SeedBed 🌱/REST-ARCHTECTURE_TWITTER.canvas",
-    "SeedBed 🌱/REST_API.canvas",
-    "SeedBed 🌱/Quando-Anotar.canvas",
-    "SeedBed 🌱/INFRAESTRUTURA-DEVOPS.canvas",
-    "SeedBed 🌱/GIT.canvas",
-    "SeedBed 🌱/Django.canvas",
-    "SeedBed 🌱/Docker.canvas",
-    "GreenHouse 🏡/Knowledge-Vaullt/Sem título 1",
-    "GreenHouse 🏡/Knowledge-Vaullt/Business-Rules",
-    "Protocolos TCP",
-    "Field-Work 🚜/Projects-Archives",
-    "Field-Work 🚜/Current-Projects",
-    "GreenHouse 🏡/Active-Experiments",
-    "2 -  Materiais de referencia/Fragmentos/Tools/Sem título",
-    "2 -  Materiais de referencia/Fragmentos/Tools",
-    "Protocolos HTTP",
-    "1 - Temporario/Letterboxd.canvas"
+    "GreenHouse 🏡/Growing-Seasons/Lista de estudos.md",
+    "GreenHouse 🏡/Cultural-Observatory/Matemática/Do zero ao matemático.md",
+    "GreenHouse 🏡/Growing-Seasons/Sistema de pontuação FATEC.md",
+    "GreenHouse 🏡/Growing-Seasons/1° Semana.md",
+    "GreenHouse 🏡/Growing-Seasons/Do Zero ao Primeiro Passo.md",
+    "GreenHouse 🏡/Cultural-Observatory/Redação/Do zero à redação.md",
+    "GreenHouse 🏡/Cultural-Observatory/Matemática/Operações Matemáticas.md",
+    "GreenHouse 🏡/Cultural-Observatory/Matemática/Números.md",
+    "GreenHouse 🏡/Cultural-Observatory/Redação/Guia para Redação 100%.md",
+    "GreenHouse 🏡/Cultural-Observatory/Redação",
+    "GreenHouse 🏡/Cultural-Observatory/Sem título.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/OS-Bluetooth.md"
   ]
 }

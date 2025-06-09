@@ -1,6 +1,6 @@
 {
-  "snapToObjects": true,
-  "snapToGrid": false,
+  "snapToObjects": false,
+  "snapToGrid": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "1 - Temporario",
   "cardLabelVisibility": "hover"

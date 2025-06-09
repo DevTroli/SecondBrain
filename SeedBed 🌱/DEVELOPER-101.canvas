@@ -1,11 +1,9 @@
 {
 	"nodes":[
-		{"id":"9d10b899e5a4a28b","x":-1139,"y":-695,"width":400,"height":400,"type":"group","label":"Referências"},
+		{"id":"9d10b899e5a4a28b","type":"group","x":-1139,"y":-695,"width":400,"height":400,"label":"Referências"},
 		{"id":"fase_1_fundacao","type":"text","text":"## FASE 1: FUNDAÇÃO\n*Dias 1-2*","x":-800,"y":-200,"width":324,"height":104,"color":"#4ecdc4"},
 		{"id":"inimigo_principal","type":"text","text":"🚨 **INIMIGO #1**\n**Paralisia por Análise**\n\n• 50 artigos sobre stacks\n• Mudança constante\n• \"Preciso aprender mais\"\n\n**SOLUÇÃO:** 80/20 Rule","x":-1325,"y":350,"width":266,"height":228,"color":"#ff6b6b"},
 		{"id":"fase_2_web","type":"text","text":"## FASE 2: WEB & METODOLOGIA\n*Dias 3-4*","x":-274,"y":-187,"width":275,"height":135,"color":"#4ecdc4"},
-		{"id":"fase_3_qualidade","type":"text","text":"## FASE 3: QUALIDADE & ARQUITETURA\n*Dias 5-6*","x":290,"y":-200,"width":310,"height":148,"color":"#4ecdc4"},
-		{"id":"mindset_chave","type":"text","text":"🧠 **MINDSET CHAVE**\n\"Não é magia, é tecnologia\"\n\n• Read the docs\n• Experimente\n• Olhe o código\n• Construa versões simples","x":1073,"y":196,"width":283,"height":196,"color":"#96ceb4"},
 		{"id":"dia_1_ambiente","type":"text","text":"**DIA 1: Montando Fundação**\n• Ambiente de Desenvolvimento\n• Paralisia por Análise\n• GIT\n• Repositórios","x":-1192,"y":22,"width":309,"height":163,"color":"#45b7d1"},
 		{"id":"dia_2_disciplina","type":"text","text":"**DIA 2: Disciplina Mental**\n• Constâncias em Projetos\n• Organização de Tarefas\n• Gerenciadores de Versão","x":-800,"y":36,"width":294,"height":132,"color":"#45b7d1"},
 		{"id":"dia_3_web","type":"text","text":"**DIA 3: Fundamentos Web**\n• Protocolos de Rede\n• Cliente-Servidor\n• DNS","x":-476,"y":36,"width":275,"height":143,"color":"#96ceb4"},
