@@ -45,7 +45,5 @@ pie
 
 ## 📝 Notas Rápidas
 > O CineTab deve focar na simplicidade e qualidade das discussões, não em recursos
->
 > Priorizar texto sobre imagens - manter o espírito de fóruns clássicos
->
 > Referência de UX: HackerNews + características próprias para discussão de cinema

@@ -1,9 +1,9 @@
-# 📅 Semana (02/04 - 09/04) 
+# 📅 Semana (02/04 - 16/06) 
 
 ## ⚡ Resumo Semanal
-- **UVs Concluídas:** ||45★|| ➔ ||45★|| (Total: ||90★||)
-- **Tarefas-Chave Concluídas:** 4/7
-- **Progresso Global:** ||0%|| 
+- **UVs Concluídas:** ||45★|| ➔ ||60★|| (Total: ||105★||)
+- **Tarefas-Chave Concluídas:** 6/7
+- **Progresso Global:** ||1,26%|| 
 
 ## ✅ Feitos Esta Semana
 - [x] Definição da stack tecnológica preliminar (5★)

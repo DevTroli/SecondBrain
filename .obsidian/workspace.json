@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "034376ac8553c9b4",
+        "id": "d8c46a0221c499dc",
         "type": "tabs",
         "children": [
           {
-            "id": "1b4ea12b7950c074",
+            "id": "a3ba888cb6731410",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GreenHouse 🏡/Cultural-Observatory/Matemática/Do zero ao matemático.md",
+                "file": "Field-Work 🚜/Current-Projects/CINEMA!/0.Central/Dashboard.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Do zero ao matemático"
+              "title": "Dashboard"
+            }
+          },
+          {
+            "id": "8d53fc80fb5abe35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Field-Work 🚜/Current-Projects/CINEMA!/0.Central/Planejamento.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Planejamento"
+            }
+          },
+          {
+            "id": "2a2b0c4c4370b320",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Field-Work 🚜/Current-Projects/CINEMA!/2.Planejamentos/Progresso-Semanal/Semana 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Semana 1"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,19 +228,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1b4ea12b7950c074",
+  "active": "2a2b0c4c4370b320",
   "lastOpenFiles": [
-    "GreenHouse 🏡/Growing-Seasons/Lista de estudos.md",
-    "GreenHouse 🏡/Cultural-Observatory/Matemática/Do zero ao matemático.md",
-    "GreenHouse 🏡/Growing-Seasons/Sistema de pontuação FATEC.md",
-    "GreenHouse 🏡/Growing-Seasons/1° Semana.md",
-    "GreenHouse 🏡/Growing-Seasons/Do Zero ao Primeiro Passo.md",
-    "GreenHouse 🏡/Cultural-Observatory/Redação/Do zero à redação.md",
-    "GreenHouse 🏡/Cultural-Observatory/Matemática/Operações Matemáticas.md",
-    "GreenHouse 🏡/Cultural-Observatory/Matemática/Números.md",
-    "GreenHouse 🏡/Cultural-Observatory/Redação/Guia para Redação 100%.md",
-    "GreenHouse 🏡/Cultural-Observatory/Redação",
+    "GreenHouse 🏡/Cultural-Observatory/Biologia/Entendimento da biologia das coisa.md",
+    "SeedBed 🌱/17-06-2025.md",
+    "GreenHouse 🏡/Cultural-Observatory/Biologia",
     "GreenHouse 🏡/Cultural-Observatory/Sem título.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/OS-Bluetooth.md"
+    "GreenHouse 🏡/Cultural-Observatory/Fisica/Física para ignorantes.md",
+    "GreenHouse 🏡/Cultural-Observatory/Redação/Proposta de estudo com cinema.md",
+    "GreenHouse 🏡/Cultural-Observatory/Fisica",
+    "GreenHouse 🏡/Cultural-Observatory/Redação/Guia para Redação 100%.md",
+    "GreenHouse 🏡/Cultural-Observatory/Redação/Do zero à redação.md",
+    "GreenHouse 🏡/Active-Experiments/Manual-BackupBTRFS.md",
+    "Field-Work 🚜/Current-Projects/CINEMA!/4.Recursos-Utilitarios/Proposta de Dissertação.md",
+    "GreenHouse 🏡/Growing-Seasons/Lista de estudos.md",
+    "Field-Work 🚜/Current-Projects/CINEMA!/0.Central/Planejamento.md",
+    "Field-Work 🚜/Current-Projects/CINEMA!/2.Planejamentos/Progresso-Semanal/Semana 1.md",
+    "Field-Work 🚜/Current-Projects/CINEMA!/0.Central/Dashboard.md",
+    "GreenHouse 🏡/Cultural-Observatory/CINEMA/ROADMAP HISTÓRIA DOS MUSICAIS.md",
+    "GreenHouse 🏡/Cultural-Observatory/CINEMA/Manual-AnaliseCriticas.md",
+    "Field-Work 🚜/Current-Projects/CINEMA!/2.Planejamentos/Progresso-Semanal/Semana 0.md",
+    "Field-Work 🚜/Current-Projects/CINEMA!/1.Desenvolvimento/CINEMA!.md",
+    "Field-Work 🚜/Current-Projects/CINEMA!/1.Desenvolvimento/CineTab.art.md",
+    "Field-Work 🚜/Current-Projects/CINEMA!/0.Central/Diretrizes CineTab.md",
+    "Field-Work 🚜/Current-Projects/CINEMA!/3.Docs/DOCS TECNICA CINETAB.md",
+    "Field-Work 🚜/Current-Projects/CINEMA!/4.Recursos-Utilitarios/Aprendendo com a concorrência.md",
+    "Field-Work 🚜/Current-Projects/CINEMA!/0.Central/CineScale.md",
+    "Field-Work 🚜/Current-Projects/S.E.C.O/Guia de Nutrição & Nutricionista.md",
+    "Field-Work 🚜/Current-Projects/S.E.C.O/Index.md",
+    "GreenHouse 🏡/Growing-Seasons/Do Zero ao Primeiro Passo.md",
+    "GreenHouse 🏡/Growing-Seasons/Sistema de pontuação FATEC.md",
+    "GreenHouse 🏡/Cultural-Observatory/Redação"
   ]
 }

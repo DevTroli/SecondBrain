@@ -163,9 +163,13 @@ Ah, verdade! Peço desculpas pelo lapso. Vou incluir o guia detalhado para **"Th
 
 **Perguntas para reflexão:**  
 - Como o filme critica o "sonho americano"?  
-- Por que a morte de Tony é filmada em silêncio, sem música?  
+- Por que a morte de Tony é filmada em silêncio, sem música? 
+- Por que os Jets respeitam/tem mais tolerancia com os sharks do que o policiais do filme?
+- Por que eles levam muito a serio isso de gangue e guerras sendo que todos ao seu redor veem como bobagem(que por acaso seria um exagero deles) mas eles se acham por isso
+- Tente entender melhor as 'mulheres de gangster' como a anitta e correlacione com a musica que ela canta com maria sobre esta feliz por estar apaixonado não importando se é certo ou errado esse amor, mas tendo seu valor pois é a unica coisa que tem (isso seria codepencia ou o amor em sua essencia ja que ambos sao assasinos ou gangsters)
+- Como os ideias e valores de um um relacionamento mudaram desde o conceito da paixão ardente até amor tranquilizador do filme mostando os personagem se conhcendo em um dia e ja pensando em casar (como no dueto de maria e tony sobre casamento) no outro e como eles amam se amam apesar do pesar (tipo ele matou seu irmão mas ainda o ama pois entende porque fez isso e sabe que foi preciso) e como se conecta com os conceito e principios de amor e paixão de hoje,seria uma evolução de 1961 para hoje em dia ou esse tipo de estilo de relacionamento estava fadado a dar errado com a evolução do ser humano natural
 
-**Atividade:** Analise a letra de *"America"*: como ela contrasta as promessas e realidades da imigração?  
+**Atividade:** Analise a letra de *"America"*: como ela contrasta as promessas e realidades da imigração nos contexto contemporâneo dos EUA ou qualquer outro com politicas rigidas?  
 
 ---
 

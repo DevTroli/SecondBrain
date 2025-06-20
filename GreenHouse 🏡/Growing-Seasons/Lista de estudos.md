@@ -228,87 +228,6 @@ Aqui está um modelo mais complexo e detalhado para sua **todolist de matérias 
 
 ---
 
-## 🌱 **Biologia**  
-### **Os seres vivos e suas interações**  
-- [ ] Cadeia e teia alimentar  
-- [ ] Níveis tróficos  
-- [ ] Ciclos biogeoquímicos  
-  - [ ] Carbono  
-  - [ ] Oxigênio  
-  - [ ] Nitrogênio  
-- [ ] Características básicas de um ecossistema  
-- [ ] Tipos de ecossistemas  
-  - [ ] Terrestres  
-  - [ ] Aquáticos  
-- [ ] Relações ecológicas  
-  - [ ] Cooperação  
-  - [ ] Competição  
-
-### **A intervenção humana e os desequilíbrios ambientais**  
-- [ ] Densidade e crescimento populacional  
-- [ ] Impacto nos ciclos naturais  
-  - [ ] Efeito estufa  
-  - [ ] Mudanças climáticas  
-  - [ ] Fertilizantes nitrogenados  
-- [ ] Fontes poluidoras  
-  - [ ] Ar  
-  - [ ] Água  
-  - [ ] Solo  
-- [ ] Destino do lixo e esgoto  
-  - [ ] Tratamento de água  
-  - [ ] Qualidade dos rios e córregos  
-  - [ ] Qualidade do ar  
-- [ ] Conservação ambiental x uso econômico da biodiversidade  
-- [ ] Tecnologias sustentáveis  
-- [ ] Conferências e compromissos ambientais  
-
-### **A saúde individual, coletiva e ambiental**  
-- [ ] Saúde e suas concepções ao longo da História  
-- [ ] Indicadores de desenvolvimento humano e saúde pública  
-  - [ ] Mortalidade infantil  
-  - [ ] Expectativa de vida  
-  - [ ] Doenças infectocontagiosas  
-- [ ] Principais doenças no Brasil  
-  - [ ] Por sexo  
-  - [ ] Por idade  
-  - [ ] Por renda  
-- [ ] Promoção da saúde e prevenção de doenças  
-- [ ] Saneamento básico e seu impacto  
-
-### **Organização celular e funções vitais**  
-- [ ] Organização celular  
-- [ ] Transporte celular  
-- [ ] Processos energéticos  
-  - [ ] Fotossíntese  
-  - [ ] Respiração celular  
-- [ ] Reprodução celular  
-  - [ ] Mitose  
-  - [ ] Câncer  
-
-### **Variabilidade genética e hereditariedade**  
-- [ ] Reprodução sexuada  
-- [ ] Leis de Mendel  
-- [ ] Herança ligada ao sexo  
-- [ ] Grupos sanguíneos  
-- [ ] Aberrações cromossômicas  
-
-### **DNA e Biotecnologia**  
-- [ ] Estrutura do DNA  
-- [ ] Engenharia genética  
-- [ ] Organismos geneticamente modificados  
-
-### **Classificação biológica**  
-- [ ] Taxonomia e árvores filogenéticas  
-- [ ] Caracterização dos reinos  
-
-### **A origem da vida e ideias evolucionistas**  
-- [ ] Darwin x Lamarck  
-- [ ] Mecanismos de evolução  
-
-### **Evolução biológica e cultural**  
-- [ ] Hominídeos  
-- [ ] Transformação do ambiente pelo homem  
-
 
 ## 📚 **Matemática**  
 ### **Aritmética e Álgebra**  
@@ -475,6 +394,88 @@ Aqui está um modelo mais complexo e detalhado para sua **todolist de matérias 
     - [ ] 💭 **Uso de modais e orações condicionais**
 
 ---
+
+## 🌱 **Biologia**  
+### **Os seres vivos e suas interações**  
+- [ ] Cadeia e teia alimentar  
+- [ ] Níveis tróficos  
+- [ ] Ciclos biogeoquímicos  
+  - [ ] Carbono  
+  - [ ] Oxigênio  
+  - [ ] Nitrogênio  
+- [ ] Características básicas de um ecossistema  
+- [ ] Tipos de ecossistemas  
+  - [ ] Terrestres  
+  - [ ] Aquáticos  
+- [ ] Relações ecológicas  
+  - [ ] Cooperação  
+  - [ ] Competição  
+
+### **A intervenção humana e os desequilíbrios ambientais**  
+- [ ] Densidade e crescimento populacional  
+- [ ] Impacto nos ciclos naturais  
+  - [ ] Efeito estufa  
+  - [ ] Mudanças climáticas  
+  - [ ] Fertilizantes nitrogenados  
+- [ ] Fontes poluidoras  
+  - [ ] Ar  
+  - [ ] Água  
+  - [ ] Solo  
+- [ ] Destino do lixo e esgoto  
+  - [ ] Tratamento de água  
+  - [ ] Qualidade dos rios e córregos  
+  - [ ] Qualidade do ar  
+- [ ] Conservação ambiental x uso econômico da biodiversidade  
+- [ ] Tecnologias sustentáveis  
+- [ ] Conferências e compromissos ambientais  
+
+### **A saúde individual, coletiva e ambiental**  
+- [ ] Saúde e suas concepções ao longo da História  
+- [ ] Indicadores de desenvolvimento humano e saúde pública  
+  - [ ] Mortalidade infantil  
+  - [ ] Expectativa de vida  
+  - [ ] Doenças infectocontagiosas  
+- [ ] Principais doenças no Brasil  
+  - [ ] Por sexo  
+  - [ ] Por idade  
+  - [ ] Por renda  
+- [ ] Promoção da saúde e prevenção de doenças  
+- [ ] Saneamento básico e seu impacto  
+
+### **Organização celular e funções vitais**  
+- [ ] Organização celular  
+- [ ] Transporte celular  
+- [ ] Processos energéticos  
+  - [ ] Fotossíntese  
+  - [ ] Respiração celular  
+- [ ] Reprodução celular  
+  - [ ] Mitose  
+  - [ ] Câncer  
+
+### **Variabilidade genética e hereditariedade**  
+- [ ] Reprodução sexuada  
+- [ ] Leis de Mendel  
+- [ ] Herança ligada ao sexo  
+- [ ] Grupos sanguíneos  
+- [ ] Aberrações cromossômicas  
+
+### **DNA e Biotecnologia**  
+- [ ] Estrutura do DNA  
+- [ ] Engenharia genética  
+- [ ] Organismos geneticamente modificados  
+
+### **Classificação biológica**  
+- [ ] Taxonomia e árvores filogenéticas  
+- [ ] Caracterização dos reinos  
+
+### **A origem da vida e ideias evolucionistas**  
+- [ ] Darwin x Lamarck  
+- [ ] Mecanismos de evolução  
+
+### **Evolução biológica e cultural**  
+- [ ] Hominídeos  
+- [ ] Transformação do ambiente pelo homem  
+
 
 ## ⚛️ **Física**
 
