@@ -100,20 +100,23 @@ Resolver a **degradação das discussões sobre cinema** em redes sociais tradic
 - [ ] Protótipo de baixa fidelidade
 
 ---
-# 📊 Fase 1: cinetab.art (850★)
+# 📊 Fase 1: cinetab.art (1070★)
 
 ## Desenvolvimento (700★)
-- [ ] [Milestone 0: Em construção (40★)](https://github.com/DevTroli/CineTab.art/milestone/1)
+- [x] [Milestone 0: Em construção (40★)](https://github.com/DevTroli/CineTab.art/milestone/1)
   - [x] Prettier (5★)
   - [x] EditorConfig (4★)
   - [x] Domínio .com.br (6★)
-  - [ ] Programar pagina "Em construção" (20★)
+  - [x] Programar pagina "Em construção" (20★)
   - [x] Estilização código (15★)
 
-- [ ] Milestone 1: Fundação (80★)
-  - [ ] Setup DB (25★)
-  - [ ] API Core (35★)
-  - [ ] Deploy inicial (20★)
+- [ ] [Milestone 1: Fundação (150★)](https://github.com/DevTroli/cinetab.art/milestone/2)
+  - [x] Testes automatizados & Arquitetura (40 ★)
+  - [x] Setup DB (30★)
+  - [ ] API Core (40★)
+  - [x] Melhorar os scripts do `package.json`  (5 ★)
+  - [x] Mover arquivos `.env` para `.env.development` (5 ★)
+  - [x] Deploy inicial (20★)
 
 - [ ] Milestone 2: Auth & Users (100★)
   - [ ] Sistema login (40★)

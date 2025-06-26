@@ -1,6 +1,6 @@
 # Arte de Construir Sistemas stateless: Uma Jornada entre Escalabilidade e Simplicidade
 
-# Como Configurar Aplicações sem Reescrever Código
+## Como Configurar Aplicações sem Reescrever Código?
 
 As variáveis de ambiente são a solução para um problema comum: como fazer uma aplicação funcionar em diferentes ambientes sem precisar modificar seu código?
 
@@ -50,8 +50,6 @@ São aplicações que guardam informações sobre o que aconteceu antes. Como um
 - Se o servidor cai, o estado pode ser perdido
 
 ### Aplicações Stateless (Sem Estado)
-
-> ""
 
 São aplicações que não guardam informações entre interações. Cada requisição precisa trazer todos os dados necessários para ser processada.
 

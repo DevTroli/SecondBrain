@@ -1,4 +1,4 @@
-# Implementação e Análise de APIs de Health Check em Sistemas Distribuídos: Uma Abordagem Sistemática para Monitoramento de Aplicações
+# Implementação e Análise de APIs de Health Check em Sistemas Distribuídos
 
 ## Resumo
 
@@ -404,7 +404,3 @@ Para pesquisas futuras, recomenda-se o aprofundamento em aspectos específicos c
 3. Burns, B., & Beda, J. (2019). *Kubernetes: Up and Running*. O'Reilly Media.
 4. Majors, C., Fong-Jones, L., & Miranda, G. (2022). *Observability Engineering*. O'Reilly Media.
 5. Richardson, C. (2018). *Microservices Patterns*. Manning Publications.
-
----
-
-*Este ensaio pode ser expandido em trabalhos acadêmicos mais extensos, incluindo dissertações de mestrado ou teses de doutorado, através do aprofundamento teórico, estudos empíricos mais abrangentes, e desenvolvimento de frameworks ou ferramentas inovadoras na área de observabilidade de sistemas distribuídos.*

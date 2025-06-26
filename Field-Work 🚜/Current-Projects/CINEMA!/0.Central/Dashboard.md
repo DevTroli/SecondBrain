@@ -1,24 +1,24 @@
 # Dashboard  [[CINEMA!]]
 
 > **Última atualização:** 02/04/2025  
-> [[Semana 1]]
+> [[Semana 3]]
 
 
 # 📊 Status CineScale
 
 | Fase                  | UV Total | UV Concluída | Progresso | Peso Fase | Status      |
 | --------------------- | -------- | ------------ | --------- | --------- | ----------- |
-| 1. CineTab.art        | 850★     | 0★           | 0%        | 10%       | ⚡ Ativo     |
+| 1. CineTab.art        | 1070★    | 0★           | 0%        | 10%       | ⚡ Ativo     |
 | 2. MVP CINEMA!        | 1500★    | 0★           | 0%        | 18%       | 🔄 Pendente |
 | 3. Versão Alfa        | 2000★    | 0★           | 0%        | 24%       | 🛑 Inativo  |
 | 4. Versão Beta        | 2500★    | 0★           | 0%        | 30%       | 🛑 Inativo  |
 | 5. Lançamento Oficial | 1500★    | 0★           | 0%        | 18%       | 🛑 Inativo  |
-| **Total**             | 8350★    | 0★           | **0%**    | 100%      |             |
+| **Total**             | 8470★    | 0★           | **0%**    | 100%      |             |
 
 ```mermaid
 pie
     title Distribuição de UVs por Fase
-    "CineTab.art (10%)" : 850
+    "CineTab.art (10%)" : 1070
     "MVP CINEMA! (18%)" : 1500
     "Versão Alfa (24%)" : 2000
     "Versão Beta (30%)" : 2500
