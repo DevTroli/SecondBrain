@@ -3,6 +3,7 @@
 ## ⚡ Resumo Semanal
 - **UVs Concluídas:** ||0★|| ➔ ||45★|| (Total: ||45★||)
 - **Tarefas-Chave Concluídas:** 8/8
+- **Progresso da Fase Atual:** ||4,21%||i
 - **Progresso Global:** ||0,54%|| 
 
 ## ✅ Feitos Esta Semana
