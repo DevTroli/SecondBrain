@@ -165,174 +165,694 @@ Instruções: Lembre-se que √a = a^(1/2)
 
 ###### Problema 1 - Crescimento Exponencial
 Uma bactéria se multiplica em duas a cada hora. Começando com 1 bactéria, quantas haverá em 5 horas? _Dica: Pense em 2⁵_
-
+R.: 2⁵ = 64
 ###### Problema 2 - Área de Terreno
 Um terreno quadrado tem área de 144 m². Qual é o comprimento de cada lado? _Dica: Use raiz quadrada_
-
+R.: √12
 ###### Problema 3 - Volume de Cubo
 Um cubo tem volume de 125 cm³. Qual é a medida de sua aresta? _Dica: Pense em raiz cúbica_
-
-### Problema 4 - Crescimento Populacional
+R.: √5
+###### Problema 4 - Crescimento Populacional
 Uma cidade duplica sua população a cada 10 anos. Se hoje tem 1000 habitantes, quantos terá em 40 anos? _Dica: 40 anos = 4 períodos de 10 anos_
+R.: 1000 x 2⁴ -> 1000 x 16 -> 16.000 
+###### Problema 5 - Arranjo de Objetos
+Você quer organizar 81 objetos em um quadrado perfeito. Quantos objetos ficam em cada lado? R: Vão ficar 9 objetos em cada lado
 
-### Problema 5 - Arranjo de Objetos
-Você quer organizar 81 objetos em um quadrado perfeito. Quantos objetos ficam em cada lado? _Dica: √81 = ?_
+#### **DIA 2: FATORAÇÃO - DESMONTANDO NÚMEROS**
 
-### **DIA 2: FATORAÇÃO - DESMONTANDO NÚMEROS**
+###### TEORIA ESTRATÉGICA (Leia antes de começar!)
 
-**TEORIA MÍNIMA (5 min):**
-- **Fator comum:** ax + bx = x(a + b)
-- **Diferença de quadrados:** a² - b² = (a + b)(a - b)
-- **Trinômio perfeito:** a² ± 2ab + b² = (a ± b)²
+###### Os 3 Padrões Fundamentais de Reconhecimento:
 
-**PRÁTICA INTENSIVA (25 min):**
+**1. FATOR COMUM** - O Ingrediente Secreto
+- **Padrão:** ax + bx = x(a + b)  
+- **Como identificar:** Procure um número ou variável que aparece em TODOS os termos
+- **Exemplo mental:** 6x + 9 → "6x tem '3' e 9 tem '3'" → 3(2x + 3)
 
-**EXERCÍCIO 1 - IDENTIFICAÇÃO RELÂMPAGO (8 min):**
-Identifique o tipo de fatoração em 30 expressões:
-1. x² - 9 → (diferença de quadrados)
-2. 2x + 6 → (fator comum)
-3. x² + 4x + 4 → (trinômio perfeito)
-[Continue...]
+**2. DIFERENÇA DE QUADRADOS** - A Fórmula Mágica  
+- **Padrão:** a² - b² = (a + b)(a - b)
+- **Como identificar:** Dois quadrados perfeitos separados por SUBTRAÇÃO
+- **Exemplo mental:** x² - 16 → "x² e 4²" → (x + 4)(x - 4)
 
-**EXERCÍCIO 2 - FATORAÇÃO COMPLETA (12 min):**
-Fatores 25 expressões completamente:
-1. x² - 16 = (x + 4)(x - 4)
-2. 3x² + 6x = 3x(x + 2)
-[Continue...]
-
-**EXERCÍCIO 3 - APLICAÇÃO EM EQUAÇÕES (5 min):**
-Use fatoração para resolver 10 equações:
-1. x² - 5x = 0 → x(x - 5) = 0 → x = 0 ou x = 5
-
-### **DIAS 3-7: CONSOLIDAÇÃO E VELOCIDADE**
-
-**Rotina diária (30 min):**
-- 10 min: 30 operações com potências e raízes
-- 10 min: 20 fatorizações diferentes
-- 10 min: 15 problemas contextualizados
-
-**TESTE DA SEMANA:**
-Resolva 100 operações mistas em 20 minutos. Meta: 80% de acerto.
+**3. TRINÔMIO QUADRADO PERFEITO** - A Família Completa
+- **Padrão:** a² ± 2ab + b² = (a ± b)²
+- **Como identificar:** Primeiro e último termos são quadrados, termo do meio é 2×√primeiro×√último
+- **Exemplo mental:** x² + 6x + 9 → "x², 2·x·3, 3²" → (x + 3)²
 
 ---
 
-## 📐 **SEMANA 2: EQUAÇÕES (Encontrando o x da questão)**
+## EXERCÍCIO 1 - IDENTIFICAÇÃO RELÂMPAGO (Meta: 40 expressões em 8 minutos)
 
-### **TEORIA MÍNIMA (10 min total na semana):**
+**Instruções:** Identifique APENAS o tipo. Não fatores ainda! Tempo: 12 segundos por expressão.
 
-**Equações 1º grau:** ax + b = 0 → x = -b/a
-**Equações 2º grau:** ax² + bx + c = 0 → x = [-b ± √(b² - 4ac)] / 2a
-**Delta (Δ):** b² - 4ac (determina quantas soluções existem)
+### Rodada 1 - Reconhecimento Puro (20 expressões)
+1. x² - 9 → ?
+2. 2x + 6 → ?
+3. x² + 4x + 4 → ?
+4. 5y - 15 → ?
+5. a² - 25 → ?
+6. m² + 8m + 16 → ?
+7. 3x² + 12x → ?
+8. y² - 36 → ?
+9. t² - 6t + 9 → ?
+10. 7a + 14b → ?
+11. x² - 49 → ?
+12. n² + 10n + 25 → ?
+13. 4x - 8y → ?
+14. p² - 64 → ?
+15. k² + 2k + 1 → ?
+16. 6m + 18n → ?
+17. w² - 100 → ?
+18. x² - 12x + 36 → ?
+19. 5a² + 15a → ?
+20. z² - 81 → ?
 
-### **PRÁTICA DIÁRIA (20 min por dia):**
+### Rodada 2 - Pegadinhas e Variações (20 expressões)
+21. 4x² - 16 → ?
+22. x² + 5x + 6 → ?
+23. 9y² - 36 → ?
+24. a² + a + 1 → ?
+25. 16 - t² → ?
+26. x² + 14x + 49 → ?
+27. 3x³ + 6x² → ?
+28. y² + 2y + 4 → ?
+29. 25a² - 1 → ?
+30. x² - 18x + 81 → ?
+31. 2x² + 8x → ?
+32. 49 - p² → ?
+33. m² + 20m + 100 → ?
+34. 12a - 4b → ?
+35. x² + x → ?
+36. 4y² - 36 → ?
+37. t² - 16t + 64 → ?
+38. 15x + 5y → ?
+39. a² - 144 → ?
+40. x² + 24x + 144 → ?
 
-**DIA 1: EQUAÇÕES 1º GRAU - VELOCIDADE MÁXIMA**
-**EXERCÍCIO:** Resolva 40 equações em 20 minutos
+---
 
-1. 2x + 5 = 11 → 2x = 6 → x = 3
-2. 3x - 7 = 2x + 1 → x = 8
-3. (x + 2)/3 = 4 → x + 2 = 12 → x = 10
-[Continue com 37 equações...]
+## EXERCÍCIO 2 - FATORAÇÃO COMPLETA (Meta: 30 expressões em 15 minutos)
 
-**DIA 2: EQUAÇÕES 2º GRAU - BHASKARA AUTOMÁTICO**
-**EXERCÍCIO:** 20 equações usando Bhaskara
+**Instruções:** Fatores completamente. Tempo máximo: 30 segundos por expressão.
+
+### Nível 1 - Aplicação Direta (15 expressões)
+1. x² - 16 = ?
+2. 3x + 9 = ?
+3. y² + 8y + 16 = ?
+4. 2a - 6b = ?
+5. t² - 25 = ?
+6. x² + 12x + 36 = ?
+7. 5x + 15y = ?
+8. m² - 49 = ?
+9. a² - 10a + 25 = ?
+10. 4x + 8y = ?
+11. p² - 36 = ?
+12. x² + 6x + 9 = ?
+13. 7a + 14 = ?
+14. y² - 64 = ?
+15. t² + 14t + 49 = ?
+
+### Nível 2 - Fator Comum + Padrão Especial (10 expressões)
+16. 2x² - 18 = ?
+17. 3y² + 12y + 12 = ?
+18. 4a² - 16 = ?
+19. 5x² - 20 = ?
+20. 2t² + 8t + 8 = ?
+21. 3m² - 27 = ?
+22. 6x² + 24x + 24 = ?
+23. 8y² - 32 = ?
+24. 4a² + 16a + 16 = ?
+25. 12x² - 48 = ?
+
+### Nível 3 - Desafios Especiais (5 expressões)
+26. x⁴ - 16 = ? *(Dica: Aplique diferença de quadrados duas vezes)*
+27. 4x² - 4x + 1 = ? *(Trinômio com coeficiente)*
+28. 9y² - 25 = ? *(Diferença de quadrados com coeficientes)*
+29. x³ + 6x² + 9x = ? *(Fator comum + trinômio)*
+30. 16 - 8x + x² = ? *(Reorganize primeiro)*
+
+---
+
+## EXERCÍCIO 3 - APLICAÇÃO EM EQUAÇÕES (Meta: 15 equações em 8 minutos)
+
+**Instruções:** Use fatoração para resolver. Lembre-se: se ab = 0, então a = 0 ou b = 0.
+
+### Equações Diretas (10 equações)
+1. x² - 5x = 0
+2. y² - 16 = 0
+3. t² + 6t + 9 = 0
+4. x² - 25 = 0
+5. 2a² - 8a = 0
+6. m² - 10m + 25 = 0
+7. 3x² - 12 = 0
+8. y² + 8y + 16 = 0
+9. x² - 49 = 0
+10. 4t² - 16t = 0
+
+### Equações com Manipulação (5 equações)
+11. x² = 9x *(Mova tudo para um lado primeiro)*
+12. y² + 4 = 4y *(Reorganize em forma padrão)*
+13. 2x² = 8x *(Fatores e resolve)*
+14. t² - 36 = 0 *(Diferença de quadrados)*
+15. 3x² + 6x = -3 *(Organize e fatores)*
+
+---
+
+## EXERCÍCIO 4 - RECONHECIMENTO INSTANTÂNEO (Meta: 25 expressões em 5 minutos)
+
+**Instruções:** Olhe e responda imediatamente. Desenvolva intuição matemática!
+
+**Mistura Total - Todos os Tipos:**
+1. x² - 1 = ?
+2. 2x + 4 = ?
+3. y² + 2y + 1 = ?
+4. 3a - 9b = ?
+5. t² - 4 = ?
+6. x² + 16x + 64 = ?
+7. 5x + 10y = ?
+8. m² - 36 = ?
+9. a² - 14a + 49 = ?
+10. 6x + 12 = ?
+11. p² - 100 = ?
+12. x² + 18x + 81 = ?
+13. 4a + 8b = ?
+14. y² - 9 = ?
+15. t² + 4t + 4 = ?
+16. x³ + 2x² = ?
+17. 25 - a² = ?
+18. x² + 10x + 25 = ?
+19. 7y - 14 = ?
+20. z² - 16 = ?
+21. 3x² + 6x = ?
+22. m² - 8m + 16 = ?
+23. 12a - 6b = ?
+24. x² - 121 = ?
+25. y² + 22y + 121 = ?
+### Erros Comuns para Evitar:
+- ❌ Tentar fatores x² + 2x + 3 (não é quadrado perfeito!)
+- ❌ Esquecer de verificar fator comum PRIMEIRO
+- ❌ Confundir a² + b² com diferença de quadrados
+- ✅ SEMPRE verificar multiplicando de volta!
+
+### Mantra da Fatoração:
+*"Fator comum primeiro, padrões especiais depois, verificação sempre!"*
+
+---
+## 📐 SEMANA 2: EQUAÇÕES - Encontrando o x da questão
+
+### 🧠 ENTENDENDO AS EQUAÇÕES COMO UM DETETIVE
+
+Imagine que você é um detetive e o "x" é um criminoso que você precisa capturar. A equação é a pista que vai te levar até ele. Vamos descobrir juntos como fazer isso!
+
+### 🎯 EQUAÇÕES DE 1º GRAU - A BASE DE TUDO
+
+**O que é uma equação de 1º grau?**
+É como uma balança que precisa estar em equilíbrio. De um lado temos números e letras, do outro lado também. Nossa missão é descobrir qual número a letra "x" representa para manter a balança equilibrada.
+
+**Por que se chama 1º grau?**
+Porque o "x" aparece elevado apenas à primeira potência (x¹, que escrevemos só como x). Não tem x², x³ ou coisa do tipo.
+
+**A regra de ouro - O que você faz de um lado, DEVE fazer do outro:**
+Pense na equação como uma balança. Se você adiciona 5 quilos de um lado, precisa adicionar 5 quilos do outro para manter o equilíbrio. Na matemática é igual!
+
+**Exemplo passo a passo:**
+Vamos resolver: 2x + 6 = 14
+
+Passo 1: "Isole" o termo com x (tire tudo que está "grudado" nele)
+- Temos +6 do lado esquerdo "atrapalhando" o 2x
+- Para tirar o +6, fazemos -6 dos dois lados
+- 2x + 6 - 6 = 14 - 6
+- 2x = 8
+
+Passo 2: "Liberte" o x (tire o número que está multiplicando ele)
+- O x está sendo multiplicado por 2
+- Para "cancelar" a multiplicação, dividimos os dois lados por 2
+- 2x ÷ 2 = 8 ÷ 2
+- x = 4
+
+**Verificação (sempre faça isso!):**
+Substitua x = 4 na equação original:
+2(4) + 6 = 8 + 6 = 14 ✓ (Correto!)
+
+### 🎯 EQUAÇÕES DE 2º GRAU - O PRÓXIMO NÍVEL
+
+**O que é uma equação de 2º grau?**
+É quando nosso "criminoso" x aparece elevado ao quadrado (x²). Isso torna a investigação um pouco mais complexa, mas não impossível!
+
+**Por que se chama 2º grau?**
+Porque a maior potência do x é 2 (x²). Pode ter x², x¹ e números normais, mas o x² é o "chefe" da equação.
+
+**Formato geral:** ax² + bx + c = 0
+- "a" é o número que multiplica x² (e nunca pode ser zero!)
+- "b" é o número que multiplica x
+- "c" é o número sozinho (sem x)
+
+**A Fórmula de Bhaskara - Nossa arma secreta:**
+Esta fórmula foi criada por um matemático muito inteligente e nos dá a resposta direto. É como ter um GPS para chegar ao x!
+
+Fórmula: x = [-b ± √(b² - 4ac)] / 2a
+
+**O que significa cada parte:**
+- O sinal ± significa que teremos duas respostas possíveis
+- b² - 4ac é chamado de "Delta" (Δ) e nos diz quantas soluções existem
+- Se Δ > 0: duas soluções diferentes
+- Se Δ = 0: uma solução única  
+- Se Δ < 0: nenhuma solução real (o criminoso fugiu!)
+
+**Exemplo detalhado:**
+Vamos resolver: x² - 5x + 6 = 0
+
+Passo 1: Identifique a, b e c
+- a = 1 (o número na frente do x²)
+- b = -5 (o número na frente do x, com sinal)
+- c = 6 (o número sozinho)
+
+Passo 2: Calcule o Delta
+- Δ = b² - 4ac
+- Δ = (-5)² - 4(1)(6)
+- Δ = 25 - 24 = 1
+
+Passo 3: Como Δ = 1 > 0, temos duas soluções!
+
+Passo 4: Aplique a fórmula
+- x = [-(-5) ± √1] / 2(1)
+- x = [5 ± 1] / 2
+- x₁ = (5 + 1) / 2 = 6/2 = 3
+- x₂ = (5 - 1) / 2 = 4/2 = 2
+
+**Verificação:**
+Para x = 3: (3)² - 5(3) + 6 = 9 - 15 + 6 = 0 ✓
+Para x = 2: (2)² - 5(2) + 6 = 4 - 10 + 6 = 0 ✓
+
+### 💪 EXERCÍCIOS PRÁTICOS - APRENDENDO NO SEU RITMO
+
+**IMPORTANTE:** Não tente resolver todos de uma vez! Faça um grupo por vez, com calma. A matemática é como aprender a dirigir - você não aprende tudo no primeiro dia.
+
+#### DIA 1: EQUAÇÕES DE 1º GRAU - COMEÇANDO DEVAGAR
+
+**GRUPO 1: PRIMEIROS PASSOS (5 exercícios - Faça sem pressa)**
+Lembre-se: o que você faz de um lado, faz do outro também!
+
+1. x + 3 = 7
+   Como resolver: Tire o +3 dos dois lados
+   x + 3 - 3 = 7 - 3
+   x = 4
+
+2. 2x = 10
+   Como resolver: Divida os dois lados por 2
+   2x ÷ 2 = 10 ÷ 2
+   x = 5
+
+3. x - 5 = 2
+   Como resolver: Some 5 nos dois lados
+   x - 5 + 5 = 2 + 5
+   x = 7
+
+4. 3x = 15
+   Como resolver: Divida os dois lados por 3
+   x = 5
+
+5. x + 8 = 12
+   Como resolver: Tire o 8 dos dois lados
+   x = 4
+
+**GRUPO 2: SUBINDO UM POUCO O NÍVEL (5 exercícios)**
+Agora vamos trabalhar com duas operações. Sempre faça uma de cada vez!
+
+6. 2x + 4 = 12
+   Passo 1: Tire o +4 → 2x = 8
+   Passo 2: Divida por 2 → x = 4
+
+7. 3x - 6 = 9
+   Passo 1: Some 6 → 3x = 15
+   Passo 2: Divida por 3 → x = 5
+
+8. 4x + 2 = 18
+   Sua vez! Qual é a resposta?
+
+9. 5x - 10 = 15
+   Tente sozinho primeiro!
+
+10. 2x + 1 = 7
+    Consegue resolver?
+
+**GRUPO 3: EQUAÇÕES COM X DOS DOIS LADOS (5 exercícios)**
+Aqui o truque é juntar todos os x de um lado e todos os números do outro.
+
+11. 2x + 5 = x + 8
+    Passo 1: Tire x dos dois lados → 2x - x + 5 = x - x + 8 → x + 5 = 8
+    Passo 2: Tire 5 dos dois lados → x = 3
+
+12. 3x + 2 = 2x + 7
+    Tente seguir os mesmos passos do exemplo anterior
+
+13. 4x - 1 = 2x + 5
+    Sua vez de tentar!
+
+14. 5x + 3 = 3x + 9
+    Consegue resolver sozinho?
+
+15. 6x - 4 = 4x + 2
+    Último do grupo!
+
+#### DIA 2: EQUAÇÕES DE 2º GRAU - DESVENDANDO O MISTÉRIO
+
+**ANTES DE COMEÇAR:** Relembre sempre nossa fórmula mágica!
+x = [-b ± √(b² - 4ac)] / 2a
+
+**GRUPO 1: IDENTIFICANDO OS VALORES (5 exercícios)**
+Primeiro vamos só identificar a, b e c. Não precisa resolver ainda!
 
 1. x² - 5x + 6 = 0
-   - a = 1, b = -5, c = 6
-   - Δ = 25 - 24 = 1
-   - x = (5 ± 1)/2 → x = 3 ou x = 2
+   a = 1 (na frente do x²)
+   b = -5 (na frente do x, com sinal)
+   c = 6 (número sozinho)
 
-[Continue com mais 19...]
+2. 2x² + 3x - 1 = 0
+   Sua vez: a = ?, b = ?, c = ?
 
-**DIAS 3-4: EQUAÇÕES MISTAS**
-Combine 1º e 2º grau. 15 equações de cada tipo por dia.
+3. x² - 4x + 4 = 0
+   Identifique os valores
 
-**DIAS 5-7: PROBLEMAS CONTEXTUALIZADOS**
-Transforme situações reais em equações:
-- "A idade de Pedro é o triplo da idade de Ana. Juntos têm 40 anos. Qual a idade de cada um?"
-- "Um terreno retangular tem perímetro 100m. O comprimento é 10m maior que a largura. Quais as dimensões?"
+4. 3x² - 6x + 2 = 0
+   Quais são a, b e c?
+
+5. x² + 2x - 8 = 0
+   Último da identificação
+
+**GRUPO 2: CALCULANDO O DELTA (5 exercícios)**
+Agora vamos calcular Δ = b² - 4ac para ver quantas soluções temos
+
+6. Para x² - 5x + 6 = 0 (a=1, b=-5, c=6)
+   Δ = (-5)² - 4(1)(6) = 25 - 24 = 1
+   Como Δ > 0, temos duas soluções!
+
+7. Para x² - 4x + 4 = 0
+   Calcule o Delta
+
+8. Para x² + 2x - 8 = 0
+   Qual é o valor do Delta?
+
+9. Para 2x² + 3x - 1 = 0
+   Encontre o Delta
+
+10. Para x² - 2x + 5 = 0
+    Calcule e veja se há soluções reais
+
+**GRUPO 3: RESOLUÇÃO COMPLETA (5 exercícios)**
+Agora vamos do início ao fim, bem devagar
+
+11. x² - 3x + 2 = 0
+    Passo 1: a = 1, b = -3, c = 2
+    Passo 2: Δ = (-3)² - 4(1)(2) = 9 - 8 = 1
+    Passo 3: x = [3 ± √1] / 2 = [3 ± 1] / 2
+    Passo 4: x₁ = 4/2 = 2 e x₂ = 2/2 = 1
+
+12. x² - 6x + 9 = 0
+    Tente resolver sozinho seguindo os 4 passos
+
+13. x² + x - 6 = 0
+    Sua vez de resolver completamente
+
+14. x² - 4x + 3 = 0
+    Consegue fazer sozinho?
+
+15. 2x² - 8x + 6 = 0
+    Último desafio do dia!
+
+#### DIAS 3-4: EQUAÇÕES MISTAS (15 de cada tipo por dia)
+
+**ESTRATÉGIA:**
+- Primeiro identifique o tipo de equação
+- Aplique o método correto
+- Sempre verifique a resposta
+
+#### DIAS 5-7: PROBLEMAS CONTEXTUALIZADOS
+
+**PROBLEMA 1:** A idade de Pedro é o triplo da idade de Ana. Juntos têm 40 anos. Qual a idade de cada um?
+- Solução: Ana = x, Pedro = 3x
+- x + 3x = 40 → 4x = 40 → x = 10
+- Ana: 10 anos, Pedro: 30 anos
+
+**PROBLEMA 2:** Um terreno retangular tem perímetro 100m. O comprimento é 10m maior que a largura. Quais as dimensões?
+- Solução: largura = x, comprimento = x + 10
+- 2x + 2(x + 10) = 100 → 4x + 20 = 100 → x = 20
+- Largura: 20m, Comprimento: 30m
 
 ---
 
-## 📈 **SEMANA 3: FUNÇÕES (Relacionando grandezas)**
+## 📈 SEMANA 3: FUNÇÕES - Relacionando grandezas
 
-### **TEORIA MÍNIMA (5 min):**
-- **Função:** Relação entre duas grandezas onde cada valor de x tem apenas um valor de y
-- **Função linear:** y = ax + b (reta)
-- **Função quadrática:** y = ax² + bx + c (parábola)
+### 🧠 ENTENDENDO FUNÇÕES COMO RECEITAS DE COZINHA
 
-### **PRÁTICA INTENSIVA:**
+Imagine que você está seguindo uma receita. Você coloca ingredientes (isso é o "x") e sai um prato pronto (isso é o "y"). A receita é a função - ela te diz exatamente o que acontece com o ingrediente para virar o prato final.
 
-**DIAS 1-2: CONSTRUÇÃO DE GRÁFICOS (15 min/dia)**
+### 🎯 O QUE É UMA FUNÇÃO?
 
-**EXERCÍCIO DIÁRIO:**
-Para cada função, monte uma tabela com 5 pontos e esboce o gráfico:
+**Definição simples:** Uma função é uma máquina matemática. Você coloca um número (x), ela faz alguma operação matemática com ele, e sai outro número (y).
 
-1. y = 2x + 1
-   - x = -2 → y = -3
-   - x = -1 → y = -1
-   - x = 0 → y = 1
-   - x = 1 → y = 3
-   - x = 2 → y = 5
+**Regra principal:** Para cada valor de entrada (x), sempre sai o mesmo valor de volta (y). É como uma máquina bem regulada - se você apertar o botão "5", sempre sai a mesma resposta.
 
-Pratique com 8 funções lineares e 5 quadráticas por dia.
+**Notação:** Escrevemos f(x) = y ou simplesmente y = alguma operação com x
 
-**DIAS 3-4: INTERPRETAÇÃO DE GRÁFICOS (15 min/dia)**
+### 🎯 FUNÇÃO LINEAR - A LINHA RETA
 
-Dado um gráfico, determine:
-- Onde a função cresce/decresce
-- Pontos de máximo/mínimo
-- Zeros da função
-- Valor de y quando x = [valor específico]
+**O que é:** y = ax + b
+- É chamada "linear" porque seu gráfico é sempre uma linha reta
+- "a" é a inclinação da reta (se ela sobe muito ou pouco)
+- "b" é onde a reta corta o eixo y (quando x = 0)
 
-**DIAS 5-7: PROBLEMAS APLICADOS**
-"O lucro de uma empresa é dado por L(x) = -x² + 100x - 1000, onde x é a quantidade produzida. Qual a produção que maximiza o lucro?"
+**Entendendo o "a" (coeficiente angular):**
+- Se a > 0: a reta sobe (função crescente)
+- Se a < 0: a reta desce (função decrescente)  
+- Se a = 0: a reta fica horizontal
+
+**Entendendo o "b" (coeficiente linear):**
+- É o ponto de partida da sua função
+- Quando x = 0, y = b
+
+**Exemplo prático:**
+y = 2x + 3
+- Aqui a = 2 (para cada x que aumenta, y aumenta 2)
+- E b = 3 (quando x = 0, y = 3)
+
+### 🎯 FUNÇÃO QUADRÁTICA - A PARÁBOLA
+
+**O que é:** y = ax² + bx + c
+- Seu gráfico é uma parábola (formato de "U")
+- Pode abrir para cima ou para baixo
+- Sempre tem um ponto mais alto ou mais baixo (vértice)
+
+**Entendendo o "a":**
+- Se a > 0: parábola abre para cima (como um sorriso)
+- Se a < 0: parábola abre para baixo (como um rosto triste)
+
+**O vértice (ponto mais importante):**
+- Coordenada x do vértice: x = -b/2a
+- É onde a função atinge seu máximo (se a < 0) ou mínimo (se a > 0)
+
+**Exemplo prático:**
+y = x² - 4x + 3
+- a = 1 > 0, então abre para cima
+- Vértice em x = -(-4)/2(1) = 2
+- Quando x = 2: y = 4 - 8 + 3 = -1
+- Vértice: (2, -1)
 
 ---
 
-## 📊 **SEMANA 4: GEOMETRIA PRÁTICA (Formas e medidas)**
+## 📊 SEMANA 4: GEOMETRIA PRÁTICA
 
-### **ESTRUTURA BÁSICA:**
-- **Área:** Quanto de espaço ocupa
-- **Perímetro:** Contorno da figura
-- **Volume:** Espaço interno de sólidos
+### 🧠 GEOMETRIA NO MUNDO REAL
 
-### **PRÁTICA DIÁRIA (30 min):**
+A geometria está em tudo ao nosso redor. Quando você calcula quanto de tinta precisa para pintar sua casa, ou quantos metros de cerca para cercar um terreno, ou quanta água cabe numa piscina - você está usando geometria!
 
-**DIAS 1-2: GEOMETRIA PLANA**
+### 🎯 GEOMETRIA PLANA - FIGURAS NO PAPEL
 
-**EXERCÍCIO CORE:** Calcule área e perímetro de 15 figuras por dia:
+**ÁREA vs PERÍMETRO - A diferença crucial:**
+- **Perímetro:** É o "contorno" da figura, como se você fosse dar uma volta andando ao redor dela
+- **Área:** É o "espaço interno" da figura, como se você fosse pintá-la toda
 
-1. **Retângulo:** 5m × 3m
-   - Área = 5 × 3 = 15 m²
-   - Perímetro = 2(5 + 3) = 16 m
+**RETÂNGULO - A figura mais comum:**
+- Perímetro = 2 × (comprimento + largura)
+- Área = comprimento × largura
+- Exemplo: Sala de 5m × 3m
+  - Perímetro = 2 × (5 + 3) = 16m (para colocar rodapé)
+  - Área = 5 × 3 = 15m² (para colocar piso)
 
-2. **Triângulo:** base 6m, altura 4m
-   - Área = (6 × 4)/2 = 12 m²
+**CÍRCULO - A figura sem cantos:**
+- Perímetro = 2πr (onde r é o raio)
+- Área = πr²
+- Lembre-se: π ≈ 3,14
+- Exemplo: Pizza de 20cm de raio
+  - Perímetro = 2 × 3,14 × 20 = 125,6cm (borda da pizza)
+  - Área = 3,14 × 20² = 1.256cm² (superfície da pizza)
 
-3. **Círculo:** raio 2m
-   - Área = π × 2² = 4π m²
-   - Perímetro = 2π × 2 = 4π m
+**TRIÂNGULO - A figura de três lados:**
+- Área = (base × altura) / 2
+- Perímetro = soma dos três lados
+- A altura sempre forma 90° com a base
 
-**DIAS 3-4: GEOMETRIA ESPACIAL**
+### 🎯 GEOMETRIA ESPACIAL - OBJETOS DO MUNDO REAL
 
-Calcule volume e área da superfície:
+**VOLUME vs ÁREA DA SUPERFÍCIE:**
+- **Volume:** Quanto "cabe dentro" do objeto (litros de água, metros cúbicos de concreto)
+- **Área da superfície:** Quanto material precisa para "cobrir" o objeto
 
-1. **Cubo:** aresta 3m
-   - Volume = 3³ = 27 m³
-   - Área da superfície = 6 × 3² = 54 m²
+**CUBO - A caixa perfeita:**
+- Volume = aresta³
+- Área da superfície = 6 × aresta²
+- Exemplo: Cubo de 2m de aresta
+  - Volume = 2³ = 8m³ (quantos metros cúbicos de ar cabem)
+  - Área = 6 × 2² = 24m² (quantos metros quadrados de material para fazer)
 
-2. **Cilindro:** raio 2m, altura 5m
-   - Volume = π × 2² × 5 = 20π m³
+**CILINDRO - O formato de lata:**
+- Volume = πr²h (onde r é raio e h é altura)
+- Área da superfície = 2πr(r + h)
+- Exemplo: Tanque de água cilíndrico com raio 1m e altura 3m
+  - Volume = 3,14 × 1² × 3 = 9,42m³ (quantos metros cúbicos de água cabem)
 
-**DIAS 5-7: TRIGONOMETRIA BÁSICA**
+### 🎯 TRIGONOMETRIA - MEDINDO O QUE NÃO PODEMOS ALCANÇAR
 
-Use seno, cosseno e tangente para resolver triângulos:
-- sen(30°) = 1/2
-- cos(30°) = √3/2
-- tan(30°) = √3/3
+**O que é trigonometria?**
+É a matemática dos triângulos. Usamos quando precisamos medir alturas, distâncias ou ângulos que não conseguimos medir diretamente.
 
-Pratique com 20 triângulos por dia.
+**Os três amigos: Seno, Cosseno e Tangente**
+Em um triângulo retângulo:
+- **Seno = cateto oposto / hipotenusa**
+- **Cosseno = cateto adjacente / hipotenusa**  
+- **Tangente = cateto oposto / cateto adjacente**
+
+**Valores que você deve decorar:**
+- 30°: sen = 1/2, cos = √3/2, tan = √3/3
+- 45°: sen = √2/2, cos = √2/2, tan = 1
+- 60°: sen = √3/2, cos = 1/2, tan = √3
+
+**Exemplo prático:**
+Você quer saber a altura de um prédio. Você se afasta 20 metros e mede um ângulo de 30° olhando para o topo.
+- Altura = 20 × tan(30°) = 20 × √3/3 ≈ 11,5 metrosulo: Área = b×h, Perímetro = 2(b+h)
+- Triângulo: Área = (b×h)/2, Perímetro = a+b+c
+- Círculo: Área = πr², Perímetro = 2πr
+- Quadrado: Área = l², Perímetro = 4l
+
+**GEOMETRIA ESPACIAL:**
+- Cubo: Volume = l³, Área superficial = 6l²
+- Paralelepípedo: Volume = a×b×c
+- Cilindro: Volume = πr²h, Área superficial = 2πr(r+h)
+- Esfera: Volume = (4πr³)/3, Área superficial = 4πr²
+
+**TRIGONOMETRIA:**
+- sen²θ + cos²θ = 1
+- tan θ = sen θ/cos θ
+- Valores especiais:
+  - 30°: sen = 1/2, cos = √3/2, tan = √3/3
+  - 45°: sen = √2/2, cos = √2/2, tan = 1
+  - 60°: sen = √3/2, cos = 1/2, tan = √3
+
+### 💪 EXERCÍCIOS PRÁTICOS
+
+#### DIAS 1-2: GEOMETRIA PLANA (15 figuras por dia)
+
+**EXERCÍCIOS COMPLETOS:**
+
+1. **Retângulo:** 8m × 5m
+   - Área = 8 × 5 = 40 m²
+   - Perímetro = 2(8 + 5) = 26 m
+
+2. **Triângulo:** base 12m, altura 8m
+   - Área = (12 × 8)/2 = 48 m²
+
+3. **Círculo:** raio 3m
+   - Área = π × 3² = 9π m²
+   - Perímetro = 2π × 3 = 6π m
+
+4. **Quadrado:** lado 6m
+   - Área = 6² = 36 m²
+   - Perímetro = 4 × 6 = 24 m
+
+5. **Trapézio:** bases 10m e 6m, altura 4m
+   - Área = [(10 + 6) × 4]/2 = 32 m²
+
+[Continue com 10 exercícios similares por dia]
+
+#### DIAS 3-4: GEOMETRIA ESPACIAL
+
+**EXERCÍCIOS DE VOLUME E ÁREA:**
+
+1. **Cubo:** aresta 4m
+   - Volume = 4³ = 64 m³
+   - Área superficial = 6 × 4² = 96 m²
+
+2. **Cilindro:** raio 3m, altura 8m
+   - Volume = π × 3² × 8 = 72π m³
+   - Área superficial = 2π × 3(3 + 8) = 66π m²
+
+3. **Paralelepípedo:** 5m × 3m × 2m
+   - Volume = 5 × 3 × 2 = 30 m³
+
+4. **Esfera:** raio 2m
+   - Volume = (4π × 2³)/3 = 32π/3 m³
+   - Área superficial = 4π × 2² = 16π m²
+
+#### DIAS 5-7: TRIGONOMETRIA BÁSICA (20 triângulos por dia)
+
+**EXERCÍCIOS COM TRIÂNGULOS RETÂNGULOS:**
+
+1. **Triângulo:** cateto adjacente = 3, ângulo = 30°
+   - Cateto oposto = 3 × tan(30°) = 3 × √3/3 = √3
+   - Hipotenusa = 3/cos(30°) = 3/(√3/2) = 6/√3 = 2√3
+
+2. **Triângulo:** hipotenusa = 10, ângulo = 45°
+   - Catetos = 10 × sen(45°) = 10 × √2/2 = 5√2
+
+---
+
+## 🎯 SISTEMA DE CRONOMETRAGEM
+
+### ⏱️ TEMPOS IDEAIS POR EXERCÍCIO:
+- **Equação 1º grau:** 30 segundos
+- **Equação 2º grau:** 2 minutos
+- **Gráfico de função:** 3 minutos
+- **Problema de geometria:** 2 minutos
+- **Cálculo trigonométrico:** 1 minuto
+
+### 📈 PROGRESSÃO SEMANAL:
+- **Semana 1:** Foque na precisão
+- **Semana 2:** Aumente a velocidade em 20%
+- **Semana 3:** Combine velocidade + precisão
+- **Semana 4:** Domine problemas complexos
+
+---
+
+## 🎮 DESAFIOS GAMIFICADOS
+
+### 🏃‍♂️ SPEED MATH CHALLENGE
+**Meta:** 50 operações em 10 minutos
+**Pontuação:** +1 ponto por acerto, -0.5 por erro
+
+### 🎯 EQUATION MASTER
+**Meta:** 20 equações mistas em 15 minutos
+**Pontuação:** +2 pontos (1º grau), +3 pontos (2º grau)
+
+### 📐 GEOMETRY WARRIOR
+**Meta:** 15 cálculos de área/volume em 20 minutos
+**Pontuação:** +2 pontos por figura plana, +3 por sólido
+
+### 📊 FUNCTION DETECTIVE
+**Meta:** Identifique 10 funções e suas propriedades em 15 minutos
+**Pontuação:** +5 pontos por análise completa
+
+---
+
+## ✅ CHECKLIST DIÁRIO DE SUCESSO
+
+- [ ] **AQUECIMENTO:** 10 operações básicas (2 min)
+- [ ] **FOCO PRINCIPAL:** Tópico do dia (15 min)
+- [ ] **DESAFIO:** Exercícios cronometrados (5 min)
+- [ ] **REVISÃO:** Correção de todos os erros (3 min)
+- [ ] **META:** Atingi meu objetivo de velocidade?
+- [ ] **PROGRESSO:** Melhorei em relação a ontem?
+
+**LEMBRE-SE:** A matemática é como um esporte - quanto mais você pratica, mais rápido e preciso fica!
 
 ---
 
@@ -357,27 +877,6 @@ Pratique com 20 triângulos por dia.
 - [ ] Calculei áreas e volumes de pelo menos 10 figuras?
 - [ ] Cronometrei meu tempo de resolução?
 - [ ] Conferi todas as respostas?
-
----
-
-## 🎮 **EXERCÍCIOS GAMIFICADOS**
-
-### **JOGO 1: SPEED MATH**
-**Regra:** 30 operações básicas em 5 minutos
-**Progressão:** Semana 1 (20 operações) → Semana 4 (50 operações)
-
-### **JOGO 2: EQUATION SOLVER**
-**Regra:** Resolva 10 equações de tipos diferentes
-**Tempo:** 15 minutos
-**Pontuação:** +2 pontos por equação 1º grau, +3 por 2º grau
-
-### **JOGO 3: GEOMETRY MASTER**
-**Regra:** Calcule área e perímetro de 8 figuras diferentes
-**Tempo:** 12 minutos
-
-### **JOGO 4: FUNÇÃO DETECTIVE**
-**Regra:** Identifique o tipo de função e suas características
-**Tempo:** 10 minutos por função
 
 ---
 

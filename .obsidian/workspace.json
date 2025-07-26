@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8d53fc80fb5abe35",
+            "id": "d0da80e8ef41a1fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Field-Work 🚜/Current-Projects/CINEMA!/0.Central/Dashboard.md",
+                "file": "GreenHouse 🏡/Knowledge-Vaullt/API-HEALTH.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
+              "title": "API-HEALTH"
             }
           },
           {
-            "id": "8bcf8ec9d23dab9c",
+            "id": "5b509314c3bdee80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GreenHouse 🏡/Cultural-Observatory/Matemática/Do zero ao matemático.md",
+                "file": "GreenHouse 🏡/Knowledge-Vaullt/Brainstorm 🌪️/Database.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,31 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Do zero ao matemático"
-            }
-          },
-          {
-            "id": "24914d0e777f73cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Field-Work 🚜/Current-Projects/CINEMA!/0.Central/Planejamento.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Planejamento"
+              "title": "Database"
             }
           }
         ],
@@ -229,34 +205,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8bcf8ec9d23dab9c",
+  "active": "5b509314c3bdee80",
   "lastOpenFiles": [
-    "Field-Work 🚜/Current-Projects/CINEMA!/2.Planejamentos/Progresso-Semanal/Semana 3.md",
-    "Field-Work 🚜/Current-Projects/Anti-Vic.md",
     "SeedBed 🌱/17-06-2025.md",
-    "Field-Work 🚜/Current-Projects/CINEMA!/0.Central/Dashboard.md",
-    "Field-Work 🚜/Current-Projects/CINEMA!/0.Central/Planejamento.md",
-    "GreenHouse 🏡/Cultural-Observatory/Matemática/Do zero ao matemático.md",
-    "Atlas 🗺️/NVIM.md",
-    "Atlas 🗺️/ARCH-LINUX.md",
-    "SeedBank 🏦/Meta Semanal.md",
-    "Field-Work 🚜/Current-Projects/CINEMA!/2.Planejamentos/Progresso-Semanal/Semana 2.md",
-    "Field-Work 🚜/Current-Projects/CINEMA!/2.Planejamentos/Progresso-Semanal/Semana 1.md",
-    "Field-Work 🚜/Current-Projects/CINEMA!/2.Planejamentos/Progresso-Semanal/Semana 0.md",
-    "Field-Work 🚜/Current-Projects/CINEMA!/0.Central/CineScale.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/DATABASE.md",
+    "Garden 🌺/Bancos de dados.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/Brainstorm 🌪️/Database.md",
     "GreenHouse 🏡/Knowledge-Vaullt/API-HEALTH.md",
-    "Field-Work 🚜/Current-Projects/CINEMA!/4.Recursos-Utilitarios/Manifesto CineTab.md",
-    "Field-Work 🚜/Current-Projects/CINEMA!/3.Docs/Pesquisas-Mercadológicas/Posicionamento Estratégico.md",
-    "cinetabt.art.br.md",
-    "Field-Work 🚜/Current-Projects/CINEMA!/3.Docs/DOCS TECNICA CINETAB.md",
-    "Field-Work 🚜/Current-Projects/CINEMA!/0.Central/Diretrizes CineTab.md",
-    "Field-Work 🚜/Current-Projects/CINEMA!/3.Docs/Pesquisas-Mercadológicas/Priorização Inicial (MoSCoW).md",
-    "Field-Work 🚜/Current-Projects/CINEMA!/3.Docs/Pesquisas-Mercadológicas/Teoria McDonlads.md",
-    "Field-Work 🚜/Current-Projects/CINEMA!/1.Desenvolvimento/CineTab.art.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/NVIM-TERMINAL.md",
-    "GreenHouse 🏡/Active-Experiments/Manual-TroliLaptop.md",
-    "Field-Work 🚜/Current-Projects/CINEMA!/3.Docs/DOCS TECNICA CINEMA!.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/API-HEALTHCHECK.md",
     "GreenHouse 🏡/Active-Experiments/Manual-Tmux.md",
+    "GreenHouse 🏡/Cultural-Observatory/IntesivaoFATEC.md",
+    "Atlas 🗺️/DEVELOPER-101.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/DEV-ENVDEV.md",
+    "GreenHouse 🏡/Cultural-Observatory/Games/Hades 2.md",
+    "GreenHouse 🏡/Cultural-Observatory/Redação/Do zero à redação.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/OS-JoyStick.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/OS-ArchWay.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/OS-FileSystem.md",
+    "Atlas 🗺️/ARCH-LINUX.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/O Caminho do Artesão.md",
+    "GreenHouse 🏡/Cultural-Observatory/Redação/Guia para Redação 100%.md",
+    "GreenHouse 🏡/Cultural-Observatory/MÉTODO INVESTIGATIVO.md",
+    "GreenHouse 🏡/Cultural-Observatory/Redação/Proposta de estudo com cinema.md",
+    "GreenHouse 🏡/Cultural-Observatory/Fisica/Física para ignorantes.md",
+    "GreenHouse 🏡/Cultural-Observatory/Biologia/Entendimento da biologia das coisa.md",
+    "GreenHouse 🏡/Cultural-Observatory/Matemática/Do zero ao matemático.md",
+    "GreenHouse 🏡/Cultural-Observatory/Matemática/Números.md",
+    "Field-Work 🚜/Current-Projects/CINEMA!/0.Central/Dashboard.md",
+    "GreenHouse 🏡/Cultural-Observatory/Matemática/Operações Matemáticas.md",
     "GreenHouse 🏡/Cultural-Observatory/Biologia",
     "GreenHouse 🏡/Cultural-Observatory/Fisica",
     "GreenHouse 🏡/Cultural-Observatory/Redação"

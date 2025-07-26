@@ -22,19 +22,19 @@ O resultado? Em apenas 10 dias, minha taxa de acertos nas diversas disciplinas p
 
 ## 📚 O Processo Investigativo
 
-### 1️⃣ A Escolha do Caso 
+### 1️⃣  A Escolha do Caso 
 
 Imagine-se como Sherlock Holmes recebendo um novo caso. Aqui, seu caso será uma disciplina específica. Como um bom detetive, você precisa focar em um caso por vez. Comece selecionando uma prova antiga do ENEM e escolha uma disciplina para investigar completamente. 
 
 Por exemplo, se você decidir investigar o caso "Matemática 2022", comprometa-se a resolver todas as questões dessa disciplina antes de partir para outro caso. Para organizar suas investigações, você pode utilizar plataformas especializadas como o studa.com, que funcionará como seu escritório de investigação virtual.
 
-### 2️⃣ O Olhar do Detetive 
+### 2️⃣  O Olhar do Detetive 
 
 🔎 Nesta fase, cada questão se torna uma cena do crime cheia de pistas. Mas atenção: diferente do estudo tradicional, seu objetivo não é simplesmente "resolver o caso" (acertar a questão), mas sim descobrir quais conhecimentos você ainda não domina.
 
 Como um bom investigador, não hesite em consultar todas as fontes disponíveis - gabaritos, resoluções e comentários são suas ferramentas de investigação. Lembre-se: Sherlock Holmes nunca teve medo de buscar informações em todas as fontes possíveis.
 
-### 3️⃣ Seguindo as Pistas 
+### 3️⃣  Seguindo as Pistas 
 
 👣 Agora começa a verdadeira investigação. Cada pista (conceito, fórmula ou teoria) que você encontrar deve ser investigada rapidamente. Use todos os recursos à sua disposição:
 

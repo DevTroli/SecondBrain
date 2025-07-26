@@ -416,7 +416,7 @@ GET /health
 
 ## **Dia 9**: Dados e Infraestrutura
 
-### [[DATABASE]]
+### [[Bancos de dados]]
 Bancos de dados são sistemas para armazenar, gerenciar e recuperar informações eficientemente.
 
 **Tipos principais:**

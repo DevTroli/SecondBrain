@@ -1,4 +1,4 @@
-**"Aprenda português fazendo, não lendo - 20% teoria, 80% prática"**
+				**"Aprenda português fazendo, não lendo - 20% teoria, 80% prática"**
 
 ## 🥊 **SEU TREINAMENTO COMEÇA AGORA**
 
@@ -27,10 +27,22 @@ Separe cada frase em três partes. Seja rápido, não pense muito:
    - O que fez: salvou
    - O resto: Gotham
 
-2. "Os Vingadores derrotaram Thanos"
-3. "Superman voa pela cidade"
-4. "Neo escolheu a pílula vermelha"
-5. "Elsa congelou tudo"
+1. "Os Vingadores derrotaram Thanos"
+   - Quem fez: Os Vingadores
+   - O que fez: Derrotaram
+   - Complemento: Thanos
+1. "Superman voa pela cidade"
+   - Quem fez: Superman
+   - O que fez: voou
+   - Complemento: pela cidade
+1. "Neo escolheu a pílula vermelha"
+   - Quem fez: Neo
+   - O que fez: Escolheu
+   - Complemento: a pílula vermelha
+1. "Elsa congelou tudo"
+   - Quem fez: Elsa
+   - O que fez: congelou
+   - complemento: tudo
 [Continue com mais 15...]
 
 **EXERCÍCIO 2 - CONSTRUÇÃO RÁPIDA (10 min):**
@@ -38,6 +50,7 @@ Monte 20 frases usando só estas palavras:
 - Sujeitos: Luke, Harry, Woody, Shrek, Wall-E
 - Verbos: lutou, voou, correu, gritou, dançou
 - Complementos: contra o mal, no céu, pela floresta, de alegria, sozinho
+Ex: Wall-E (Sujeito) dançou (Verbo) de alegria (Complemento)
 
 **EXERCÍCIO 3 - IDENTIFICAÇÃO EM FILME (5 min):**
 Assista 5 minutos de qualquer filme dublado. Pause a cada fala e identifique sujeito-verbo-complemento.
