@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d8c46a0221c499dc",
+        "id": "84ac71c7fec572f4",
         "type": "tabs",
         "children": [
           {
-            "id": "d0da80e8ef41a1fd",
+            "id": "a598b110a5f83321",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GreenHouse 🏡/Knowledge-Vaullt/API-HEALTH.md",
+                "file": "GreenHouse 🏡/Growing-Seasons/Plano de Ação estudos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "API-HEALTH"
-            }
-          },
-          {
-            "id": "5b509314c3bdee80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GreenHouse 🏡/Knowledge-Vaullt/Brainstorm 🌪️/Database.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Database"
+              "title": "Plano de Ação estudos"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,13 +180,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5b509314c3bdee80",
+  "active": "a598b110a5f83321",
   "lastOpenFiles": [
+    "GreenHouse 🏡/Growing-Seasons/Plano de Ação estudos.md",
+    "GreenHouse 🏡/Growing-Seasons/Lista de estudos.md",
+    "GreenHouse 🏡/Growing-Seasons/Do Zero ao Primeiro Passo.md",
+    "GreenHouse 🏡/Growing-Seasons/1° Semana.md",
+    "GreenHouse 🏡/Growing-Seasons/Sistema de pontuação FATEC.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/Brainstorm 🌪️/Database.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/Soft-Skills/Botar a cara a tapas (Deploy Contínuo).md",
+    "GreenHouse 🏡/Knowledge-Vaullt/Logs.md",
+    "Garden 🌺/O CASO TEA.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/API-HEALTH.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/Brainstorm 🌪️/Log.md",
     "SeedBed 🌱/17-06-2025.md",
     "GreenHouse 🏡/Knowledge-Vaullt/DATABASE.md",
     "Garden 🌺/Bancos de dados.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/Brainstorm 🌪️/Database.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/API-HEALTH.md",
     "GreenHouse 🏡/Knowledge-Vaullt/API-HEALTHCHECK.md",
     "GreenHouse 🏡/Active-Experiments/Manual-Tmux.md",
     "GreenHouse 🏡/Cultural-Observatory/IntesivaoFATEC.md",
@@ -224,15 +208,6 @@
     "GreenHouse 🏡/Knowledge-Vaullt/OS-FileSystem.md",
     "Atlas 🗺️/ARCH-LINUX.md",
     "GreenHouse 🏡/Knowledge-Vaullt/O Caminho do Artesão.md",
-    "GreenHouse 🏡/Cultural-Observatory/Redação/Guia para Redação 100%.md",
-    "GreenHouse 🏡/Cultural-Observatory/MÉTODO INVESTIGATIVO.md",
-    "GreenHouse 🏡/Cultural-Observatory/Redação/Proposta de estudo com cinema.md",
-    "GreenHouse 🏡/Cultural-Observatory/Fisica/Física para ignorantes.md",
-    "GreenHouse 🏡/Cultural-Observatory/Biologia/Entendimento da biologia das coisa.md",
-    "GreenHouse 🏡/Cultural-Observatory/Matemática/Do zero ao matemático.md",
-    "GreenHouse 🏡/Cultural-Observatory/Matemática/Números.md",
-    "Field-Work 🚜/Current-Projects/CINEMA!/0.Central/Dashboard.md",
-    "GreenHouse 🏡/Cultural-Observatory/Matemática/Operações Matemáticas.md",
     "GreenHouse 🏡/Cultural-Observatory/Biologia",
     "GreenHouse 🏡/Cultural-Observatory/Fisica",
     "GreenHouse 🏡/Cultural-Observatory/Redação"
