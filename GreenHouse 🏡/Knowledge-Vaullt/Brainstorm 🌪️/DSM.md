@@ -241,19 +241,10 @@
 ---
 
 ## 🛠️ Kit de Ferramentas do Estudante
-
-### **Software Essencial**
-- **IDE**: Visual Studio Code (programação)
-- **Banco de Dados**: MySQL Workbench
-- **Design**: Figma (interfaces) + Canva (apresentações)
-- **Controle de Versão**: Git + GitHub
-- **Notas**: Obsidian (já usa) + Notion para projetos
-
 ### **Hardware Recomendado**
 - **Notebook**: Mínimo 8GB RAM, SSD para programação
 - **Backup**: HD externo ou cloud (Google Drive/OneDrive)
 - **Acessórios**: Mouse, base para notebook, fones com cancelamento de ruído
-
 ### **Recursos Online**
 - **YouTube**: Curso em Vídeo, DevMedia, Cod3r
 - **Prática**: HackerRank, LeetCode, Exercism
@@ -342,23 +333,5 @@
 1. **Rotina consolidada** e funcionando
 2. **Primeiro ciclo** de provas/trabalhos concluído
 3. **Performance** consistentemente acima da média
-
----
-
-## 📞 Suporte de Emergência
-
-### **Quando Estiver Perdido**
-1. **Professor da disciplina** - sempre a primeira opção
-2. **Monitoria** - alunos veteranos que ajudam
-3. **Coordenação do curso** - para questões administrativas
-4. **Colegas de classe** - grupo de WhatsApp/Discord
-
-### **Recursos da FATEC**
-- **Biblioteca**: Material de apoio e local de estudos
-- **Laboratórios**: Acesso fora do horário de aula
-- **Centro Acadêmico**: Networking e eventos
-- **Programa de monitoria**: Ajuda gratuita de veteranos
-
----
 
 *Lembre-se: Todo especialista já foi iniciante. Você tem tudo para se destacar, só precisa ser consistente e proativo. Vamos dominar essa FATEC! 🚀*
