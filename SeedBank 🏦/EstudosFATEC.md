@@ -7,7 +7,6 @@ COMO USAR ESTE TEMPLATE:
 -->
 
 # 🚀 SEMANA {{date:DD-MM}} | FATEC
-
 ## 🎯 3 METAS NUCLEARES
 - [ ] **Meta 1:** Resolver {{número}} questões de {{disciplina}} ({{tópico}})
 - [ ] **Meta 2:** Escrever {{número}} redações ({{tema}})
@@ -26,22 +25,12 @@ COMO USAR ESTE TEMPLATE:
 | **Sáb** | **SIMULADO COMPLETO (3h)**      | [ ]    |
 | **Dom** | *Descanso obrigatório*          | [✅]    |
 
----
-
-## 🧠 REGISTRO DIÁRIO
-### {{date:DD-MM}} 
-**🔥 Feito hoje:**  
-- [ ] {{conquista 1}}  
-- [ ] {{conquista 2}}  
-- [ ] {{conquista 3}}  
-
-**💡 Insight:** "{{observação curta sobre aprendizados/erros}}"
+- [ ] Segunda: BD + Mat.Comp + Mobile
+- [ ] Terça: IHC + Design (2x)
+- [ ] Quarta: Estrut.Dados + Algoritmos (2x)
+- [ ] Quinta: Eng.Software + SO (2x)
+- [ ] Sexta: DevWeb + Tec.Prog + Inglês
 
 ---
 
-## 📌 PRÓXIMOS PASSOS  
-1. {{ação 1}} ([link útil]({{URL}}))  
-2. {{ação 2}}  
-3. {{ação 3}}  
 
-> "{{frase motivacional aleatória}}" ⚡

@@ -1,4 +1,4 @@
-# 📅 Semana do dia {{date:DD/MM/YY}} -
+# 📅 Semana do dia {{date:DD/MM/YY}} 
 
 ## ⚡ Resumo Semanal
 - **UVs Concluídas:** ||0★|| ➔ ||0★|| (Total: ||0★||)

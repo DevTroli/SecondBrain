@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "84ac71c7fec572f4",
+        "id": "f0802ad16c21862f",
         "type": "tabs",
         "children": [
           {
-            "id": "a598b110a5f83321",
+            "id": "03e6812b13070071",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GreenHouse 🏡/Growing-Seasons/Plano de Ação estudos.md",
+                "file": "Atlas 🗺️/FITNESS HUB.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Plano de Ação estudos"
+              "title": "FITNESS HUB"
             }
           }
         ]
@@ -180,34 +180,37 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a598b110a5f83321",
+  "active": "03e6812b13070071",
   "lastOpenFiles": [
-    "GreenHouse 🏡/Growing-Seasons/Plano de Ação estudos.md",
-    "GreenHouse 🏡/Growing-Seasons/Lista de estudos.md",
-    "GreenHouse 🏡/Growing-Seasons/Do Zero ao Primeiro Passo.md",
-    "GreenHouse 🏡/Growing-Seasons/1° Semana.md",
-    "GreenHouse 🏡/Growing-Seasons/Sistema de pontuação FATEC.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/Brainstorm 🌪️/Database.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/Soft-Skills/Botar a cara a tapas (Deploy Contínuo).md",
-    "GreenHouse 🏡/Knowledge-Vaullt/Logs.md",
-    "Garden 🌺/O CASO TEA.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/API-HEALTH.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/Brainstorm 🌪️/Log.md",
-    "SeedBed 🌱/17-06-2025.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/DATABASE.md",
-    "Garden 🌺/Bancos de dados.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/API-HEALTHCHECK.md",
-    "GreenHouse 🏡/Active-Experiments/Manual-Tmux.md",
-    "GreenHouse 🏡/Cultural-Observatory/IntesivaoFATEC.md",
-    "Atlas 🗺️/DEVELOPER-101.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/DEV-ENVDEV.md",
-    "GreenHouse 🏡/Cultural-Observatory/Games/Hades 2.md",
-    "GreenHouse 🏡/Cultural-Observatory/Redação/Do zero à redação.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/OS-JoyStick.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/OS-ArchWay.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/OS-FileSystem.md",
-    "Atlas 🗺️/ARCH-LINUX.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/O Caminho do Artesão.md",
+    "Atlas 🗺️/FITNESS HUB.md",
+    "Field-Work 🚜/Current-Projects/S.E.C.O/📆 MODO HOJE.md",
+    "Field-Work 🚜/Current-Projects/S.E.C.O/📝 Template Treino Hoje.md",
+    "Field-Work 🚜/Current-Projects/S.E.C.O/Home Gym.md",
+    "Field-Work 🚜/Current-Projects/S.E.C.O/📅 CRONOGRAMA-SEMANAL.md",
+    "Field-Work 🚜/Current-Projects/S.E.C.O/🔄 Protocolos de Progressão.md",
+    "Field-Work 🚜/Current-Projects/S.E.C.O/⚡ Planos de Emergência.md",
+    "Field-Work 🚜/Current-Projects/S.E.C.O/🎖️ Sistema de Conquistas.md",
+    "Field-Work 🚜/Current-Projects/S.E.C.O/📋 TEMPLATES-REGISTROS.md",
+    "Field-Work 🚜/Current-Projects/S.E.C.O/📈 DASHBOARD-PROGRESSO.md",
+    "Field-Work 🚜/Current-Projects/S.E.C.O/🏃‍♂️ Resistência Máxima.md",
+    "Field-Work 🚜/Current-Projects/S.E.C.O/💪 Definição Absoluta.md",
+    "Field-Work 🚜/Current-Projects/S.E.C.O/📊 Métricas Personalizadas.md",
+    "Field-Work 🚜/Current-Projects/S.E.C.O/🏖️ Projeto Verão.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/🏠 FITNESS HUB.md",
+    "Field-Work 🚜/Current-Projects/S.E.C.O/📈 Análise de Performance.md",
+    "Field-Work 🚜/Current-Projects/S.E.C.O/🔔 Lembretes e Alertas.md",
+    "Field-Work 🚜/Current-Projects/S.E.C.O/🎛️ Preferências Pessoais.md",
+    "Field-Work 🚜/Current-Projects/S.E.C.O/🏥 Quando Procurar Ajuda.md",
+    "Field-Work 🚜/Current-Projects/S.E.C.O/📞 Contatos de Emergência.md",
+    "Field-Work 🚜/Current-Projects/S.E.C.O/💭 Ferramentas Mentais.md",
+    "Field-Work 🚜/Current-Projects/S.E.C.O/💪 Exercícios do Dia.md",
+    "Field-Work 🚜/Current-Projects/S.E.C.O/Outdoor Natural.md",
+    "Field-Work 🚜/Current-Projects/S.E.C.O/🔄 Ajustes Necessários.md",
+    "Field-Work 🚜/Current-Projects/S.E.C.O/🎉 Celebrações da Semana.md",
+    "Field-Work 🚜/Current-Projects/S.E.C.O/📐 Técnica dos Exercícios.md",
+    "Field-Work 🚜/Current-Projects/FATEC/Semana 1",
+    "Field-Work 🚜/Current-Projects/FATEC",
+    "GreenHouse 🏡/Cultural-Observatory/Marketing&Vendas",
     "GreenHouse 🏡/Cultural-Observatory/Biologia",
     "GreenHouse 🏡/Cultural-Observatory/Fisica",
     "GreenHouse 🏡/Cultural-Observatory/Redação"
