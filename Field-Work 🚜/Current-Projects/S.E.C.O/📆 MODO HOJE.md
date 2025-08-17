@@ -3,18 +3,6 @@
 > **Painel de ação imediata** para o dia de hoje.  
 > Tudo o que precisa ver antes de treinar, sem distrações.
 
-## 🏋️ Treino do Dia
-```dataview
-LIST
-FROM "Templates"
-WHERE file.cday = date(today) AND contains(file.name, "Treino")
-SORT file.mtime DESC
-````
-
-🔹 **Se não aparecer nada acima:** criar [[📝 Template Treino Hoje]]
-
----
-
 ## 🎯 Foco Atual
 
 * **Meta micro:** +1 repetição no braço esquerdo
@@ -32,14 +20,14 @@ SORT file.mtime DESC
 ### 💪 Durante o Treino
 
 * [ ] Executar treino planejado
-* [ ] Registrar no \[\[📝 Template Treino Hoje]]
-* [ ] Aplicar técnica do foco semanal
+* [ ] Registrar o treino pelo [[📋 TEMPLATES-REGISTROS]] do dia
+* [ ] Aplicar técnica do foco semanal e revisar o [[🎯 Foco da Semana]]
 
 ### 🌙 Noite
 
-* [ ] Atualizar \[\[📈 DASHBOARD-PROGRESSO]]
+* [ ] Atualizar [[📈 DASHBOARD-PROGRESSO]]
 * [ ] Registrar reflexões no diário
-* [ ] Preparar treino de amanhã mentalmente
+* [ ] Preparar treino de amanhã
 
 ---
 
@@ -63,23 +51,9 @@ SORT file.mtime DESC
 * [[🎯 Foco da Semana]] — prioridade atual
 * [[🔢 Tabela de Progressões]] — referência rápida
 
-## 📈 Consistência na Semana
-
-```dataview
-TABLE file.name AS "Dia", treino, cardio, humor
-FROM "Registros"
-WHERE file.cday >= date(today) - dur(6 days)
-SORT file.cday DESC
-```
-
----
-
 ## 🆘 Emergência Imediata
 
-* \[\[❓ Sem Motivação Hoje]]
-* \[\[⚠️ Dor ou Desconforto]]
-* \[\[⏰ Sem Tempo Para Treino]]
-
----
+* [[❓ Sem Motivação Hoje]]
+* [[⚠️ Dor ou Desconforto]]
 
 > 🎯 **Regra de ouro:** Primeiro termine este painel, depois explore o resto do Hub.

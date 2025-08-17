@@ -55,12 +55,12 @@
   - *Fase 2:* Variações de pegada
   - *Fase 3:* Peso adicional ou L-sits
 
-| Série | Repetições | Tempo Descida | Observações |
-|-------|------------|---------------|-------------|
-| 1 | ___ | 3 seg | Aquecimento, técnica |
-| 2 | ___ | 3 seg | Máximo esforço |  
-| 3 | ___ | 3 seg | Máximo esforço |
-| 4 | ___ | 3 seg | Até falha controlada |
+| Série | Repetições | Tempo Descida | Observações          |
+| ----- | ---------- | ------------- | -------------------- |
+| 1     | ___        | 3 seg         | Aquecimento, técnica |
+| 2     | ___        | 3 seg         | Máximo esforço       |
+| 3     | ___        | 3 seg         | Máximo esforço       |
+| 4     | ___        | 3 seg         | Até falha controlada |
 
 **Flexões - 4 séries**
 - **Princípio:** Sempre começar pelo braço esquerdo

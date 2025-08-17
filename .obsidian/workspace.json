@@ -8,13 +8,123 @@
         "type": "tabs",
         "children": [
           {
-            "id": "91099d4847635500",
+            "id": "7f28927a7d7a37c5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Field-Work 🚜/Current-Projects/FATEC-DSM/01-CronogramaSemanal.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "01-CronogramaSemanal"
+            }
+          },
+          {
+            "id": "8e04c47457d95751",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Field-Work 🚜/Current-Projects/S.E.C.O/🎖️ Sistema de Conquistas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "🎖️ Sistema de Conquistas"
+            }
+          },
+          {
+            "id": "afd9f5829384d5ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Field-Work 🚜/Current-Projects/S.E.C.O/📈 DASHBOARD-PROGRESSO.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "📈 DASHBOARD-PROGRESSO"
+            }
+          },
+          {
+            "id": "32de76e9c5801511",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Field-Work 🚜/Current-Projects/S.E.C.O/🎯 Foco da Semana.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "🎯 Foco da Semana"
+            }
+          },
+          {
+            "id": "b66e0ea9e42bd3b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Field-Work 🚜/Current-Projects/S.E.C.O/💪 Exercícios do Dia.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "💪 Exercícios do Dia"
             }
           }
         ]
@@ -166,37 +276,40 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "719faf6d00a43702",
+  "active": "7f28927a7d7a37c5",
   "lastOpenFiles": [
-    "backup_git.sh",
-    "GreenHouse 🏡/Knowledge-Vaullt/Brainstorm 🌪️/DSM.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/Teste.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/Brainstorm 🌪️/enviroments variables.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana 1/Dia 3.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/01-CronogramaSemanal.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/03-SistemaAvaliativo.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/02-RotinaEstudos.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/04-Objetivos.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana 1/Dia 4.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana 1/Dia 2.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana 1/Dia 1.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Professores/eulaliane.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Professores/andrea.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Professores/simone.md",
     "Atlas 🗺️/FITNESS HUB.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/Desenvolimento-Web.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/DSM-WebSistemaGlobal.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/DSM-HTML.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/DSM-ClientServer.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/DSM-TriadeWeb.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/DSM-Internet.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/Design-Digital.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/DSM-DesignSociedade.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/DSM-VidaDesigner.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/DSM-UI&UX.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/DSM-TiposDesign.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/DSM-DesignDigital.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/DSM-FundamentosDesign.md",
+    "SeedBank 🏦/IndexMaterias.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Professores",
+    "backup_git.sh",
     "Untitled",
-    "GreenHouse 🏡/Knowledge-Vaullt/🏠 FITNESS HUB.md",
-    "Field-Work 🚜/Current-Projects/S.E.C.O/📆 MODO HOJE.md",
-    "Field-Work 🚜/Current-Projects/S.E.C.O/📝 Template Treino Hoje.md",
-    "Field-Work 🚜/Current-Projects/S.E.C.O/Home Gym.md",
-    "Field-Work 🚜/Current-Projects/S.E.C.O/📅 CRONOGRAMA-SEMANAL.md",
-    "Field-Work 🚜/Current-Projects/S.E.C.O/🔄 Protocolos de Progressão.md",
-    "Field-Work 🚜/Current-Projects/S.E.C.O/⚡ Planos de Emergência.md",
-    "Field-Work 🚜/Current-Projects/S.E.C.O/🎖️ Sistema de Conquistas.md",
-    "Field-Work 🚜/Current-Projects/S.E.C.O/📋 TEMPLATES-REGISTROS.md",
-    "Field-Work 🚜/Current-Projects/S.E.C.O/📈 DASHBOARD-PROGRESSO.md",
-    "Field-Work 🚜/Current-Projects/S.E.C.O/🏃‍♂️ Resistência Máxima.md",
-    "Field-Work 🚜/Current-Projects/S.E.C.O/💪 Definição Absoluta.md",
-    "Field-Work 🚜/Current-Projects/S.E.C.O/📊 Métricas Personalizadas.md",
-    "Field-Work 🚜/Current-Projects/S.E.C.O/🏖️ Projeto Verão.md",
-    "Field-Work 🚜/Current-Projects/S.E.C.O/📈 Análise de Performance.md",
-    "Field-Work 🚜/Current-Projects/S.E.C.O/🔔 Lembretes e Alertas.md",
-    "Field-Work 🚜/Current-Projects/S.E.C.O/🎛️ Preferências Pessoais.md",
-    "Field-Work 🚜/Current-Projects/S.E.C.O/🏥 Quando Procurar Ajuda.md",
-    "Field-Work 🚜/Current-Projects/S.E.C.O/📞 Contatos de Emergência.md",
-    "Field-Work 🚜/Current-Projects/S.E.C.O/💭 Ferramentas Mentais.md",
-    "Field-Work 🚜/Current-Projects/S.E.C.O/💪 Exercícios do Dia.md",
-    "Field-Work 🚜/Current-Projects/FATEC/Semana 1",
-    "Field-Work 🚜/Current-Projects/FATEC",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana 1",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM",
     "GreenHouse 🏡/Cultural-Observatory/Marketing&Vendas",
     "GreenHouse 🏡/Cultural-Observatory/Biologia",
     "GreenHouse 🏡/Cultural-Observatory/Fisica",

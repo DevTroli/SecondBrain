@@ -1,7 +1,11 @@
 ## 🧠 REGISTRO DIÁRIO
+
+> [!NOTE]
+> NESSE DIA FOI APENAS UMA AULA DE ENG.SOFTWARE
+
 ### 07/08/2025
 **🔥 Aprendi hoje:** 
-- [ ] Introdução para  Eng.Software que que axiona de hardware
+- [ ] Introdução para  Eng.Software que que axioma de hardware
 - [ ] Sobre Paradigma
 - [ ] Conheci a palavra axioma e seus usos
 - [ ] Oque é um cluster (grupo ou aglomerado)

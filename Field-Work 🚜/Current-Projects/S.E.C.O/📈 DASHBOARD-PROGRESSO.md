@@ -1,5 +1,3 @@
-
-
 ← Voltar para [[FITNESS HUB]]
 
 ---
@@ -233,7 +231,7 @@ Semana 4: ███████████████████████�
 
 ## 🔗 Links Relacionados
 
-- [[📅 Cronograma Semanal]] - Planejamento dos treinos
+- [[📅 CRONOGRAMA-SEMANAL]] - Planejamento dos treinos
 - [[🔄 Protocolos de Progressão]] - Como evoluir
 - [[💭 Ferramentas Mentais]] - Manter motivação
 - [[🎖️ Sistema de Conquistas]] - Marcos a alcançar

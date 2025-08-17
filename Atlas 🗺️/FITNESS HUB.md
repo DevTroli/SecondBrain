@@ -6,7 +6,6 @@
 > **Ação imediata** — Tudo que você precisa para iniciar o dia sem pensar demais.
 
 [[📆 MODO HOJE]] —> Painel diário com treinos, foco e checklist  
-[[📝 Template Treino Hoje]] —> Registro da sessão atual  
 [[💪 Exercícios do Dia]] —> Consulta rápida do treino  
 [[🎯 Foco da Semana]] —> Prioridade atual  
 
@@ -101,8 +100,6 @@ SORT prazo ASC
 
 [[❓ Sem Motivação Hoje]]
 [[⚠️ Dor ou Desconforto]]
-[[📉 Performance Caindo]]
-[[⏰ Sem Tempo Para Treino]]
 [[🩹 Primeiros Socorros (Fitness)]]
 [[📞 Contatos de Emergência]]
 [[🏥 Quando Procurar Ajuda]]

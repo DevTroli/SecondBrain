@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas 🗺️/FITNESS HUB.md",
-                "mode": "source",
+                "file": "Field-Work 🚜/Current-Projects/FATEC-DSM/01-CronogramaSemanal.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "FITNESS HUB"
+              "title": "01-CronogramaSemanal"
             }
           }
         ]
@@ -165,16 +165,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0d5fc6512b0c4413",
+  "active": "8c83225f4d51e104",
   "lastOpenFiles": [
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana 1/Dia 2.md",
+    "Garden 🌺/O CASO TEA.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana 1/Dia 4.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana 1/Dia 3.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/01-CronogramaSemanal.md",
+    "Field-Work 🚜/Current-Projects/S.E.C.O/Guia de Nutricioonal.md",
+    "Field-Work 🚜/Current-Projects/S.E.C.O/🎖️ Sistema de Conquistas.md",
     "Atlas 🗺️/FITNESS HUB.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/Teste.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/Brainstorm 🌪️/DSM.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/Brainstorm 🌪️/Database.md",
-    "Field-Work 🚜/Current-Projects/S.E.C.O/📆 MODO HOJE.md",
-    "Field-Work 🚜/Current-Projects/S.E.C.O/💪 Exercícios do Dia.md",
-    "Untitled",
-    "GreenHouse 🏡/Knowledge-Vaullt/🏠 FITNESS HUB.md",
-    "Field-Work 🚜/Current-Projects/S.E.C.O/📈 DASHBOARD-PROGRESSO.md"
+    "Field-Work 🚜/Current-Projects/S.E.C.O/📈 DASHBOARD-PROGRESSO.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Professores/simone.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Desenvolvimento de sistemas plataformas.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/04-Objetivos.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/04-OBJETIVOS.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/03-SistemaAvaliativo.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/02-RotinaEstudos.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/01-Cronograma-Semanal.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/00-fundamentos.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Sem título.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Professores/Carregando....md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Professores/Sem título.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Professores/eulaliane.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Professores/galvão.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Professores/andrea.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Professores/marcio-galvão.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Professores/simone-romano.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Professores/Simone-Romano.md",
+    "backup_git.sh",
+    "Untitled"
   ]
 }
