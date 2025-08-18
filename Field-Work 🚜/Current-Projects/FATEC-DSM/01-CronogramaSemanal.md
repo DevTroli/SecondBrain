@@ -9,11 +9,11 @@ Este cronograma representa sua estrutura base para os próximos meses. Cada disc
 ## 📅 Grade Semanal - 1º Ciclo
 
 ### Segunda
-| Horário     | Disciplina      | Prof   | Local | Tipo       |
-| ----------- | --------------- | ------ | ----- | ---------- |
-| 13:10-14:50 | Modelagem BD    | Simone | Lab05 | 💻 Prático |
-| 15:00-16:40 | Modelagem BD    | Simone | Lab05 | 💻 Prático |
-| 16:50-18:30 | Eng. Software I | Marcio | Lab03 | 📊 Teórico |
+| Horário     | Disciplina      | Prof   | Local | Tipo       |     |
+| ----------- | --------------- | ------ | ----- | ---------- | --- |
+| 13:10-14:50 | Modelagem BD    | Simone | Lab05 | 💻 Prático |     |
+| 15:00-16:40 | Modelagem BD    | Simone | Lab05 | 💻 Prático |     |
+| 16:50-18:30 | Eng. Software I | Marcio | Lab03 | 📊 Teórico |     |
 
 ### Terça
 | Horário     | Disciplina     | Prof      | Local | Tipo       |

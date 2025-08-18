@@ -50,7 +50,6 @@ Esta rotina foi desenhada baseada em princípios de neurociência cognitiva e t�
 - [ ] Bloco de estudo noturno completado integralmente  
 - [ ] Materiais para próximo dia preparados
 - [ ] Reflexão do dia documentada
-- [ ] Energia mental avaliada (escala 1-10)
 
 ## 📈 Métricas de Acompanhamento
 

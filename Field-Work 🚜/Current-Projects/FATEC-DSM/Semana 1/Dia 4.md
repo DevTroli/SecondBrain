@@ -21,7 +21,7 @@
 
 ### 🎯 Métricas
 - **Perguntas feitas**:O de sempre... bastante perguntas e afirmações para ser um aluno ativo
-- **Contatos novos**: Isa (Caiçara, Gosta de design, Curte tênis de mesa é uma amor de pessoa), Lívia (Fã de patinação no gelo, curte Sorvete é menta & chocolate, joga minecraft, é uma dama), Iago: O inteligente, Danilo (Nilu) cara muito inteligente
+- **Contatos novos**: Isa (Caiçara, Gosta de design, Curte tênis de mesa é uma amor de pessoa), Lívia (Fã de patinação no gelo, curte Sorvete de menta & chocolate, joga minecraft, é uma dama), Iago: O inteligente, Danilo --> Nilu (cara deveras intelectual segundo o felipe espero descobrir por conta propria)
 
 ### 🎯 META NUCLEAR
 - [ ] **Meta 1:** Fazer anotações do PDF para o obsidian e segui a nova organização proposta

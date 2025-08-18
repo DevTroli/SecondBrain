@@ -1,2 +1,0 @@
-- hoje dia 24/06/25, eu falhei por deixar a procastinação me irritar e me bloqueiar doque eu tenho que fazer e sucumbi por fraqueza e pelo fato de achar que não tem mais jeito por hoje e preciso fazer isso logo para acabar com isso e pode seguir com minha vida
-- 

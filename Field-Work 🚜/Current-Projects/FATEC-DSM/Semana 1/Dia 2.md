@@ -25,7 +25,7 @@
 
 ### 🎯 Métricas
 - **Perguntas feitas**: Não lembro, mas tenho eu tenho certeza que fui bem ativo na aula
-- **Contatos novos**: Eu conheci o nome de todos da sala, mas não troquei nem duas palavras com quase nenhuma pessoa de novo só a Prof.Simone e a Carla
+- **Contatos novos**: Eu conheci o nome de todos da sala, mas não troquei nem duas palavras com quase nenhuma pessoa de novo só a Prof.Simone e a Carla (Uma pessoa interessante... pelo jeito curte um desafio se não ela não estaria aqui sendo ruim em algo novo as 50)
 
 ### 🎯 3 METAS NUCLEARES
 - [ ] **Meta 1:**  Ler regulamento do aluno FATEC

@@ -22,7 +22,7 @@
 
 ### 🎯 Métricas
 - **Perguntas feitas**: Nada de tão relevante para registrar, mas fui bem ativo na aula hoje
-- **Contatos novos**: Gabriel (Nascimento) & Rian (Mano que foi do EB)
+- **Contatos novos**: Gabriel Nascimento (Parece que ele é muito inteligente mas não é de muito papo, um clássico esteriótipo eu diria) & Rian (o mano que foi do mesmo quartel que eu , que mundo pequeno né, sempre legal saber dessas coisas)
 
 ### 🎯 3 METAS NUCLEARES
 - [ ] **Meta 1:** Ver o Teams de Design
