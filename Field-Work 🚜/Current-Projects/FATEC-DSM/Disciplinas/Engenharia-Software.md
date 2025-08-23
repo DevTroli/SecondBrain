@@ -45,14 +45,58 @@
 - Interface entre hardware e software
 - **Base:** O motor que faz tudo funcionar
 
-### 🎯 **Capítulo 7: Programação Orientada a Objetos**
+### 🎯 **Capítulo 7: Programação Orientada a Objetos - Fundamentos**
 **[[DSM-POO | Classes e Objetos]]**
 - Conceitos fundamentais: Classe e Objeto
 - POO em C: implementação básica
 - Modelagem do mundo real
 - **Evolução:** Do procedural ao orientado a objetos
 
-### 📐 **Capítulo 8: Modelagem Visual - A Linguagem dos Sistemas**
+### 💻 **Capítulo 7.1: Objetos Computacionais - Do Mundo Real ao Digital**
+**[[DSM-ObjetosComputacionais | Objetos na Memória]]**
+- **Axioma dos objetos:** Toda entidade digital ocupa memória e tem endereço único
+- **Bridge conceitual:** Do mundo físico para representação digital
+- **Materialização de ideias:** Como conceitos abstratos viram bits e bytes
+- **Fundação:** Base para entender POO na prática
+- **Conexão:** Conecta teoria de objetos com implementação real
+
+### 🔧 **Capítulo 7.2: Fundamentos de C - A Base de Tudo**
+**[[DSM-FundamentosC | Anatomia do Código]]**
+- **Estrutura básica:** `#include`, `main()`, sintaxe fundamental
+- **Hexadecimal em C:** Falando a linguagem do computador
+- **Memória e ponteiros:** Onde objetos realmente vivem
+- **Por que C importa:** Base para entender qualquer linguagem
+- **Aplicação:** Implementação prática de conceitos teóricos
+
+### 🎯 **Capítulo 8: Por que Orientação a Objetos Vale o Esforço?**
+**[[DSM-PorqueOrientacaoObjetos| ROI da Orientação a Objetos]]**
+- **O problema que POO resolve:** Antes vs depois da organização
+- **Análise custo-benefício:** Quando vale o investimento extra
+- **ROI (Return on Investment):** Menos bugs, desenvolvimento mais rápido
+- **Quando usar vs não usar:** Guia prático de decisão
+- **Evolução natural:** Da programação procedural para orientada a objetos
+
+### 🏗️ **Capítulo 9: Os 7 Pilares da Orientação a Objetos**
+**[[DSM-SetePilaresPOO| Fundamentos Conceituais]]**
+- **1. Abstração:** Focando no essencial, escondendo complexidade
+- **2. Encapsulamento:** Protegendo dados e controlando acesso
+- **3. Herança:** Reutilização inteligente através de hierarquias
+- **4. Polimorfismo:** Mesma interface, comportamentos diferentes
+- **5. Persistência:** Objetos que sobrevivem entre execuções
+- **6. Classes:** Os moldes que definem tipos de objetos
+- **7. Métodos:** Ações que objetos sabem realizar
+- **Integração:** Como os pilares trabalham juntos
+
+### 🔄 **Capítulo 10: Tipos de Relacionamentos em POO**
+**[[DSM-RelacionamentosPOO | Como Objetos Colaboram]]**
+- **Composição (Todo-Parte):** Relacionamentos de vida e morte
+- **Herança (Generalização-Especialização):** Hierarquias de tipos
+- **Agregação (Tem Um):** Objetos que se usam mas vivem independentemente
+- **Associação (Conhece):** Objetos que mantêm referências mútuos
+- **Dependência (Usa):** Relacionamentos temporários
+- **Guia prático:** Quando usar cada tipo de relacionamento
+
+### 📐 **Capítulo 11: Modelagem Visual - A Linguagem dos Sistemas**
 **[[DSM-ModelagemVisual | UML e Diagramação]]**
 - **Filosofia da Abstração:**
   - "É uma abstração semântica de um sistema" (Booch et al, 1999)
@@ -66,7 +110,7 @@
   - Complexidade gerenciada através de abstração
 - **Conexão:** Como transformamos lógica abstrata em comunicação visual
 
-### 🏗️ **Capítulo 9: Diagramas Estruturais - A Anatomia do Sistema**
+### 🏗️ **Capítulo 12: Diagramas Estruturais - A Anatomia do Sistema**
 **[[DSM-DiagramasEstruturais | Arquitetura Estática]]**
 - **Diagrama de Classes:** O DNA dos objetos
 - **Diagrama de Objetos:** Estados concretos em tempo real
@@ -76,7 +120,7 @@
 - **Diagrama de Pacotes:** Organização e namespace
 - **Meta-Visão:** Como estrutura reflete intenção arquitetural
 
-### ⚡ **Capítulo 10: Diagramas Comportamentais - A Dinâmica da Vida**
+### ⚡ **Capítulo 13: Diagramas Comportamentais - A Dinâmica da Vida**
 **[[DSM-DiagramasComportamentais | Fluxos e Interações]]**
 - **Diagrama de Casos de Uso:** A perspectiva do usuário final
 - **Diagrama de Sequência:** Ordem temporal dos eventos
@@ -91,7 +135,7 @@
   - Interações, colaborações no tempo e espaço
 - **Meta-Visão:** Como comportamento emerge da estrutura
 
-### 🌐 **Capítulo 11: Clusters e Sistemas Distribuídos**
+### 🌐 **Capítulo 14: Clusters e Sistemas Distribuídos**
 **[[DSM-Clusters | Arquiteturas Escaláveis]]**
 - CAP Theorem e consenso bizantino
 - Arquiteturas modernas (K8s, serverless, edge)
@@ -102,7 +146,7 @@
   - Padrões arquiteturais para distribuição
 - **Síntese:** Aplicação de todos os conceitos em escala global
 
-### 🔄 **Capítulo 12: Do Modelo à Implementação**
+### 🔄 **Capítulo 15: Do Modelo à Implementação**
 **[[DSM-ModeloImplementacao | Engenharia Reversa e Direta]]**
 - **Engenharia Direta:** Do diagrama ao código
 - **Engenharia Reversa:** Do código ao diagrama

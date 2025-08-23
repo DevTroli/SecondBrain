@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d7487d6a878cdf83",
+            "id": "7364d5e7eddb1722",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/Engenharia-Software.md",
+                "file": "SeedBed 🌱/23-08-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Engenharia-Software"
+              "title": "23-08-2025"
             }
           }
         ]
@@ -181,16 +181,25 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d7487d6a878cdf83",
+  "active": "7364d5e7eddb1722",
   "lastOpenFiles": [
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-ArquiteturasS.O.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/Engenharia-Software.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/abc.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-RelacionamentosPOO.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-SetePilaresPOO.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-PorqueOrientacaoObjetos.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-FundamentosC.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-ObjetosComputacionais.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/sla.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-Clusters.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana 2/Dia 4.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/Desenvolimento-Web.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-HTML.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/Sistemas-Operacionais.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/DSM-EstruturaProcessosS.O.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/DSM-ProcessosS.O.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/DSM-ArquiteturasS.O.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/DSM-TiposConceituaisS.O.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana 2/Dia 4.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-EstruturaProcessosS.O.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-ProcessosS.O.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-TiposConceituaisS.O.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana 2/Dia 5.md",
     "SeedBed 🌱/23-08-2025.md",
     "SeedBed 🌱/10-08-2025.md",
@@ -200,16 +209,7 @@
     "Garden 🌺/Minha Verdade (TEA).md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/01-CronogramaSemanal.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-TipoS.O.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-HistoriaS.O.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-AbordagemS.O.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-DriversS.O.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-InterfacesS.O.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-NucleoSistemaOperacional.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-ConceitosS.O.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana 2/Dia 3.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-GerenciamentoS.O.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/Design-Digital.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana 2",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Professores",
