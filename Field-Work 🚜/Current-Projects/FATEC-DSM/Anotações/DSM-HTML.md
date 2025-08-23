@@ -24,90 +24,11 @@ HTML não é sobre fazer páginas bonitas. É sobre estruturar informação de f
 ```
 
 **Por que cada tag importa**:
-- `<!DOCTYPE html>`: Diz ao navegador "isso é HTML5, não HTML antigo"
+- `<!DOCTYPE html>`: Liz ao navegador "isso é HTML5, não HTML antigo"
 - `<html lang="pt-BR">`: Define idioma (ajuda screen readers e Google)
 - `<meta charset="UTF-8">`: Suporta acentos e caracteres especiais
 - `<h1>`: Hierarquia de títulos (h1 é o mais importante)
 - `<a href="">`: O hyperlink que conecta toda a web
-
-## 💻 Construindo Um Dashboard Real
-
-Vamos sair da teoria e construir algo que você usaria na vida real:
-
-```html
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <title>Dashboard - Vendas Online</title>
-</head>
-<body>
-    <!-- Navegação do site -->
-    <nav>
-        <ul>
-            <li><a href="#dashboard">Dashboard</a></li>
-            <li><a href="#produtos">Produtos</a></li>
-            <li><a href="#clientes">Clientes</a></li>
-        </ul>
-    </nav>
-
-    <!-- Conteúdo principal -->
-    <main>
-        <h1>Dashboard de Vendas</h1>
-        
-        <!-- Seção: Tabela de vendas -->
-        <section>
-            <h2>Vendas do Mês</h2>
-            <table>
-                <thead>
-                    <tr>
-                        <th>Produto</th>
-                        <th>Quantidade</th>
-                        <th>Valor (R$)</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td>iPhone 15</td>
-                        <td>120</td>
-                        <td>240.000</td>
-                    </tr>
-                    <tr>
-                        <td>MacBook Pro</td>
-                        <td>45</td>
-                        <td>180.000</td>
-                    </tr>
-                </tbody>
-            </table>
-        </section>
-
-        <!-- Seção: Formulário para adicionar produto -->
-        <section>
-            <h2>Adicionar Produto</h2>
-            <form action="/produtos" method="POST">
-                <label for="nome">Nome do Produto:</label>
-                <input type="text" id="nome" name="nome" required>
-                
-                <label for="preco">Preço (R$):</label>
-                <input type="number" id="preco" name="preco" step="0.01" required>
-                
-                <label for="categoria">Categoria:</label>
-                <select id="categoria" name="categoria">
-                    <option>Eletrônicos</option>
-                    <option>Roupas</option>
-                    <option>Casa</option>
-                </select>
-                
-                <label for="descricao">Descrição:</label>
-                <textarea id="descricao" name="descricao"></textarea>
-                
-                <button type="submit">Adicionar Produto</button>
-            </form>
-        </section>
-    </main>
-</body>
-</html>
-```
 
 ## 🔧 Cada Elemento na Prática
 
@@ -116,12 +37,87 @@ Vamos sair da teoria e construir algo que você usaria na vida real:
 - Screen readers usam isso para navegar
 - Google usa para entender estrutura do site
 
-**Tabelas (`<table>`)**:
-- Use apenas para dados tabulares (vendas, relatórios)
-- `<thead>`, `<tbody>` ajudam na organização
-- Nunca use tabela para layout de página
+## 📊 Tabelas: O HTML Puro da Era Clássica
 
-**Formulários (`<form>`)**:
+**Tabelas (`<table>`)** - A arte perdida do HTML sem semântica :[1][2]
+- Use **apenas para dados tabulares** (vendas, relatórios, planilhas)
+- Nunca use tabela para layout de página - isso é coisa do passado
+- Mas quando precisar de uma tabela de dados real, domine completamente
+
+### **Estrutura Básica da Tabela Clássica**
+
+```html
+<table border="1" cellpadding="5" cellspacing="2" width="100%">
+    <caption>Vendas do Mês de Janeiro</caption>
+    
+    <thead>
+        <tr>
+            <th>Produto</th>
+            <th>Vendedor</th>
+            <th>Valor</th>
+        </tr>
+    </thead>
+    
+    <tbody>
+        <tr>
+            <td>Notebook Dell</td>
+            <td>João Silva</td>
+            <td>R$ 2.500,00</td>
+        </tr>
+        <tr>
+            <td>Mouse Logitech</td>
+            <td>Maria Santos</td>
+            <td>R$ 89,90</td>
+        </tr>
+    </tbody>
+    
+    <tfoot>
+        <tr>
+            <td colspan="2"><strong>Total:</strong></td>
+            <td><strong>R$ 2.589,90</strong></td>
+        </tr>
+    </tfoot>
+</table>
+```
+
+### **Anatomia das Tags de Tabela**
+
+**Tags de Estrutura** :
+- `<table>`: Contêiner principal da tabela
+- `<tr>`: Table row - cada linha da tabela  
+- `<td>`: Table data - célula de dados comum
+- `<th>`: Table header - célula de cabeçalho (automaticamente em negrito e centralizada)
+
+**Tags Semânticas Organizacionais** :
+- `<thead>`: Cabeçalho da tabela - onde ficam os títulos das colunas
+- `<tbody>`: Corpo da tabela - onde ficam os dados principais
+- `<tfoot>`: Rodapé da tabela - totais, médias, observações
+- `<caption>`: Legenda da tabela - descrição do que a tabela representa[6][7]
+
+### **Atributos Clássicos que Controlam Aparência**
+
+**Bordas e Dimensões** :
+```html
+<table border="2" width="500" height="300">
+```
+- `border="1"`: Espessura da borda em pixels
+- `width="100%"` ou `width="500"`: Largura em porcentagem ou pixels  
+- `height="200"`: Altura da tabela
+
+**Espaçamento - A Arte do Cellpadding e Cellspacing** :
+```html
+<table cellpadding="10" cellspacing="5">
+```
+- `cellpadding="10"`: Espaço **interno** entre o conteúdo e a borda da célula
+- `cellspacing="5"`: Espaço **externo** entre as células adjacentes
+
+**Cores de Fundo** :
+```html
+<table bgcolor="yellow">
+<tr bgcolor="lightblue">
+```
+
+## 🔧 Formulários (`<form>`)**:
 - `action`: para onde enviar os dados
 - `method="POST"`: para dados sensíveis/grandes
 - `required`: validação automática do navegador
@@ -219,110 +215,6 @@ Quando você faz `<form action="/produtos" method="POST">`, está criando uma po
 - Seu CSS fica mais limpo
 - Outros desenvolvedores entendem seu código
 
-## 💻 Site Completo e Funcional
-
-Aqui está um exemplo real que funciona:
-
-```html
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TechStore - Loja de Eletrônicos</title>
-</head>
-<body>
-    <header>
-        <h1>TechStore</h1>
-        <nav>
-            <ul>
-                <li><a href="#home">Home</a></li>
-                <li><a href="#produtos">Produtos</a></li>
-                <li><a href="#contato">Contato</a></li>
-            </ul>
-        </nav>
-    </header>
-
-    <main>
-        <!-- Hero Section -->
-        <section id="home">
-            <h2>Os Melhores Eletrônicos</h2>
-            <p>Encontre iPhone, MacBook e muito mais com o melhor preço.</p>
-            <img src="hero-iphone.jpg" alt="iPhone 15 em destaque" width="600" height="400">
-        </section>
-
-        <!-- Produtos -->
-        <section id="produtos">
-            <h2>Nossos Produtos</h2>
-            
-            <article>
-                <h3>iPhone 15 Pro</h3>
-                <img src="iphone15.jpg" alt="iPhone 15 Pro azul" width="300" height="300">
-                <p>O mais avançado iPhone já criado.</p>
-                <p><strong>R$ 8.999,00</strong></p>
-                
-                <!-- Formulário de compra -->
-                <form action="/comprar" method="POST">
-                    <input type="hidden" name="produto" value="iphone-15-pro">
-                    <label for="quantidade">Quantidade:</label>
-                    <input type="number" id="quantidade" name="quantidade" min="1" value="1">
-                    <button type="submit">Comprar</button>
-                </form>
-            </article>
-
-            <article>
-                <h3>MacBook Pro M3</h3>
-                <img src="macbook.jpg" alt="MacBook Pro aberto" width="300" height="300">
-                <p>Performance profissional para criadores.</p>
-                <p><strong>R$ 15.999,00</strong></p>
-                
-                <form action="/comprar" method="POST">
-                    <input type="hidden" name="produto" value="macbook-pro-m3">
-                    <label for="quantidade2">Quantidade:</label>
-                    <input type="number" id="quantidade2" name="quantidade" min="1" value="1">
-                    <button type="submit">Comprar</button>
-                </form>
-            </article>
-        </section>
-
-        <!-- Contato -->
-        <section id="contato">
-            <h2>Fale Conosco</h2>
-            <form action="/contato" method="POST">
-                <label for="nome">Nome:</label>
-                <input type="text" id="nome" name="nome" required>
-                
-                <label for="email">Email:</label>
-                <input type="email" id="email" name="email" required>
-                
-                <label for="assunto">Assunto:</label>
-                <select id="assunto" name="assunto">
-                    <option value="duvida">Dúvida sobre produto</option>
-                    <option value="suporte">Suporte técnico</option>
-                    <option value="reclamacao">Reclamação</option>
-                </select>
-                
-                <label for="mensagem">Mensagem:</label>
-                <textarea id="mensagem" name="mensagem" required></textarea>
-                
-                <button type="submit">Enviar Mensagem</button>
-            </form>
-        </section>
-    </main>
-
-    <footer>
-        <p>&copy; 2025 TechStore. Todos os direitos reservados.</p>
-        <nav>
-            <ul>
-                <li><a href="#politica">Política de Privacidade</a></li>
-                <li><a href="#termos">Termos de Uso</a></li>
-            </ul>
-        </nav>
-    </footer>
-</body>
-</html>
-```
-
 ## 🧠 O que Você Precisa Saber
 
 **80% do HTML que você usa será**:
@@ -333,11 +225,7 @@ Aqui está um exemplo real que funciona:
 - `<img>` para imagens
 - `<form>`, `<input>`, `<button>` para interação
 - `<ul>`, `<ol>`, `<li>` para listas
+- **`<table>`, `<tr>`, `<td>`, `<th>` para dados tabulares reais**
 
-**20% são os detalhes**:
-- Atributos de acessibilidade
-- Otimizações de SEO
-- Tags semânticas específicas
-
----
-💡 **Insight**: HTML é como LEGO para adultos. Você tem peças básicas (tags) que se encaixam de formas infinitas. A diferença é que no LEGO você constrói castelos - no HTML você constrói experiências que bilhões de pessoas vão usar. Cada `<form>` que você cria pode processar milhares de pedidos. Cada `<table>` pode mostrar dados críticos para empresas. Você não está apenas escrevendo código - está construindo a interface da economia digital.
+***
+💡 **Insight**: HTML é como LEGO para adultos. Você tem peças básicas (tags) que se encaixam de formas infinitas. A diferença é que no LEGO você constrói castelos - no HTML você constrói experiências que bilhões de pessoas vão usar. Cada `<form>` que você cria pode processar milhares de pedidos. **Cada `<table>` pode mostrar dados críticos que definem o rumo de empresas inteiras**. Você não está apenas escrevendo código - está construindo a interface da economia digital. E quando um CEO olha um relatório de vendas na tela, ele está vendo sua tabela HTML funcionando perfeitamente, célula por célula, dados organizados como uma planilha digital que roda em qualquer navegador do mundo.

@@ -52,6 +52,35 @@
 - **Especialização:** Tempo real, embarcados, distribuídos
 - **Ecossistema Atual:** Como cada tipo serve diferentes necessidades
 
+### 🎯 **Capítulo 8: As Três Faces do Sistema - Batch, Interativo e Real-Time**
+**[[DSM-TiposConceituaisS.O | Modos de Operação do SO]]**
+- Batch: Processamento em lote sem interação
+- Interativo: Resposta imediata ao usuário
+- Real-time: Garantias temporais críticas
+- **Aplicação:** Cada modo para diferentes necessidades
+
+### 🏗️ **Capítulo 9: A Evolução da Arquitetura - 8, 16, 32 e 64 bits**
+**[[DSM-ArquiteturasS.O | Largura de Dados e Capacidades]]**
+- 8 bits: Era primitiva (256 valores)
+- 16 bits: Expansão inicial (64KB memória)
+- 32 bits: Revolução moderna (4GB RAM)
+- 64 bits: Domínio atual (16 exabytes teóricos)
+- **Progressão:** Como cada salto revolucionou possibilidades
+
+### ⚙️ **Capítulo 10: Anatomia da Vida Digital - Processos em Detalhes**
+**[[DSM-ProcessosS.O | Programa em Execução]]**
+- Processos: Código + Recursos + Espaço de Memória
+- PDB (Process Database): Estrutura de controle completa
+- PID (Process ID): Identidade única no sistema
+- **Ciclo Vital:** Criação → Execução → Término → Limpeza
+
+### 🔬 **Capítulo 11: O DNA Digital - Estrutura Interna dos Processos**
+**[[DSM-EstruturaProcessosS.O | Componentes Internos Críticos]]**
+- PCB (Process Control Block): Carteira de identidade
+- Estados do processo: New, Ready, Running, Waiting, Terminated
+- Context switching: Troca de contexto entre processos
+- **Gerenciamento:** Como SO rastreia e controla cada processo
+
 ## No final...
 
 Sistemas Operacionais não são apenas software - são a base civilizatória da era digital. Cada processo que escalonamos, cada byte que gerenciamos, cada driver que instalamos, contribui para manter funcionando a infraestrutura invisível que sustenta nossa sociedade conectada. Somos os guardiões de uma camada de realidade que poucos veem, mas da qual todos dependem. Sem S.Os, não haveria smartphones, servidores web, nem a própria Internet - apenas silício inerte esperando por uma alma digital.

@@ -11,60 +11,60 @@ Este guia apresenta todos os seus atalhos organizados por contexto e ferramenta,
 ## 🖥️ HYPRLAND - Gerenciador de Janelas
 
 ### Aplicações Essenciais
-| Atalho | Ação | Descrição |
-|--------|------|-----------|
-| `Super + Enter` | Terminal | Abre terminal principal |
-| `Super + E` | File Manager | Gerenciador de arquivos |
-| `Super + Space` | Menu de aplicações | Launcher principal |
-| `Super + C` | Fechar janela | Mata a janela ativa |
+| Atalho          | Ação               | Descrição               |
+| --------------- | ------------------ | ----------------------- |
+| `Super + Enter` | Terminal           | Abre terminal principal |
+| `Super + E`     | File Manager       | Gerenciador de arquivos |
+| `Super + Space` | Menu de aplicações | Launcher principal      |
+| `Super + C`     | Fechar janela      | Mata a janela ativa     |
 
 ### Navegação e Foco
-| Atalho | Ação | Descrição |
-|--------|------|-----------|
-| `Super + h/j/k/l` | Mover foco | Vim-style: esquerda/direita/cima/baixo |
-| `Alt + Tab` | Trocar layout teclado | Script personalizado |
+| Atalho            | Ação                  | Descrição                              |
+| ----------------- | --------------------- | -------------------------------------- |
+| `Super + h/j/k/l` | Mover foco            | Vim-style: esquerda/direita/cima/baixo |
+| `Alt + Tab`       | Trocar layout teclado | Script personalizado                   |
 
 ### Workspaces (Áreas de Trabalho)
-| Atalho | Ação | Descrição |
-|--------|------|-----------|
-| `Super + 1-9,0` | Ir para workspace | Workspace 1-10 |
-| `Super + Shift + 1-9,0` | Mover janela | Move para workspace específico |
-| `Super + S` | Special workspace | Toggle workspace mágico |
-| `Super + Shift + S` | Mover para special | Move janela para workspace mágico |
-| `Super + Mouse wheel` | Navegar workspaces | Scroll entre workspaces |
+| Atalho                  | Ação               | Descrição                         |
+| ----------------------- | ------------------ | --------------------------------- |
+| `Super + 1-9,0`         | Ir para workspace  | Workspace 1-10                    |
+| `Super + Shift + 1-9,0` | Mover janela       | Move para workspace específico    |
+| `Super + S`             | Special workspace  | Toggle workspace mágico           |
+| `Super + Shift + S`     | Mover para special | Move janela para workspace mágico |
+| `Super + Mouse wheel`   | Navegar workspaces | Scroll entre workspaces           |
 
 ### Ferramentas Rofi
-| Atalho | Ação | Descrição |
-|--------|------|-----------|
-| `Alt + E` | Emojis | Seletor de emojis |
-| `Alt + C` | Calculadora | Calculadora integrada |
-| `Super + W` | WiFi Menu | Gerenciador de WiFi |
-| `Super + Q` | Power Menu | Menu de energia |
+| Atalho      | Ação           | Descrição             |
+| ----------- | -------------- | --------------------- |
+| `Alt + E`   | Emojis         | Seletor de emojis     |
+| `Alt + C`   | Calculadora    | Calculadora integrada |
+| `Super + W` | WiFi Menu      | Gerenciador de WiFi   |
+| `Super + Q` | Power Menu     | Menu de energia       |
 | `Super + B` | Bluetooth Menu | Gerenciador Bluetooth |
 
 ### Screenshots e Utilitários
-| Atalho | Ação | Descrição |
-|--------|------|-----------|
-| `Alt + P` | Screenshot região | Captura área selecionada |
-| `Super + Shift + P` | Color picker | Pipeta de cores |
-| `Super + P` | Bitwarden | Gerenciador de senhas |
-| `Super + V` | Clipboard | Menu de clipboard |
+| Atalho              | Ação              | Descrição                |
+| ------------------- | ----------------- | ------------------------ |
+| `Alt + P`           | Screenshot região | Captura área selecionada |
+| `Super + Shift + P` | Color picker      | Pipeta de cores          |
+| `Super + P`         | Bitwarden         | Gerenciador de senhas    |
+| `Super + V`         | Clipboard         | Menu de clipboard        |
 
 ### Mouse e Redimensionamento
-| Atalho | Ação | Descrição |
-|--------|------|-----------|
-| `Super + Mouse esquerdo` | Mover janela | Arrastar janela |
-| `Super + Mouse direito` | Redimensionar | Redimensionar janela |
+| Atalho                   | Ação          | Descrição            |
+| ------------------------ | ------------- | -------------------- |
+| `Super + Mouse esquerdo` | Mover janela  | Arrastar janela      |
+| `Super + Mouse direito`  | Redimensionar | Redimensionar janela |
 
 ### Multimídia e Sistema
-| Atalho | Ação | Descrição |
-|--------|------|-----------|
-| `XF86AudioRaiseVolume` | Volume +5% | Aumentar volume |
-| `XF86AudioLowerVolume` | Volume -5% | Diminuir volume |
-| `XF86AudioMute` | Mute toggle | Silenciar áudio |
-| `XF86MonBrightnessUp/Down` | Brilho ±5% | Controle de brilho |
-| `XF86AudioPlay/Pause` | Play/Pause | Controle de mídia |
-| `XF86AudioNext/Prev` | Próxima/Anterior | Controle de mídia |
+| Atalho                     | Ação             | Descrição          |
+| -------------------------- | ---------------- | ------------------ |
+| `XF86AudioRaiseVolume`     | Volume +5%       | Aumentar volume    |
+| `XF86AudioLowerVolume`     | Volume -5%       | Diminuir volume    |
+| `XF86AudioMute`            | Mute toggle      | Silenciar áudio    |
+| `XF86MonBrightnessUp/Down` | Brilho ±5%       | Controle de brilho |
+| `XF86AudioPlay/Pause`      | Play/Pause       | Controle de mídia  |
+| `XF86AudioNext/Prev`       | Próxima/Anterior | Controle de mídia  |
 
 ---
 
@@ -74,42 +74,42 @@ Este guia apresenta todos os seus atalhos organizados por contexto e ferramenta,
 - **Prefix**: `Ctrl + Space` (substitui o padrão Ctrl+B)
 
 ### Gerenciamento de Sessões
-| Atalho | Ação | Descrição |
-|--------|------|-----------|
-| `Prefix + N` | Nova sessão | Prompt para nome da sessão |
-| `Alt + R` | Renomear sessão | Renomeia sessão atual |
-| `Prefix + r` | Recarregar config | Recarrega ~/.tmux.conf |
+| Atalho       | Ação              | Descrição                  |
+| ------------ | ----------------- | -------------------------- |
+| `Prefix + N` | Nova sessão       | Prompt para nome da sessão |
+| `Alt + R`    | Renomear sessão   | Renomeia sessão atual      |
+| `Prefix + r` | Recarregar config | Recarrega ~/.tmux.conf     |
 
 ### Janelas (Windows)
-| Atalho | Ação | Descrição |
-|--------|------|-----------|
-| `Prefix + c` | Nova janela | Cria no diretório atual |
-| `Alt + 1-9` | Ir para janela | Acesso direto por número |
-| `Alt + h/l` | Janela anterior/próxima | Navegação rápida |
-| `Prefix + n/p` | Next/Previous | Navegação tradicional |
-| `Alt + W` | Renomear janela | Renomeia janela atual |
-| `Prefix + X` | Fechar janela | Com confirmação |
+| Atalho         | Ação                    | Descrição                |
+| -------------- | ----------------------- | ------------------------ |
+| `Prefix + c`   | Nova janela             | Cria no diretório atual  |
+| `Alt + 1-9`    | Ir para janela          | Acesso direto por número |
+| `Alt + h/l`    | Janela anterior/próxima | Navegação rápida         |
+| `Prefix + n/p` | Next/Previous           | Navegação tradicional    |
+| `Alt + W`      | Renomear janela         | Renomeia janela atual    |
+| `Prefix + X`   | Fechar janela           | Com confirmação          |
 
 ### Painéis (Panes)
-| Atalho | Ação | Descrição |
-|--------|------|-----------|
-| `Prefix + '` | Split horizontal | Divide horizontalmente |
-| `Prefix + s` | Split vertical | Divide verticalmente |
-| `Ctrl + h/j/k/l` | Navegação | Integrado com Neovim |
-| `Prefix + H/J/K/L` | Redimensionar | Modo repeat ativo |
-| `Prefix + x` | Fechar painel | Com confirmação |
-| `Prefix + f` | Fullscreen toggle | Maximiza/restaura painel |
+| Atalho             | Ação              | Descrição                |
+| ------------------ | ----------------- | ------------------------ |
+| `Prefix + '`       | Split horizontal  | Divide horizontalmente   |
+| `Prefix + s`       | Split vertical    | Divide verticalmente     |
+| `Ctrl + h/j/k/l`   | Navegação         | Integrado com Neovim     |
+| `Prefix + H/J/K/L` | Redimensionar     | Modo repeat ativo        |
+| `Prefix + x`       | Fechar painel     | Com confirmação          |
+| `Prefix + f`       | Fullscreen toggle | Maximiza/restaura painel |
 
 ### Copy Mode e Clipboard
-| Atalho | Ação | Descrição |
-|--------|------|-----------|
-| `Prefix + v` | Copy mode | Entra no modo de cópia |
-| `v` | Iniciar seleção | No copy mode |
-| `Ctrl + v` | Seleção retangular | No copy mode |
-| `y` | Copiar | Para clipboard do sistema |
-| `Enter` | Copiar e sair | Copia e sai do copy mode |
-| `Prefix + p` | Colar | Cola do clipboard |
-| `Shift + Insert` | Copiar direto | No copy mode |
+| Atalho           | Ação               | Descrição                 |
+| ---------------- | ------------------ | ------------------------- |
+| `Prefix + v`     | Copy mode          | Entra no modo de cópia    |
+| `v`              | Iniciar seleção    | No copy mode              |
+| `Ctrl + v`       | Seleção retangular | No copy mode              |
+| `y`              | Copiar             | Para clipboard do sistema |
+| `Enter`          | Copiar e sair      | Copia e sai do copy mode  |
+| `Prefix + p`     | Colar              | Cola do clipboard         |
+| `Shift + Insert` | Copiar direto      | No copy mode              |
 
 ### Layouts e Sincronização
 | Atalho | Ação | Descrição |

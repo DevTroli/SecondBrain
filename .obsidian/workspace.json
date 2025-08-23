@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "51e1e0e80eb6f54f",
+        "id": "fe477d8bf3e67531",
         "type": "tabs",
         "children": [
           {
-            "id": "3a991cdf1a8596fd",
+            "id": "d7487d6a878cdf83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/Sistemas-Operacionais.md",
+                "file": "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/Engenharia-Software.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sistemas-Operacionais"
+              "title": "Engenharia-Software"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "636cca390069a7cc",
@@ -182,8 +181,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3a991cdf1a8596fd",
+  "active": "d7487d6a878cdf83",
   "lastOpenFiles": [
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/Desenvolimento-Web.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-HTML.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/Sistemas-Operacionais.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/DSM-EstruturaProcessosS.O.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/DSM-ProcessosS.O.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/DSM-ArquiteturasS.O.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/DSM-TiposConceituaisS.O.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana 2/Dia 4.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana 2/Dia 5.md",
+    "SeedBed 🌱/23-08-2025.md",
+    "SeedBed 🌱/10-08-2025.md",
+    "Atlas 🗺️/DEVOPS.md",
+    "Atlas 🗺️/LINUX.md",
+    "GreenHouse 🏡/Active-Experiments/Manual-TroliLaptop.md",
+    "Garden 🌺/Minha Verdade (TEA).md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/01-CronogramaSemanal.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-TipoS.O.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-HistoriaS.O.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-AbordagemS.O.md",
@@ -191,25 +206,10 @@
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-InterfacesS.O.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-NucleoSistemaOperacional.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-ConceitosS.O.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/Sistemas-Operacionais.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana 2/Dia 3.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-GerenciamentoS.O.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/Desenvolimento-Web.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/Design-Digital.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/Engenharia-Software.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/Modelagem-BD.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/Redes.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Professores/fábio.md",
-    "Field-Work 🚜/Current-Projects/S.E.C.O/📈 DASHBOARD-PROGRESSO.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/WEB-ProtocolosDeRede.md",
-    "Field-Work 🚜/Current-Projects/S.E.C.O/🎖️ Sistema de Conquistas.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-Clusters.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-DiagramasComportamentais.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-EstudosCaso.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-DiagramasEstruturais.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-ModelagemVisual.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-ModeloImplementacao.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana 2",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Professores",
