@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fe477d8bf3e67531",
+        "id": "a37f65bff156f03d",
         "type": "tabs",
         "children": [
           {
-            "id": "7364d5e7eddb1722",
+            "id": "4877ad6848479303",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -181,8 +181,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7364d5e7eddb1722",
+  "active": "4877ad6848479303",
   "lastOpenFiles": [
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/Modelagem-BD.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-M.E.R.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana3/Dia 1.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana2/Dia 4.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana2/Dia 5.md",
+    "SeedBed 🌱/DEVELOPER-101.canvas",
+    "SeedBed 🌱/23-08-2025.md",
+    "SeedBed 🌱/NVIM-ZERO2HERO.canvas",
+    "GreenHouse 🏡/Active-Experiments/Manual-LimparTenisBranco.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana3",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Trabalhos/Bimestral-BancoDados(ciclo1).md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Trabalhos",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-ArquiteturasS.O.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/Engenharia-Software.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/abc.md",
@@ -193,31 +205,21 @@
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-ObjetosComputacionais.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/sla.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-Clusters.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana 2/Dia 4.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/Desenvolimento-Web.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-HTML.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/Sistemas-Operacionais.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-EstruturaProcessosS.O.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-ProcessosS.O.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-TiposConceituaisS.O.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana 2/Dia 5.md",
-    "SeedBed 🌱/23-08-2025.md",
     "SeedBed 🌱/10-08-2025.md",
     "Atlas 🗺️/DEVOPS.md",
-    "Atlas 🗺️/LINUX.md",
-    "GreenHouse 🏡/Active-Experiments/Manual-TroliLaptop.md",
-    "Garden 🌺/Minha Verdade (TEA).md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/01-CronogramaSemanal.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-TipoS.O.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana 2",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana2",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Professores",
     "backup_git.sh",
     "Untitled",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana 1",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM",
-    "GreenHouse 🏡/Cultural-Observatory/Marketing&Vendas",
-    "GreenHouse 🏡/Cultural-Observatory/Biologia"
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana1",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM"
   ]
 }
