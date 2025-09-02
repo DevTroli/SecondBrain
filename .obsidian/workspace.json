@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SeedBed 🌱/23-08-2025.md",
+                "file": "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana3/Dia 3&4.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "23-08-2025"
+              "title": "Dia 3&4"
+            }
+          },
+          {
+            "id": "b7878eeb41f7880e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SeedBed 🌱/sla.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "sla"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,15 +206,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4877ad6848479303",
+  "active": "b7878eeb41f7880e",
   "lastOpenFiles": [
+    "SeedBed 🌱/23-08-2025.md",
+    "SeedBed 🌱/sla.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana3/Dia 3&4.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/Guia definitivo de HTML.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana3/Dia 5.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana3/Dia 1.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/Modelagem-BD.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-M.E.R.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana3/Dia 1.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana2/Dia 4.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana2/Dia 5.md",
     "SeedBed 🌱/DEVELOPER-101.canvas",
-    "SeedBed 🌱/23-08-2025.md",
     "SeedBed 🌱/NVIM-ZERO2HERO.canvas",
     "GreenHouse 🏡/Active-Experiments/Manual-LimparTenisBranco.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana3",
@@ -209,10 +238,6 @@
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-HTML.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/Sistemas-Operacionais.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-EstruturaProcessosS.O.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-ProcessosS.O.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-TiposConceituaisS.O.md",
-    "SeedBed 🌱/10-08-2025.md",
-    "Atlas 🗺️/DEVOPS.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana2",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas",
