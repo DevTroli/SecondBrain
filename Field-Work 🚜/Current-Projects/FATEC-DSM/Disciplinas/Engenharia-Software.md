@@ -158,6 +158,21 @@
 - **Desafio Prático:** Como manter abstração útil sem burocratização
 - **Bridge:** Conectando teoria filosófica com prática industrial
 
+### 🔄 **Capítulo 16: A Engenharia de Modelagem - Processos de Desenvolvimento**
+**[[DSM-EngModelagem | Estratégias para Construir Software]]**
+- **Axioma histórico:** Do caos dos anos 60 aos processos estruturados
+- **Modelo Cascata:** Sequencial e linear (análise → design → código → teste)
+- **Modelos Incrementais:** RAD e entregas evolutivas por incrementos
+- **Modelo de Prototipagem:** Versões experimentais para reduzir riscos
+- **Modelo Evolucionário:** Software que cresce organicamente com feedback
+- **Modelo Espiral:** Foco em gestão de riscos através de ciclos iterativos
+- **Modelos Especializados:** Adaptações para domínios específicos
+- **Modelo Baseado em Componentes:** Reutilização e modularidade
+- **Processo Unificado:** Framework iterativo guiado por casos de uso
+- **Meta-Questão:** Como diferentes contextos demandam diferentes estratégias de construção
+- **Síntese:** A evolução da engenharia de software espelha a evolução da própria engenharia
+
+
 ## 🎯 **Meta-Capítulo: Estudos de Caso Integrativos**
 **[[DSM-EstudosCaso | Aplicação Prática Completa]]**
 - **Caso 1: Sistema de Biblioteca**

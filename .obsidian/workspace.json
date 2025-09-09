@@ -4,59 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a37f65bff156f03d",
+        "id": "f3a97bf3a6fd5564",
         "type": "tabs",
         "children": [
           {
-            "id": "4877ad6848479303",
+            "id": "2716e2f8b5bebe09",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana3/Dia 3&4.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Dia 3&4"
-            }
-          },
-          {
-            "id": "b7878eeb41f7880e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SeedBed 🌱/sla.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "sla"
+              "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,45 +167,52 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b7878eeb41f7880e",
+  "active": "2716e2f8b5bebe09",
   "lastOpenFiles": [
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/Engenharia-Software.md",
+    "GreenHouse 🏡/Growing-Seasons/VISITA-IBM.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana4/Dia 1.md",
     "SeedBed 🌱/23-08-2025.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-EngModelagem.md",
     "SeedBed 🌱/sla.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/Sistemas-Operacionais.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-Sincronizacao.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-Deadlock.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-ThreadsEscalonamento.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Trabalhos(Ciclo1)/Bimestral-EngenhariaSoftware.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana4",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Trabalhos(Ciclo1)/Semestral-EngenhariaSoftware.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Trabalhos(Ciclo1)/Bimestral-BancoDados(ciclo1).md",
+    "Garden 🌺/LowCode-NoCode.md",
+    "Garden 🌺/\"Como Lidar com mulheres\".md",
+    "GreenHouse 🏡/Knowledge-Vaullt/Business-Rules/MVP&PoC.md",
+    "GreenHouse 🏡/Growing-Seasons/Do Zero ao Primeiro Passo.md",
+    "Garden 🌺/Comunidades cinéfilas online.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/Brainstorm 🌪️/Capital Social Digital.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/Brainstorm 🌪️/DSM.md",
+    "GreenHouse 🏡/Growing-Seasons/Lista de estudos.md",
+    "SeedBed 🌱/REST_API.canvas",
+    "SeedBed 🌱/NVIM-ZERO2HERO.canvas",
+    "SeedBed 🌱/INFRAESTRUTURA-DEVOPS.canvas",
+    "SeedBed 🌱/GIT.canvas",
+    "SeedBed 🌱/Django.canvas",
+    "SeedBed 🌱/Docker.canvas",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana3/Dia 3&4.md",
+    "SeedBed 🌱/REST-ARCHTECTURE_TWITTER.canvas",
+    "SeedBed 🌱/Quando-Anotar.canvas",
+    "SeedBed 🌱/Recados-DSM.md",
     "GreenHouse 🏡/Knowledge-Vaullt/Guia definitivo de HTML.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana3/Dia 5.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana3/Dia 1.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/Modelagem-BD.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-M.E.R.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana2/Dia 4.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana2/Dia 5.md",
     "SeedBed 🌱/DEVELOPER-101.canvas",
-    "SeedBed 🌱/NVIM-ZERO2HERO.canvas",
-    "GreenHouse 🏡/Active-Experiments/Manual-LimparTenisBranco.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana3",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Trabalhos/Bimestral-BancoDados(ciclo1).md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Trabalhos",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-ArquiteturasS.O.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/Engenharia-Software.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/abc.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-RelacionamentosPOO.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-SetePilaresPOO.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-PorqueOrientacaoObjetos.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-FundamentosC.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-ObjetosComputacionais.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/sla.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-Clusters.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/Desenvolimento-Web.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-HTML.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/Sistemas-Operacionais.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-EstruturaProcessosS.O.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Trabalhos(Ciclo1)",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana2",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Professores",
     "backup_git.sh",
     "Untitled",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana1",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM"
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana1"
   ]
 }

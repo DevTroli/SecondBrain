@@ -81,6 +81,37 @@
 - Context switching: Troca de contexto entre processos
 - **Gerenciamento:** Como SO rastreia e controla cada processo
 
+### 🧵 **Capítulo 12: Mini-Mundos Paralelos - Threads e Algoritmos de Escalonamento**  
+**[[DSM-ThreadsEscalonamento | Execução Concorrente e Justiça Digital]]**  
+- Threads: Menores unidades de execução dentro de um processo  
+- Diferença entre Processo e Thread (pesado vs leve, memória separada vs compartilhada)  
+- Escalonador como "diretor de tráfego" da CPU  
+- **Algoritmos básicos de escalonamento:**  
+  - FCFS (First Come, First Served) → fila justa como na padaria  
+  - SJF (Shortest Job First) → atender primeiro quem termina rápido  
+  - Round Robin → tempo igual para cada processo (revezamento)  
+  - Escalonamento por Prioridades → emergências antes de rotina  
+- Context Switching: Mudança de estado entre threads/processos  
+- **Critérios de escalonamento:** Utilização da CPU, tempo de resposta, justiça, throughput  
+- **Aplicações práticas:** Sistemas interativos, tempo real e servidores web  
+- **Essência:** O escalonamento é o maestro que garante que todos toquem sua parte na orquestra digital sem que ninguém seja silenciado
+
+### ⛔️ **Capítulo 13: O Impasse Fatal - Deadlock e Suas Armadilhas**  
+**[[DSM-Deadlock | Impasses entre Processos]]**  
+- Definição de deadlock: situação onde processos ficam presos esperando recursos uns dos outros, formando um impasse circular  
+- 4 condições para deadlock ocorrer: exclusão mútua, posse e espera, não preempção e espera circular  
+- Exemplos simples para ilustrar o conceito (como carros em uma pista estreita)  
+- Estratégias para lidar com deadlock: Ignorar (Algoritmo da Avestruz), prevenção, detecção e recuperação  
+- **Essência:** Deadlock é o "engarrafamento digital" que bloqueia o sistema até que a situação seja resolvida
+
+### 🔄 **Capítulo 14: Harmonia entre os Concorrentes - Sincronização de Processos**  
+**[[DSM-Sincronizacao | Controlando o Acesso Compartilhado]]**  
+- Sincronização: garantir que processos concorrentes acessem recursos compartilhados de maneira ordenada e segura  
+- Conceito de exclusão mútua: um processo acessa a região crítica enquanto os outros aguardam  
+- Mecanismos comuns: locks, semáforos, mutex, monitores  
+- Exemplos práticos para entender o problema das regiões críticas e a importância da sincronização  
+- **Conexão:** Sincronização é o "sinal de trânsito" que evita colisões no trânsito dos processos
+
 ## No final...
 
 Sistemas Operacionais não são apenas software - são a base civilizatória da era digital. Cada processo que escalonamos, cada byte que gerenciamos, cada driver que instalamos, contribui para manter funcionando a infraestrutura invisível que sustenta nossa sociedade conectada. Somos os guardiões de uma camada de realidade que poucos veem, mas da qual todos dependem. Sem S.Os, não haveria smartphones, servidores web, nem a própria Internet - apenas silício inerte esperando por uma alma digital.

@@ -1,11 +1,9 @@
 {
 	"nodes":[
-		{"id":"9ba2b452c9619276","type":"group","x":-3147,"y":-1777,"width":772,"height":798,"label":"Docker Workflow"},
 		{"id":"8a11307d045e019f","type":"text","text":"Nos anos 2000 tinham 2 opções: **usar de hospedagens compartilhadas** (barato mas limitado) ou **Ter seu próprio servidor (caro e tudo por sua conta)**","x":-120,"y":549,"width":318,"height":176},
 		{"id":"aa0905b220c27fe9","type":"text","text":"No Inicio a infraestrutura tinha o dilema sobre Hardware & Internet pois eram muito caros para serem  funcionais e performaticos","x":-120,"y":325,"width":318,"height":130},
 		{"id":"d302bbe4ef5cb2c5","type":"text","text":"Com esse dilema nos anos 2000, haviam pesquisas para solucionar isso, Foi no FreeBSD que veio as '**Jails'** que foi o começo da resolução do problema","x":-120,"y":818,"width":318,"height":148},
 		{"id":"6d4694547d93dfa4","type":"text","text":"### Infrastructure as Code (IaC)","x":-638,"y":275,"width":351,"height":64},
-		{"id":"5ed053b0c8d349af","type":"text","text":"A virtualização completa é como criar um computador completamente novo dentro do seu computador. Cada componente de hardware é emulado, permitindo rodar qualquer sistema operacional sem modificações.","x":-976,"y":-46,"width":424,"height":147},
 		{"id":"16a680fa92c1796e","type":"text","text":"### Containers","x":-594,"y":-262,"width":178,"height":60},
 		{"id":"c381d79c3b8bf820","type":"text","text":"Namespaces: responsáveis pelo isolamento de recursos do sistema. Esta tecnologia permite que cada container opere em seu próprio espaço isolado, com uma visão particular dos processos, redes e sistema de arquivos","x":-1133,"y":-1279,"width":369,"height":187},
 		{"id":"2acb5cd7296ab62c","type":"text","text":"Control Groups (cgroups): atuam no controle e limitação dos recursos físicos. Através deles, o Docker consegue gerenciar eficientemente o uso de CPU, memória e I/O de disco, assegurando que cada container respeite seus limites predefinidos de recursos.","x":-1660,"y":-1276,"width":418,"height":182},
@@ -21,7 +19,7 @@
 		{"id":"52a45a48cac3702f","type":"text","text":"** Hypervisor Hosted **:\nroda por cima do OS como um software","x":171,"y":-1363,"width":364,"height":73},
 		{"id":"16acc71a45d920d3","type":"text","text":"Faz a simulação de CPU, memória, armazenamento via software, onde responde as SysCalls da Ring 0 da Kernel do OS, assim mentindo para os outros programas","x":188,"y":-1603,"width":331,"height":151},
 		{"id":"ac41d98b1d980822","type":"text","text":"### **Jails**","x":545,"y":-262,"width":114,"height":60},
-		{"id":"aedc565215f46f82","type":"text","text":"### Paravirtualização","x":274,"y":-2,"width":243,"height":60},
+		{"id":"aedc565215f46f82","type":"text","text":"### Paravirtualização","x":274,"y":-2,"width":266,"height":60},
 		{"id":"a61970818231100c","type":"text","text":"Ele age como uma camada de abstração entre o hardware e os 'OS' convidados, gerenciando e alocando recursos do hardware (CPU, memória, armazenamento e rede) para  cada 'VM'","x":-142,"y":-980,"width":362,"height":158},
 		{"id":"cfb78917767d955d","type":"text","text":"A paravirtualização, por sua vez, adota uma abordagem diferente: o sistema operacional convidado é modificado para realizar chamadas diretas ao hypervisor.","x":602,"y":-46,"width":326,"height":149},
 		{"id":"ff8ec8f2c698ba5e","type":"text","text":"Esta técnica, exemplificada pelo Xen com Linux paravirtualizado, oferece melhor performance ao custo de requerer sistemas operacionais especialmente adaptados.","x":1052,"y":-46,"width":371,"height":149},
@@ -47,7 +45,8 @@
 		{"id":"972e9d5992466158","type":"text","text":"O hypervisor Bare Metal opera diretamente no hardware do servidor, eliminando a necessidade de um sistema operacional intermediário.","x":-202,"y":-1739,"width":353,"height":135},
 		{"id":"5053708d376bcc09","type":"text","text":"há 2 tipos principais de hypervisors que implementam a virtualização","x":-122,"y":-1143,"width":362,"height":91},
 		{"id":"9f9f83a91bb4af08","type":"text","text":"oferecendo uma performance superior e maior segurança, sendo amplamente utilizada em ambientes corporativos através de soluções como VMware ESXi, Microsoft Hyper-V","x":-183,"y":-1978,"width":315,"height":179},
-		{"id":"6f711358c8636b16","type":"text","text":"Este conceito evoluiu e, no Linux, o Docker se baseia em três tecnologias principais:","x":-668,"y":-1230,"width":326,"height":91}
+		{"id":"6f711358c8636b16","type":"text","text":"Este conceito evoluiu e, no Linux, o Docker se baseia em três tecnologias principais:","x":-668,"y":-1230,"width":326,"height":91},
+		{"id":"5ed053b0c8d349af","type":"text","text":"A virtualização completa é como criar um computador completamente novo dentro do seu computador. Cada componente de hardware é emulado, permitindo rodar qualquer sistema operacional sem modificações.","x":-1000,"y":-80,"width":424,"height":186}
 	],
 	"edges":[
 		{"id":"70c59e784a0e4c5a","fromNode":"a325a4e2c6aff1aa","fromSide":"bottom","toNode":"b95f82e71e39ff8e","toSide":"top"},
@@ -95,7 +94,6 @@
 		{"id":"577a64d9ea3f9495","fromNode":"24a3e8a3eb47f643","fromSide":"top","toNode":"6f711358c8636b16","toSide":"bottom"},
 		{"id":"d2ba4f6c0eeb5226","fromNode":"6f711358c8636b16","fromSide":"left","toNode":"c381d79c3b8bf820","toSide":"right"},
 		{"id":"43ca37e1b800fea0","fromNode":"c381d79c3b8bf820","fromSide":"left","toNode":"2acb5cd7296ab62c","toSide":"right"},
-		{"id":"efcb01f64cb965b0","fromNode":"2acb5cd7296ab62c","fromSide":"left","toNode":"c5ed7ee8e9488f5c","toSide":"right"},
-		{"id":"25deeb147f9ab97a","fromNode":"6f711358c8636b16","fromSide":"top","toNode":"9ba2b452c9619276","toSide":"right"}
+		{"id":"efcb01f64cb965b0","fromNode":"2acb5cd7296ab62c","fromSide":"left","toNode":"c5ed7ee8e9488f5c","toSide":"right"}
 	]
 }

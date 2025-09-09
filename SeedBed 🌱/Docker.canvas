@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"91606f6298feeadf","type":"group","x":-1528,"y":-589,"width":468,"height":314,"label":"Docker Workflow"},
 		{"id":"7bc8dd407c3f9075","type":"text","text":"Docker Volume","x":-5,"y":-57,"width":250,"height":60},
 		{"id":"4c7f998711f74b9d","type":"text","text":"# DOCKER","x":-313,"y":-67,"width":197,"height":75},
 		{"id":"2b3fbb626bbc30c9","type":"text","text":"Docker Network","x":-1,"y":-169,"width":201,"height":60},
@@ -10,8 +9,6 @@
 		{"id":"2de14d95fa4be9a6","type":"text","text":"Docker Compose","x":-4,"y":55,"width":201,"height":60},
 		{"id":"c6118b1f4a67d133","type":"text","text":"Docker Engine != Docker Desktop","x":-64,"y":387,"width":320,"height":60},
 		{"id":"faf01633910740b3","type":"text","text":"Docker Hub: Versionamento de arquivos docker","x":-313,"y":358,"width":205,"height":89},
-		{"id":"645fb5c35058d969","type":"text","text":"","x":-787,"y":-59,"width":250,"height":60},
-		{"id":"bd88ce71865e200a","type":"text","text":"","x":-787,"y":85,"width":250,"height":60},
 		{"id":"e85dacc688b4d91b","type":"text","text":"Kubernetes","x":-621,"y":373,"width":169,"height":60}
 	],
 	"edges":[
@@ -25,9 +22,6 @@
 		{"id":"4f0fcaf63111298f","fromNode":"4c7f998711f74b9d","fromSide":"top","toNode":"ac5f27285f5ee3a5","toSide":"bottom"},
 		{"id":"417495d68f83f036","fromNode":"769e9cf21fef031c","fromSide":"right","toNode":"ac5f27285f5ee3a5","toSide":"left","label":"Build"},
 		{"id":"4dddd41de7f533d0","fromNode":"ac5f27285f5ee3a5","fromSide":"right","toNode":"dcb9e12e0d7d33ae","toSide":"left","label":"Run"},
-		{"id":"c68660da1a22cc32","fromNode":"4c7f998711f74b9d","fromSide":"right","toNode":"7bc8dd407c3f9075","toSide":"left"},
-		{"id":"f2fc4754efb7eab2","fromNode":"4c7f998711f74b9d","fromSide":"left","toNode":"645fb5c35058d969","toSide":"right"},
-		{"id":"e5e1e24611e1e3a7","fromNode":"4c7f998711f74b9d","fromSide":"left","toNode":"91606f6298feeadf","toSide":"right"},
-		{"id":"86cd7cfc5b9b3ad9","fromNode":"4c7f998711f74b9d","fromSide":"left","toNode":"bd88ce71865e200a","toSide":"right"}
+		{"id":"c68660da1a22cc32","fromNode":"4c7f998711f74b9d","fromSide":"right","toNode":"7bc8dd407c3f9075","toSide":"left"}
 	]
 }
