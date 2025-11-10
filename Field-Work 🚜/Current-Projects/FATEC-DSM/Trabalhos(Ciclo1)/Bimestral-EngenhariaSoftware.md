@@ -1,5 +1,3 @@
-Imagina que você nunca viu nada de engenharia de software — nem as palavras. Vamos dar os primeiros passos juntos, como se fôssemos iniciantes totais.
-
 ## **1. Entendendo do zero: O que é Engenharia de Software?**
 Engenharia de software é, basicamente, o jeito organizado de criar programas para computador, seguindo regras, para garantir que o resultado seja **útil, confiável e valha o investimento**. Pense nela como **a construção de uma casa**:
 

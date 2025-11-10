@@ -35,24 +35,17 @@
             "id": "9114d5ada3ed5224",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana3/Dia 5.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "SeedBed 🌱/INFRAESTRUTURA-DEVOPS.canvas",
+                "viewState": {
+                  "x": 446.8172405011891,
+                  "y": -289.74367866901304,
+                  "zoom": -1.1594548955640733
                 }
               },
-              "icon": "lucide-file",
-              "title": "Dia 5"
+              "icon": "lucide-layout-dashboard",
+              "title": "INFRAESTRUTURA-DEVOPS"
             }
           }
         ],
@@ -193,32 +186,32 @@
   },
   "active": "9114d5ada3ed5224",
   "lastOpenFiles": [
+    "SeedBed 🌱/Docker.canvas",
+    "GreenHouse 🏡/Knowledge-Vaullt/WEB-DNS.md",
+    "Atlas 🗺️/DEVELOPER-101.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/WEB-ProtocolosDeRede.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/01-CronogramaSemanal.md",
+    "GreenHouse 🏡/Growing-Seasons/Lista de estudos.md",
+    "GreenHouse 🏡/Cultural-Observatory/IntesivaoFATEC.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/Provas-Ciclo1/ModelosEng.Software.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/Provas-Ciclo1/JusticeLeague.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/Provas-Ciclo1/DesignDigital.md",
+    "SeedBed 🌱/Daily Notes.md",
+    "SeedBed 🌱/23-08-2025.md",
+    "GreenHouse 🏡/Cultural-Observatory/Redação/Do zero à redação.md",
+    "GreenHouse 🏡/Cultural-Observatory/CINEMA/ROADMAP HISTÓRIA DOS MUSICAIS.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/Business-Rules/MVP&PoC.md",
+    "Atlas 🗺️/DOCKER.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana3/Dia 5.md",
     "Garden 🌺/O CASO TEA.md",
     "GreenHouse 🏡/Knowledge-Vaullt/Untitled.md",
     "GreenHouse 🏡/Cultural-Observatory/Games/Hades 2.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/Desenvolimento-Web.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/Algoritimos.md",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/Engenharia-Software.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/WEB-ProtocolosDeRede.md",
     "Atlas 🗺️/APIs&Protocolos.md",
     "Field-Work 🚜/Current-Projects/CINEMA!/0.Central/Planejamento.md",
     "Field-Work 🚜/Current-Projects/CINEMA!/0.Central/Diretrizes CineTab.md",
-    "Atlas 🗺️/DEVELOPER-101.md",
-    "Atlas 🗺️/GIT.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/Soft-Skills/Função VS Estetica.md",
-    "Atlas 🗺️/FITNESS HUB.md",
-    "Field-Work 🚜/Current-Projects/S.E.C.O/🎖️ Sistema de Conquistas.md",
-    "Field-Work 🚜/Current-Projects/S.E.C.O/📆 MODO HOJE.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/Modelagem-BD.md",
-    "GreenHouse 🏡/Cultural-Observatory/CINEMA/ROADMAP HISTÓRIA DOS MUSICAIS.md",
-    "Atlas 🗺️/CINEMA.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/Guia definitivo de HTML.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana 1/Dia 2.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana 1/Dia 4.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana 1/Dia 3.md",
-    "Field-Work 🚜/Current-Projects/S.E.C.O/Guia de Nutricioonal.md",
-    "Field-Work 🚜/Current-Projects/S.E.C.O/📈 DASHBOARD-PROGRESSO.md",
     "backup_git.sh",
     "Untitled"
   ]

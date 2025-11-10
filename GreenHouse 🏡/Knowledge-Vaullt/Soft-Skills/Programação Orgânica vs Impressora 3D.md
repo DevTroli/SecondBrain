@@ -38,4 +38,4 @@ A flexibilidade do método orgânico evita armadilhas comuns em projetos rígido
 #### Escolha o Solo, Não a Sementeira  
 "Projetos são como ecossistemas: precisam de tempo para respirar, adaptar-se e amadurecer. A programação orgânica é o solo fértil, onde ideias germinam em ritmo natural, enquanto a Impressora 3D é uma estufa de vidro – eficiente, mas frágil a ventos inesperados.  
 
-Na dúvida, opte pelo orgânico. Ele não elimina erros, mas os transforma em nutrientes para evolução. Lembre-se: até a árvore mais robusta começou como semente – e nenhuma semente vira madeira da noite para o dia. Seu código também não precisa."  
+Na dúvida, opte pelo orgânico. Ele não elimina erros, mas os transforma em nutrientes para evolução. Lembre-se: até a árvore mais robusta começou como semente – e nenhuma semente vira madeira da noite para o dia. Seu código também não precisa. 

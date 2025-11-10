@@ -115,3 +115,5 @@
 ## No final...
 
 Sistemas Operacionais não são apenas software - são a base civilizatória da era digital. Cada processo que escalonamos, cada byte que gerenciamos, cada driver que instalamos, contribui para manter funcionando a infraestrutura invisível que sustenta nossa sociedade conectada. Somos os guardiões de uma camada de realidade que poucos veem, mas da qual todos dependem. Sem S.Os, não haveria smartphones, servidores web, nem a própria Internet - apenas silício inerte esperando por uma alma digital.
+
+o final antes de prosseguir para o proximo conhecimento de outro area de estudo aplique um exame/teste de fixação pratico dos conhecimentos

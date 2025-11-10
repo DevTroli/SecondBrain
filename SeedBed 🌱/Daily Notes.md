@@ -1,0 +1,32 @@
+
+- [x] Analisar os cursos pra fazer no SkillsBuild e verificar os certificados para obter e aumentar minhas chances de estagio
+- [x] Fazer post no LinkedIn sobre a IBM
+- [x] Organizar os tópicos de estudos no fim de semana para semana de provas
+- [x] fazer curso.dev & o da CISCO
+- [x] Começar a fazer e documentar meu blog
+- [x] Fazer o home Page do Troli's Mind e revisar o fluxo de uso dele
+- [x] Fazer o DevOps setup do trolismind (Docker, GitHub Actions e Vercel) 
+- [x] Fazer aula do SkillsBuilds IBM
+- [x] Montar a estrutura do google docs
+- [x] Verificar andamento do trabalho de S.OH
+- [x] Ver como funciona isso de C# e dotnet no meu nvim e terminal
+- [x] Estudar sobre algoritmos, fluxograma e aplicação disso no código
+- [x] Fazer Exercícios de algoritmos: IMC & real-dólar (3 formas diversas)
+- [x] Retomar estudos e praticas com java
+- [x] Terminar exercicios de logica atuais e começar os de repetições
+- [x] Aprender sobre Redes com o Akita
+- [x] Escrever e praticar sobre meus estudos de redes
+- [x] Ler e resumir apostila de redes do prof.Fabio
+- [x] Verificr andamento do trabalho do Galvã
+- [ ] Finalizar Trabalho do Galvão
+- [ ] Treinar no sqlbold.com e LiveSQL minhas habilidades de SQL
+- [ ] Fazer os estudos sobre Introdução a Java & C#
+- [ ] Planejar Projeto de Acupuntura da Dani
+- [ ] Estudar para a matéria do Fábio
+- [ ] Dar seguimento ao curso.dev & trolismind
+- [ ] (Sales-Software) Arrumar o Banco de dados do railway para NEON
+- [ ] Atualizar meu GitHub & Linkedin
+- [x] Fazer o trabalho dos Modelos de Engenharia de Software
+- [x] Concluir o trabalho de Design-Digital
+- [x] Estudar provas da Simone -> Galvão -> Andrea -> Fabio -> Eulaliane
+

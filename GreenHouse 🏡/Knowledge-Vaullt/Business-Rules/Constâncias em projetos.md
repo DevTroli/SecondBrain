@@ -56,7 +56,7 @@ Quando você acha que uma tarefa é "insignificante", está comparando seu **con
   *"Hoje resolvi um bug que travava o projeto há semanas"* vale mais que *"Terminei 10% do app"*.  
 
 
-#### Seu Cérebro é um RPG**  
+#### Seu Cérebro é um RPG 
 "Imagine seu projeto como um jogo de RPG. Você não enfrenta o dragão no nível 1 – primeiro coleta poções, derrota esqueletos e aprimora a espada. Cada microtarefa é um *XP* (experiência) que sobe seu nível de disciplina.  
 
 Desapontar seu cérebro? É só uma *cutscene* chata antes da próxima missão épica. A decepção futura, porém, é o *game over* que apaga seu save.  

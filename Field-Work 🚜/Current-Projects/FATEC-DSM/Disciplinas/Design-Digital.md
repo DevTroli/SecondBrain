@@ -7,27 +7,71 @@
 - Princípios universais: forma, função e estética
 - **Base/Por que começar:** Sem entender o que é design, não podemos compreender suas especializações digitais
 
-### 🖼️ **Capítulo 2: Identidade Visual - A Linguagem das Marcas**
+### ✍️ **Capítulo 2: Tipografia - A Voz Visual das Palavras**
+**[[DSM-Tipografia|Da Revolução de Gutenberg ao Design Digital]]**
+- **A Anatomia da Comunicação Escrita:**
+  - Definição: conjunto de letras (maiúsculas/minúsculas), números e caracteres especiais
+  - Legado de Gutenberg: a primeira sistematização tipográfica da história
+  - Tipografia como ponte entre conteúdo e emoção
+- **As Variações que Definem Personalidade:**
+  - Peso: da leveza à densidade visual
+  - Proporção: compacta, normal ou expandida
+  - Ângulo: inclinações que transmitem movimento
+  - Textura: lisas, rugosas, decorativas
+- **Famílias Tipográficas como Sistemas:**
+  - Serif: tradição e autoridade
+  - Sans-serif: modernidade e clareza
+  - Display: expressão e impacto
+  - Monospace: técnica e precisão
+- **Meta-reflexão:** "Como 26 letras podem carregar toda a personalidade de uma marca?"
+### 🌈 **Capítulo 3: Cores - A Linguagem Emocional Universal**
+**[[DSM-TeoriaCores|Axiomas, Psicologia e Aplicação Cromática]]**
+- **Os Axiomas Fundamentais das Cores:**
+  - Matiz: a identidade pura da cor
+  - Saturação: intensidade emocional
+  - Luminosidade: peso visual e hierarquia
+- **Psicologia Cromática Aplicada:**
+  - Vermelho: urgência, paixão, alerta
+  - Azul: confiança, serenidade, tecnologia
+  - Verde: natureza, crescimento, harmonia
+  - Como culturas interpretam cores diferentemente
+- **Sistemas de Cores no Design:**
+  - RGB: a luz digital (telas)
+  - CMYK: pigmentação física (impressão)
+  - Pantone: precisão cromática universal
+  - Hexadecimal: linguagem web
+- **Paletas e Esquemas Cromáticos:**
+  - Monocromático: elegância na simplicidade
+  - Complementar: contraste e energia
+  - Análogo: harmonia natural
+  - Tríade: equilíbrio dinâmico
+- **Estratégia Cromática:** Como escolher cores que sirvam ao propósito
+
+**Conexão entre as coisas:** Como cor e tipografia criam a primeira impressão de qualquer design
+
+
+### 🖼️ **Capítulo 4: Identidade Visual - A Linguagem das Marcas**
 **[[DSM-IdentidadeVisual|Identidade Visual e Sistemas de Marca]]**
 - **Anatomia da Identidade Visual:**
-  - Isotipo: símbolo gráfico independente
-  - Logotipo: representação tipográfica da marca
-  - Imagotipo: símbolo + texto (elementos separados)
-  - Isologo: símbolo + texto (elementos integrados)
+	Isotipo: símbolo gráfico independente
+	Logotipo: representação tipográfica da marca
+	Imagotipo: símbolo + texto (elementos separados)
+	Isologo: símbolo + texto (elementos integrados)
 - **Tipologias de Logos:**
-  - Abstract: formas abstratas que evocam conceitos
-  - Mascot: personagens que humanizam a marca
-  - Letter: iniciais estilizadas
-  - Word: nome da marca como elemento visual
-  - Combination: múltiplos elementos integrados
-  - Emblem: design tradicional com brasão/selo
+	 Abstract: formas abstratas que evocam conceitos
+	 Mascot: personagens que humanizam a marca
+	 Letter: iniciais estilizadas
+	 Word: nome da marca como elemento visual
+	 Combination: múltiplos elementos integrados
+	 Emblem: design tradicional com brasão/selo
 - **A Profundidade Oculta das Marcas:**
-  - Origem: contexto histórico e cultural
-  - Mensagem: valores e promessa de marca
-  - Finalidade: objetivos estratégicos e posicionamento
-- **Conexão:** Como símbolos simples carregam universos complexos de significado
+	 Origem: contexto histórico e cultural
+	 Mensagem: valores e promessa de marca
+	 Finalidade: objetivos estratégicos e posicionamento
 
-### 🌈 **Capítulo 3: A Evolução Cromática da Sociedade**
+**Conexão:** Como símbolos simples carregam universos complexos de significado
+
+### 🌈 **Capítulo 5: A Evolução Cromática da Sociedade**
 **[[DSM-EvoluçãoCores|Do Colorido ao Minimalismo: 100 Anos de Transformação Visual]]**
 - **A Era Dourada das Cores (1920-1980):**
   - Abundância cromática na publicidade e produtos
@@ -43,7 +87,7 @@
   - **Meta-reflexão:** Estamos perdendo nossa humanidade visual em nome da "elegância"?
 - **Ponte:** Como a identidade visual reflete e molda nossa percepção cultural
 
-### 🧩 **Capítulo 4: O Digital Transformando o Design**
+### 🧩 **Capítulo 6: O Digital Transformando o Design**
 **[[DSM-DesignDigital|Design Digital]]**
 - O que define algo como "design digital" (feito de dígitos)
 - Diferenças entre design físico e digital
@@ -51,14 +95,14 @@
 - **Como identidades visuais se adaptam aos meios digitais**
 - **Conexão:** Como os fundamentos tradicionais se adaptam ao meio digital
 
-### ⚙️ **Capítulo 5: Tipologias do Design**
+### ⚙️ **Capítulo 7: Tipologias do Design**
 **[[DSM-TiposDesign|Tipos de design]]**
 - Design Gráfico: comunicação visual e identidade
 - Design de Produto: objetos físicos e funcionais
 - Design Digital: interfaces, experiências e sistemas
 - **Progressão:** Da comunicação visual aos sistemas interativos complexos
 
-### 🔧 **Capítulo 6: UI & UX - A Dualidade da Experiência**
+### 🔧 **Capítulo 8: UI & UX - A Dualidade da Experiência**
 **[[DSM-UI&UX|Conhecendo sobre UI & UX]]**
 - User Interface (UI): a camada visual e interativa
 - User Experience (UX): a jornada completa do usuário
@@ -66,14 +110,14 @@
 - **Como identidade visual impacta na experiência do usuário**
 - **Fundamento:** A base científica de como humanos processam informação e tomam decisões
 
-### 🏗️ **Capítulo 7: Áreas de Atuação do Designer**
+### 🏗️ **Capítulo 9: Áreas de Atuação do Designer**
 **[[DSM-VidaDesigner|Mercado de trabalho para designers]]**
 - Especialidades emergentes: service design, design systems, brand design
 - Mercado tradicional vs. mercado digital
 - O designer como estrategista de experiência e identidade
 - **Ponte:** Como conhecimento teórico se transforma em carreiras práticas
 
-### 🌟 **Capítulo 8: Design e Sociedade Digital**
+### 🌟 **Capítulo 10: Design e Sociedade Digital**
 **[[DSM-DesignSociedade|Design e Sociedade Digital]]**
 - Black Mirror: quando o design manipula comportamento
 - Dilema das Redes Sociais: design viciante e ética

@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "f3a97bf3a6fd5564",
+        "id": "e2d2aa11f3f302b6",
         "type": "tabs",
         "children": [
           {
-            "id": "2716e2f8b5bebe09",
+            "id": "8b6f026cc7aa183c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "GreenHouse 🏡/Knowledge-Vaullt/JAVA.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "JAVA"
             }
           }
         ]
@@ -90,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Field-Work 🚜/Current-Projects/Anti-Vic.md",
+                "file": "Field-Work 🚜/Current-Projects/FATEC-DSM/Trabalhos(Ciclo1)/AtividadeAlgoritmo&Logica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Anti-Vic"
+              "title": "Links inversos para AtividadeAlgoritmo&Logica"
             }
           },
           {
@@ -109,11 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Field-Work 🚜/Current-Projects/FATEC-DSM/Trabalhos(Ciclo1)/AtividadeAlgoritmo&Logica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para AtividadeAlgoritmo&Logica"
             }
           },
           {
@@ -167,52 +182,53 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2716e2f8b5bebe09",
+  "active": "8b6f026cc7aa183c",
   "lastOpenFiles": [
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/Engenharia-Software.md",
-    "GreenHouse 🏡/Growing-Seasons/VISITA-IBM.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana4/Dia 1.md",
-    "SeedBed 🌱/23-08-2025.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-EngModelagem.md",
-    "SeedBed 🌱/sla.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/Sistemas-Operacionais.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-Sincronizacao.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-Deadlock.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-ThreadsEscalonamento.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Trabalhos(Ciclo1)/Bimestral-EngenhariaSoftware.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana4",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Trabalhos(Ciclo1)/Semestral-EngenhariaSoftware.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Trabalhos(Ciclo1)/Bimestral-BancoDados(ciclo1).md",
-    "Garden 🌺/LowCode-NoCode.md",
-    "Garden 🌺/\"Como Lidar com mulheres\".md",
-    "GreenHouse 🏡/Knowledge-Vaullt/Business-Rules/MVP&PoC.md",
-    "GreenHouse 🏡/Growing-Seasons/Do Zero ao Primeiro Passo.md",
-    "Garden 🌺/Comunidades cinéfilas online.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/Brainstorm 🌪️/Capital Social Digital.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/Brainstorm 🌪️/DSM.md",
-    "GreenHouse 🏡/Growing-Seasons/Lista de estudos.md",
-    "SeedBed 🌱/REST_API.canvas",
-    "SeedBed 🌱/NVIM-ZERO2HERO.canvas",
-    "SeedBed 🌱/INFRAESTRUTURA-DEVOPS.canvas",
+    "SeedBed 🌱/Daily Notes.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/JAVA.md",
+    "SeedBed 🌱/java.canvas",
+    "SeedBed 🌱/java.canvas~",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Trabalhos(Ciclo1)/TrabalhoSemestral-S.O.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/OS-DisplayManagers.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/OS-ArchWay.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/OS-FileSystem.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/OS-Fonts.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/OS-InterfaceGrafica.md",
+    "GreenHouse 🏡/Active-Experiments/Manual-InstalaçãoArchLinux.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-EstruturaRepeticao.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/Algoritmos.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Trabalhos(Ciclo1)/AtividadeAlgoritmo&Logica.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-IntrouducaoAlgoritmosLogica.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-DesenvolvimentoAlgoritmico.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/DSM-EstruturaCondicional.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/_MConverter.eu_Atividades_Logica_Programacao_Estruturas - Lista 1.md",
+    "GreenHouse 🏡/Knowledge-Vaullt/Brainstorm 🌪️/Aprendendo Algoritmos com humor.md",
     "SeedBed 🌱/GIT.canvas",
+    "SeedBed 🌱/REST_API.canvas",
+    "SeedBed 🌱/REST-ARCHTECTURE_TWITTER.canvas",
+    "SeedBed 🌱/DEVELOPER-101.canvas",
     "SeedBed 🌱/Django.canvas",
     "SeedBed 🌱/Docker.canvas",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana3/Dia 3&4.md",
-    "SeedBed 🌱/REST-ARCHTECTURE_TWITTER.canvas",
+    "GreenHouse 🏡/Active-Experiments/Manual-SQL.md",
+    "GreenHouse 🏡/Active-Experiments/Manual-Protótipos(design).md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/Modelagem-BD.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/DSM-IntoducaoRedes.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/Redes.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/01-CronogramaSemanal.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas/Design-Digital.md",
+    "GreenHouse 🏡/Growing-Seasons/VISITA-IBM.md",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Trabalhos(Ciclo1)/Bimestral-EngenhariaSoftware.md",
+    "SeedBed 🌱/INFRAESTRUTURA-DEVOPS.canvas",
+    "GreenHouse 🏡/Cultural-Observatory/CINEMA/Animes",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações/Provas-Ciclo1",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana5",
+    "Field-Work 🚜/Current-Projects/TrolisMind",
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana4",
+    "SeedBed 🌱/NVIM-ZERO2HERO.canvas",
     "SeedBed 🌱/Quando-Anotar.canvas",
-    "SeedBed 🌱/Recados-DSM.md",
-    "GreenHouse 🏡/Knowledge-Vaullt/Guia definitivo de HTML.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana3/Dia 5.md",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana3/Dia 1.md",
-    "SeedBed 🌱/DEVELOPER-101.canvas",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana3",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Trabalhos(Ciclo1)",
     "Field-Work 🚜/Current-Projects/FATEC-DSM/Anotações",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana2",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Disciplinas",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Professores",
-    "backup_git.sh",
-    "Untitled",
-    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana1"
+    "Field-Work 🚜/Current-Projects/FATEC-DSM/Semana2"
   ]
 }

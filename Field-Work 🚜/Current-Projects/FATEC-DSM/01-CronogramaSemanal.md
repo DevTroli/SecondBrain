@@ -23,11 +23,11 @@ Este cronograma representa sua estrutura base para os próximos meses. Cada disc
 | 16:50-18:30 | Design Digital | Andrea    | Lab06 | 🎨 Prático |
 
 ### Quarta
-| Horário     | Disciplina      | Prof     | Local | Tipo       |
-| ----------- | --------------- | -------- | ----- | ---------- |
-| 13:10-14:50 |                 |          |       |            |
-| 15:00-16:40 | Algoritmos      | PSS      | Lab03 | 💻 Prático |
-| 16:50-18:30 | Algoritmos      | PSS      | Lab03 | 💻 Prático |
+| Horário     | Disciplina | Prof | Local | Tipo       |
+| ----------- | ---------- | ---- | ----- | ---------- |
+| 13:10-14:50 |            |      |       |            |
+| 15:00-16:40 | Algoritmos | PSS  | Lab03 | 💻 Prático |
+| 16:50-18:30 | Algoritmos | PSS  | Lab03 | 💻 Prático |
 
 ### Quinta  
 | Horário     | Disciplina      | Prof   | Local | Tipo       |

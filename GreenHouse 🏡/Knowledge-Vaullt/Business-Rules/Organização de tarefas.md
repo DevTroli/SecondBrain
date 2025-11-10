@@ -51,6 +51,6 @@ Seu cérebro adora falsas dicotomias:
 **A chave é a consistência**, não a intensidade. Um projeto de 1000 horas começa com 1 hora bem executada.  
 
 #### **Pontando os pingos nos " I "**  
-"Produtividade não é sobre quantas horas você queima, mas quantas **faíscas você acende**. O mito do *‘trabalhar pouco e ganhar muito’* só se torna real quando você troca a ansiedade do ‘tudo agora’ pela matemática fria do **pouco consistente**.  
+"Produtividade não é sobre quantas horas você queima, mas quantas **faíscas você acende**. O mito do *‘trabalhar pouco e ganhar muito’* só se torna real quando você troca a ansiedade do ‘tudo agora’ pela matemática fria do **pouco consistente**."
 
-Lembre-se: até a Netflix começou alugando DVDs por correio. Seu projeto também não precisa nascer revolucionário – só precisa nascer. O resto é ajuste de rota, um bug de cada vez."  
+Lembre-se: até a Netflix começou alugando DVDs por correio. Seu projeto também não precisa nascer revolucionário – só precisa nascer. O resto é ajuste de rota, um bug de cada vez.  
